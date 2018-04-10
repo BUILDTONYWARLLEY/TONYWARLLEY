@@ -43,8 +43,8 @@ favoritesFile = os.path.join(addon_data_dir, 'favorites.txt')
 if not (os.path.isfile(favoritesFile)):
 	common.SaveList(favoritesFile, [])
 	
-makeGroups = "false"
-URLP="http://buildtonywarlley.000webhostapp.com/"
+makeGroups = "true"
+URLP="http://buildtonywarlley.000webhostapp.com"
 #URLP="http://localhost:8080/"
 URLNC=URLP+"nc/"
 	
