@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting label="[B][COLOR white]Onde baixar:[/COLOR][/B]" type="text" /> 
+	<setting label="[COLOR yellow]http://buildtonywarlley.000webhostapp.com[/COLOR]" type="text" />
+	<setting label="" type="sep" />
+	<setting label="[B][COLOR white]REPO[/COLOR][/B]" type="text" /> 
+	<setting label="[COLOR blue]http://buildtonywarlley.000webhostapp.com" type="text" />
+	<setting id="makeGroups" type="text" label="30036" default="true" visible="false"/>
+	<setting id="Cat" label="cat" type="text" default="0" visible="false" />
+	<setting label="" type="sep" />
+	<setting id="actDelFavourites" type="action" label="Limpar todos os Favoritos" action="RunPlugin(plugin://plugin.video.TONYWARLLEY/default.py?mode=39&url=settings)" option="close"/>
+	<setting id="cPage" label="Page" type="text" default="0" visible="false" />
+</settings>
