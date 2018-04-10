@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import urllib, urlparse, sys, xbmcplugin ,xbmcgui, xbmcaddon, xbmc, os, json, hashlib, re, urllib2, htmlentitydefs
 
-Versao = "18.04.08b"
+Versao = "1.0"
 
 AddonID = 'plugin.video.TONYWARLLEY'
 Addon = xbmcaddon.Addon(AddonID)
@@ -44,7 +44,7 @@ if not (os.path.isfile(favoritesFile)):
 	common.SaveList(favoritesFile, [])
 	
 makeGroups = "true"
-URLP="http://cubeplay.000webhostapp.com/"
+URLP="http://buildtonywarlley.000webhostapp.com/"
 #URLP="http://localhost:8080/"
 URLNC=URLP+"nc/"
 	
@@ -67,7 +67,7 @@ def Categories(): #70
 		AddDir("Server NETCINE offline, tente novamente em alguns minutos" , "setting", 50, "", "", 0, cacheMin = "0", isFolder=False)
 	AddDir("[COLOR lughtgray][B][Filmes por genero]:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", "https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", isFolder=False)
 	try:
-		uversao = urllib2.urlopen( "https://raw.githubusercontent.com/RH1CK/CubePlay/master/version.txt" ).read().replace('\n','').replace('\r','')
+		uversao = urllib2.urlopen( "https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/version.txt" ).read().replace('\n','').replace('\r','')
 		if uversao != Versao:
 			Update()
 			xbmc.executebuiltin("XBMC.Container.Refresh()")
@@ -602,7 +602,7 @@ def ToggleNext(url, background):
 
 def CheckUpdate(): #200
 	try:
-		uversao = urllib2.urlopen( "https://raw.githubusercontent.com/RH1CK/CubePlay/master/version.txt" ).read().replace('\n','').replace('\r','')
+		uversao = urllib2.urlopen( "https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/version.txt" ).read().replace('\n','').replace('\r','')
 		if uversao != Versao:
 			Update()
 			xbmc.executebuiltin("XBMC.Container.Refresh()")
@@ -615,7 +615,7 @@ def CheckUpdate(): #200
 def Update():
 	Path = xbmc.translatePath( xbmcaddon.Addon().getAddonInfo('path') ).decode("utf-8")
 	try:
-		fonte = urllib2.urlopen( "https://raw.githubusercontent.com/RH1CK/CubePlay/master/default.py" ).read().replace('\n','')
+		fonte = urllib2.urlopen( "https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/default.py" ).read().replace('\n','')
 		prog = re.compile('#checkintegrity25852').findall(fonte)
 		if prog:
 			#dialog.ok('TONYWARLLEY', str( prog ))
@@ -626,7 +626,7 @@ def Update():
 	except urllib2.URLError, e:
 		fonte = ""
 	try:
-		fonte = urllib2.urlopen( "https://raw.githubusercontent.com/RH1CK/CubePlay/master/resources/settings.xml" ).read().replace('\n','')
+		fonte = urllib2.urlopen( "https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/resources/settings.xml" ).read().replace('\n','')
 		prog = re.compile('</settings>').findall(fonte)
 		if prog:
 			py = os.path.join( Path, "resources/settings.xml")
@@ -644,7 +644,7 @@ def Update():
 #	ret = xbmcgui.Dialog().ok('TONYWARLLEY', 'Addon atualizado para a ultima versao')
 #	if ret:
 #		zip = os.path.join( Path, "default.py")
-#		f = urllib.urlopen("https://raw.githubusercontent.com/RH1CK/CubePlay/master/default.py")
+#		f = urllib.urlopen("https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/default.py")
 #		with open(zip, "wb") as subFile:
 #			subFile.write(f.read())
 #			subFile.close()
