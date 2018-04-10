@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.TONYWARLLEY" name="[COLOR lightgray].TONYWARLLEY.[/COLOR]" version="V.1.0" provider-name="@tonywarlley">
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <news>
+Add-on TONYWARLLEY - PROIBIDA a CÓPIA e REPRODUÇÃO ou VENDA. doações entre em contato: tony_wpb@hotmail.com
+        </news>
+    <summary lang="en">Add-on TONYWARLLEY</summary>
+    <description lang="en">By TONYWARLLEY V.1.0
+http://youtube.com/tonywarlley
+Proibida a Cópia ou Venda.
+Se gostou não esqueça de se Inscrever e Deixar o LIKE ! 
+Se quiser fazer uma doação com qlq quantia já é Bem Vindo, e ajuda bastante!!!
+
+CAIXA ECONÔMICA FEDERAL
+TONY W P BORDINI
+Ag: 2485
+Operação: 013
+Conta 9.461-2
+
+Lista IPTV Premium:
+Grupo Whatsapp
+http://bit.ly/IPTVpremium</description>
+    <platform>all</platform>
+	    <news>Add-on TONYWARLLEY - PROIBIDA a CÓPIA e REPRODUÇÃO ou VENDA. doações entre em contato: tony_wpb@hotmail.com</news>
+  </extension>
+</addon>
