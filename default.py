@@ -44,7 +44,7 @@ if not (os.path.isfile(favoritesFile)):
 	common.SaveList(favoritesFile, [])
 	
 makeGroups = "true"
-URLP="http://buildtonywarlley.000webhostapp.com/"
+URLP="http://cubeplay.000webhostapp.com/"
 #URLP="http://localhost:8080/"
 URLNC=URLP+"nc/"
 	
