@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+<channel>
+"<name>[B][COLOR deepskyblue]AGENDA DESPORTIVA
+TEAMBLUE[/B][/COLOR]</name>"
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/AGENDA.png</thumbnail>
+</subitem>
+</item>
+<item>
+"<title>[B][COLOR deepskyblue]AGENDA DESPORTIVA
+TEAMBLUE[/B][/COLOR]</title>"
+<link>http://ignorame</link>
+<externallink>http://teamblue.rudigualter.pt/teamblue/LISTASKodi/M01_LISTA01_AGENDA.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/AGENDA.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/AGENDA.jpg</fanart>
+"<info>Agenda com os Eventos Desportivos que passam no TeamBlue Live Events
+Teamblue Live Events schedule.</info>"
+</item>
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]REPLAYS[/B][/COLOR]</name>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/REPLAYS.png</thumbnail>
+</subitem>
+</item>
+<item>
+<title>[B][COLOR deepskyblue]REPLAYS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://teamblue.rudigualter.pt/teamblue/LISTASKodi/M01_M02_DESPORTO.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/REPLAYS.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/REPLAYS.jpg</fanart>
+"<info>Secção dedicada a repetições de eventos ou programas desportivos.
+Sport events/programs repetitions.</info>"
+</item>
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]CANAIS DE TV[/B][/COLOR]</name>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/CANAISTV.png</thumbnail>
+</subitem>
+</item>
+<item>
+<title>[B][COLOR deepskyblue]CANAIS DE TV[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/M01_M03_CANAISTV.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/CANAISTV.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/CANAISTV.jpg</fanart>
+"<info>Canais que passam na TV Portuguesa (e não só).
+Tv channels by country.</info>"
+</item>
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]KIDS ZONE[/B][/COLOR]</name>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/KIDSZONEICO.png</thumbnail>
+</subitem>
+</item>
+<item>
+<title>[B][COLOR deepskyblue]KIDS ZONE[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://teamblue.rudigualter.pt/teamblue/LISTASKodi/M01_LISTA04_KIDS_ZONE.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/KIDSZONEICO.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/KIDSZONEFANART.jpg</fanart>
+<info>Secção dedicada à pequenada</info>
+</item>
+<channels>
+<channel>
+"<name>[B][COLOR deepskyblue]ACESTREAMS SPORTS
+[B][COLOR red]Plugin PLEXUS[/B][/COLOR]</name>"
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/ACESTREAMS.png</thumbnail>
+</subitem>
+</item>
+<item>
+"<title>[B][COLOR deepskyblue]ACESTREAMS SPORTS
+[B][COLOR red]Plugin PLEXUS[/B][/COLOR]</title>"
+<link>http://ignorame</link>
+<externallink>http://teamblue.rudigualter.pt/teamblue/LISTASKodi/M01_LISTA05_ARENAVISION.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/ACESTREAMS.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/ACESTREAMS.jpg</fanart>
+"<info>Canais Acestreams (é necessário o plugin.video.Plexus)
+Acestreams channels (plugin.video.Plexus needed)</info>"
+</item>
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]CINEMA EM CASA[/B][/COLOR]</name>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/CINEMA.png</thumbnail>
+</subitem>
+</item>
+<item>
+<title>[B][COLOR deepskyblue]CINEMA EM CASA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://teamblue.rudigualter.pt/teamblue/LISTASKodi/M01_M06_CINEMA.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/CINEMA.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/CINEMA.jpg</fanart>
+"<info>Filmes para ver sentado no sofá.
+Films.</info>"
+</item>
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]MUSIC SHOWS[/B][/COLOR]</name>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/MUSICSHOWS.png</thumbnail>
+</subitem>
+</item>
+<item>
+<title>[B][COLOR deepskyblue]MUSIC SHOWS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://teamblue.rudigualter.pt/teamblue/LISTASKodi/M01_LISTA07_MUSICSHOWS.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/MUSICSHOWS.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/MUSICSHOWS.jpg</fanart>
+<info>Concertos</info>
+</item>
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]RADIOS[/B][/COLOR]</name>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/RADIOS.png</thumbnail>
+</subitem>
+</item>
+<item>
+<title>[B][COLOR deepskyblue]RADIOS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://teamblue.rudigualter.pt/teamblue/LISTASKodi/M01_LISTA08_RADIOS.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/RADIOS.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/RADIOS.jpg</fanart>
+<info>Radios em direto</info>
+</item>
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]WEBCAM's[/B][/COLOR]</name>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/WEBCAMS.png</thumbnail>
+</subitem>
+</item>
+<item>
+<title>[B][COLOR deepskyblue]WEBCAM's[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://teamblue.rudigualter.pt/teamblue/LISTASKodi/M01_M09_WEBCAMS.xml</externallink>
+<thumbnail>http://teamblue.rudigualter.pt/teamblue/ICO/WEBCAMS.png</thumbnail>
+<fanart>http://teamblue.rudigualter.pt/teamblue/FAN/WEBCAMS.jpg</fanart>
+<info>WebCam's espalhadas pelo mundo</info>
+</item>
+Copyright © 2018 - TeamBlue
