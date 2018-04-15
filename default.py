@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import urllib, urlparse, sys, xbmcplugin ,xbmcgui, xbmcaddon, xbmc, os, json, hashlib, re, urllib2, htmlentitydefs
 
-Versao = "18.04.15"
+Versao = "v.1.0"
 
 AddonID = 'plugin.video.TONYWARLLEY'
 Addon = xbmcaddon.Addon(AddonID)
