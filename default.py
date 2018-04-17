@@ -51,7 +51,7 @@ if not (os.path.isfile(historicFile)):
 	common.SaveList(historicFile, [])
 	
 makeGroups = "true"
-URLP="http://buildtonywarlley.000webhostapp.com"
+URLP="http://127.0.0.1:8080"
 #URLP="http://localhost:8080/"
 URLNC=URLP+"nc/"
 	
