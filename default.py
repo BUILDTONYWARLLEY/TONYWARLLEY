@@ -50,8 +50,8 @@ if not (os.path.isfile(favoritesFile)):
 if not (os.path.isfile(historicFile)):
 	common.SaveList(historicFile, [])
 	
-makeGroups = "false"
-URLP="http://buildtonywarlley.000webhostapp.com/"
+makeGroups = "True"
+URLP="http://buildtonywarlley.000webhostapp.com"
 #URLP="http://localhost:8080/"
 URLNC=URLP+"nc/"
 	
