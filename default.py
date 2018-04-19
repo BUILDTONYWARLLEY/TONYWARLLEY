@@ -143,7 +143,7 @@ def MoviesRCD(): #90 Filme dublado
 	try:
 		p= 1
 		if int(cPage) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPage) ) +"[/B]][/COLOR]", cPage , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPage")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPage) ) +"[/B]][/COLOR]", cPage , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPage")
 		l= int(cPage)*5
 		for x in range(0, 5):
 			l +=1
@@ -156,7 +156,7 @@ def MoviesRCD(): #90 Filme dublado
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPage) + 2) +"[/B]][/COLOR]", cPage , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPage")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPage) + 2) +"[/B]][/COLOR]", cPage , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPage")
 	except e:
 		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0, cacheMin = "0")
 def MoviesRCL(): #91 Filme Legendado
@@ -164,7 +164,7 @@ def MoviesRCL(): #91 Filme Legendado
 	try:
 		p= 1
 		if int(cPageleg) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPageleg) ) +"[/B]][/COLOR]", cPageleg , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPageleg")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPageleg) ) +"[/B]][/COLOR]", cPageleg , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPageleg")
 		l= int(cPageleg)*5
 		for x in range(0, 5):
 			l +=1
@@ -177,14 +177,14 @@ def MoviesRCL(): #91 Filme Legendado
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPageleg) + 2) +"[/B]][/COLOR]", cPageleg , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPageleg")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPageleg) + 2) +"[/B]][/COLOR]", cPageleg , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPageleg")
 	except e:
 		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0, cacheMin = "0")
 def MoviesRCN(): #92 Filmes Nacional
 	try:
 		p= 1
 		if int(cPagenac) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPagenac) ) +"[/B]][/COLOR]", cPagenac , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPagenac")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPagenac) ) +"[/B]][/COLOR]", cPagenac , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPagenac")
 		l= int(cPagenac)*5
 		for x in range(0, 5):
 			l +=1
@@ -195,7 +195,7 @@ def MoviesRCN(): #92 Filmes Nacional
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPagenac) + 2) +"[/B]][/COLOR]", cPagenac , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPagenac")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPagenac) + 2) +"[/B]][/COLOR]", cPagenac , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPagenac")
 	except urllib2.URLError, e:
 		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0, cacheMin = "0")
 def PlayMRC(): #95 Play filmes
@@ -271,7 +271,7 @@ def TemporadasRC(): #135 Temporadas
 			if len(urlm) > 1:
 				urlm[1] = "http://www.redecanais.net/" + urlm[1] if "http" not in urlm[1] else urlm[1]
 				AddDir("[COLOR yellow][Dub][/COLOR] "+ name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
-				AddDir("[COLOR blue][Leg][/COLOR] "+ name3 +" "+namem ,urlm[1], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
+				AddDir("[COLOR lightgray][Leg][/COLOR] "+ name3 +" "+namem ,urlm[1], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
 			elif urlm:
 				AddDir(name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
 	#xbmcgui.Dialog().ok('Kodi', "1"))
@@ -305,7 +305,7 @@ def EpisodiosRC(x): #136 Episodios
 			if len(urlm) > 1:
 				urlm[1] = "http://www.redecanais.net/" + urlm[1] if "http" not in urlm[1] else urlm[1]
 				AddDir("[COLOR yellow][Dub][/COLOR] "+ name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
-				AddDir("[COLOR blue][Leg][/COLOR] "+ name3 +" "+namem ,urlm[1], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
+				AddDir("[COLOR lightgray][Leg][/COLOR] "+ name3 +" "+namem ,urlm[1], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
 			elif urlm:
 				AddDir(name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
 
@@ -314,7 +314,7 @@ def SeriesRC(urlrc,pagina2): #130 Lista as Series RC
 		pagina=eval(pagina2)
 		p= 1
 		if int(pagina) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background=pagina2)
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background=pagina2)
 		l= int(pagina)*5
 		for x in range(0, 5):
 			l +=1
@@ -325,7 +325,7 @@ def SeriesRC(urlrc,pagina2): #130 Lista as Series RC
 					AddDir(name2 ,url2, 135, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background=pagina2)
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background=pagina2)
 	except urllib2.URLError, e:
 		AddDir("Server error, tente novamente em alguns minutos" , url, 0, "", "", 0, cacheMin = "0")
 # ----------------- FIM REDECANAIS SERIES,ANIMES,DESENHOS
@@ -335,7 +335,7 @@ def Busca(): # 160
 	d = xbmcgui.Dialog().input("Busca (poder demorar a carregar os resultados)").replace(" ", "+")
 	try:
 		p= 1
-		AddDir("[COLOR blue][B][RedeCanais.com][/B][/COLOR]", "" , 0 ,"", isFolder=False)
+		AddDir("[COLOR lightgray][B][RedeCanais.com][/B][/COLOR]", "" , 0 ,"", isFolder=False)
 		l= 0
 		for x in range(0, 10):
 			l +=1
@@ -737,7 +737,7 @@ elif mode == 160:
 	Busca()
 	setViewM()
 elif mode == 200:
-	CheckUpdate(True)
+	CheckUpdate(False)
 
 xbmcplugin.endOfDirectory(int(sys.argv[1]))
 #checkintegrity25852
