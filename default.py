@@ -613,7 +613,7 @@ def Update():
 			file.close()
 	except urllib2.URLError, e:
 		fonte = ""
-	xbmc.executebuiltin("Notification({0}, {1}, 9000, {2})".format(AddonName, "Atualizando o addon. Aguarde um momento!", icon))
+	xbmc.executebuiltin("Notification({0}, {1}, 9000, {2})".format(AddonName, "EM BREVE", icon))
 	xbmc.sleep(2000)
 
 def study(x):
