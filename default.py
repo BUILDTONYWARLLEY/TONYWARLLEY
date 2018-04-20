@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import urllib, urlparse, sys, xbmcplugin ,xbmcgui, xbmcaddon, xbmc, os, json, hashlib, re, urllib2, htmlentitydefs
 
-Versao = "V.1.0"
+Versao = "v.1.0"
 
 AddonID = 'plugin.video.TONYWARLLEY'
 Addon = xbmcaddon.Addon(AddonID)
@@ -27,6 +27,7 @@ cPagenac = Addon.getSetting("cPagenac")
 cPageser = Addon.getSetting("cPageser")
 cPageani = Addon.getSetting("cPageani")
 cPagedes = Addon.getSetting("cPagedes")
+cPagefo1 = Addon.getSetting("cPagefo1")
 if not cadulto:
 	cPageleg = cPage
 	cPagenac = cPage
@@ -34,8 +35,11 @@ if not cadulto:
 	cPageani = cPage
 	cPagedes = cPage
 Cat = Addon.getSetting("Cat")
+Catfo = Addon.getSetting("Catfo")
 Clista=[ "todos",                     "acao", "animacao", "aventura", "comedia", "drama", "fantasia", "ficcao-cientifica", "romance", "suspense", "terror"]
 Clista2=["Sem filtro (Mostrar Todos)","Acao", "Animacao", "Aventura", "Comedia", "Drama", "Fantasia", "Ficcao-Cientifica", "Romance", "Suspense", "Terror"]
+Clistafo0=[ "0",                        "48",  "47",  "23",  "3",    "7",        "8",        "5",       "4",      "14",                "16",      "15",       "11"]
+Clistafo1=["Sem filtro (Mostrar Todos)","2018","2017","2016","Ação", "Animação", "Aventura", "Comédia", "Drama",  "Ficção-Científica", "Romance", "Suspense", "Terror"]
 
 def setViewS():
 	xbmcplugin.setContent(int(sys.argv[1]), 'tvshows')
@@ -53,6 +57,7 @@ makeGroups = "true"
 URLP="http://buildtonywarlley.000webhostapp.com/"
 #URLP="http://localhost:8080/"
 URLNC=URLP+"nc/"
+URLFO=URLP+"fo/"
 	
 def getLocaleString(id):
 	return Addon.getLocalizedString(id).encode('utf-8')
@@ -64,15 +69,15 @@ def Categories(): #70
 	AddDir("[COLOR lightgray][B]Filmes Dublados[/B][/COLOR]" , cPage, 90, "http://i67.tinypic.com/2mnojkn.jpg", "http://i67.tinypic.com/2mnojkn.jpg", background="cPage")
 	AddDir("[COLOR lightgray][B]Filmes Legendados[/B][/COLOR]" , cPageleg, 91, "http://i67.tinypic.com/34xg6s7.jpg", "http://i67.tinypic.com/34xg6s7.jpg", background="cPageleg")
 	AddDir("[COLOR lightgray][B]Filmes Nacionais[/B][/COLOR]" , cPagenac, 92, "http://i68.tinypic.com/rvzp8l.jpg", "http://i68.tinypic.com/rvzp8l.jpg", background="cPagenac")
-	AddDir("[COLOR lightgray][B]Séries[/B][/COLOR]" , cPageser, 130, "http://i67.tinypic.com/33ng6cl.jpg", "http://i67.tinypic.com/33ng6cl.jpg", background="cPageser")
+	AddDir("[COLOR blue][B][Séries RedeCanais.com][/B][/COLOR]" , cPageser, 130, "http://i67.tinypic.com/33ng6cl.jpg", "http://i67.tinypic.com/33ng6cl.jpg", background="cPageser")
 
 	AddDir("[COLOR lightgray][B]Séries[/B][/COLOR]" , URLNC + "listTVshow.php", 60, "http://i67.tinypic.com/2cwx3it.jpg", "http://i67.tinypic.com/2cwx3it.jpg")
 	AddDir("[COLOR lightgray][B]Filmes[/B][/COLOR]" , URLNC + "listMovies.php", 71, "http://i66.tinypic.com/2ezh8wj.jpg", "http://i66.tinypic.com/2ezh8wj.jpg")
 
-	#AddDir("[COLOR lightgray][B]Filmes por Gênero:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", "https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", isFolder=False)
+	#AddDir("[COLOR lightgray][B]Filmes por Gênero:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"http://i67.tinypic.com/ieibdw.jpg", "http://i67.tinypic.com/ieibdw.jpg", isFolder=False)
 	AddDir("[COLOR lightgray][B]Animes[/B][/COLOR]" , cPageser, 140, "http://i66.tinypic.com/1112hc3.jpg", "http://i66.tinypic.com/1112hc3.jpg", background="cPageser")
 	AddDir("[COLOR lightgray][B]Desenhos[/B][/COLOR]" , cPageani, 150, "http://i65.tinypic.com/1qqzgz.jpg", "http://i65.tinypic.com/1qqzgz.jpg", background="cPageser")
-	# --------------  NETCINE
+# --------------  NETCINE
 def PlayS(): #62
 	try:
 		link = urllib2.urlopen(URLNC +  url).read().replace('\n','').replace('\r','')
@@ -109,7 +114,7 @@ def Series(): #60
 		AddDir("Server NETCINE offline, tente novamente em alguns minutos" , "", 0, isFolder=False)
 
 def MoviesNC(): #70
-	AddDir("[COLOR lightgray][B]Filmes por Gênero:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", "https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", isFolder=False)
+	AddDir("[COLOR lightgray][B][Filmes por Gênero]:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"http://i67.tinypic.com/ieibdw.jpg", "http://i67.tinypic.com/ieibdw.jpg", isFolder=False)
 	try:
 		link = urllib2.urlopen(url +"?cat=" + Clista[int(Cat)]).read().replace('\n','').replace('\r','')
 		match = re.compile('url="(.+?)".+?mg="(.+?)".+?ame="(.+?)"').findall(link)
@@ -139,11 +144,11 @@ def PlayM(): #79
 # --------------  FIM NETCINE
 # --------------  REDECANAIS FILMES
 def MoviesRCD(): #90 Filme dublado
-	AddDir("[COLOR lightgray][B]Filmes por Gênero:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", "https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", isFolder=False)
+	AddDir("[COLOR lightgray][B][Filmes por Gênero]:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"http://i67.tinypic.com/ieibdw.jpg", "http://i67.tinypic.com/ieibdw.jpg", isFolder=False)
 	try:
 		p= 1
 		if int(cPage) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPage) ) +"[/B]][/COLOR]", cPage , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPage")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPage) ) +"[/B]][/COLOR]", cPage , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPage")
 		l= int(cPage)*5
 		for x in range(0, 5):
 			l +=1
@@ -156,15 +161,15 @@ def MoviesRCD(): #90 Filme dublado
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPage) + 2) +"[/B]][/COLOR]", cPage , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPage")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPage) + 2) +"[/B]][/COLOR]", cPage , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPage")
 	except e:
-		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0, cacheMin = "0")
+		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
 def MoviesRCL(): #91 Filme Legendado
-	AddDir("[COLOR lightgray][B]Filmes por Gênero:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", "https://lh5.ggpht.com/gv992ET6R_InCoMXXwIbdRLJczqOHFfLxIeY-bN2nFq0r8MDe-y-cF2aWq6Qy9P_K-4=w300", isFolder=False)
+	AddDir("[COLOR lightgray][B][Filmes por Gênero]:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"http://i67.tinypic.com/ieibdw.jpg", "http://i67.tinypic.com/ieibdw.jpg", isFolder=False)
 	try:
 		p= 1
 		if int(cPageleg) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPageleg) ) +"[/B]][/COLOR]", cPageleg , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPageleg")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPageleg) ) +"[/B]][/COLOR]", cPageleg , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPageleg")
 		l= int(cPageleg)*5
 		for x in range(0, 5):
 			l +=1
@@ -177,14 +182,14 @@ def MoviesRCL(): #91 Filme Legendado
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPageleg) + 2) +"[/B]][/COLOR]", cPageleg , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPageleg")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPageleg) + 2) +"[/B]][/COLOR]", cPageleg , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPageleg")
 	except e:
-		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0, cacheMin = "0")
+		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
 def MoviesRCN(): #92 Filmes Nacional
 	try:
 		p= 1
 		if int(cPagenac) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPagenac) ) +"[/B]][/COLOR]", cPagenac , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPagenac")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPagenac) ) +"[/B]][/COLOR]", cPagenac , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPagenac")
 		l= int(cPagenac)*5
 		for x in range(0, 5):
 			l +=1
@@ -195,9 +200,9 @@ def MoviesRCN(): #92 Filmes Nacional
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPagenac) + 2) +"[/B]][/COLOR]", cPagenac , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPagenac")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPagenac) + 2) +"[/B]][/COLOR]", cPagenac , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPagenac")
 	except urllib2.URLError, e:
-		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0, cacheMin = "0")
+		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0)
 def PlayMRC(): #95 Play filmes
 	try:
 		link = common.OpenURL(url.replace("https","http"))
@@ -208,11 +213,11 @@ def PlayMRC(): #95 Play filmes
 		if player:
 			link2 = common.OpenURL(player[0])
 			urlp = re.compile('file: \"([^\"]+)\"').findall(link2)
-			AddDir("[B][COLOR yellow]"+ name +" [/COLOR][/B]"  , urlp[0] + "?play|Referer=http://www.redecanais.com/", 3, iconimage, iconimage, index=0, isFolder=False, IsPlayable=True, info=desc, background=url+";;;"+name)
+			AddDir("[B][COLOR lightgray]"+ name +" [/COLOR][/B]"  , urlp[0] + "?play|Referer=http://www.redecanais.com/", 3, iconimage, iconimage, index=0, isFolder=False, IsPlayable=True, info=desc, background=url+";;;"+name)
 		else:
 			AddDir("[B]Ocorreu um erro[/B]"  , "", 0, iconimage, iconimage, index=0, isFolder=False, IsPlayable=False, info="Erro")
 	except urllib2.URLError, e:
-		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0, cacheMin = "0")
+		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
 # ----------------- FIM REDECANAIS
 # --------------  REDECANAIS SERIES,ANIMES,DESENHOS
 def PlaySRC(): #131 Play series
@@ -270,8 +275,8 @@ def TemporadasRC(): #135 Temporadas
 				urlm[0] = "http://www.redecanais.net/" + urlm[0] if "http" not in urlm[0] else urlm[0]
 			if len(urlm) > 1:
 				urlm[1] = "http://www.redecanais.net/" + urlm[1] if "http" not in urlm[1] else urlm[1]
-				AddDir("[COLOR yellow][Dub][/COLOR] "+ name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
-				AddDir("[COLOR lightgray][Leg][/COLOR] "+ name3 +" "+namem ,urlm[1], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
+				AddDir("[COLOR lightgray][Dub][/COLOR] "+ name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
+				AddDir("[COLOR blue][Leg][/COLOR] "+ name3 +" "+namem ,urlm[1], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
 			elif urlm:
 				AddDir(name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
 	#xbmcgui.Dialog().ok('Kodi', "1"))
@@ -304,8 +309,8 @@ def EpisodiosRC(x): #136 Episodios
 				urlm[0] = "http://www.redecanais.net/" + urlm[0] if "http" not in urlm[0] else urlm[0]
 			if len(urlm) > 1:
 				urlm[1] = "http://www.redecanais.net/" + urlm[1] if "http" not in urlm[1] else urlm[1]
-				AddDir("[COLOR yellow][Dub][/COLOR] "+ name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
-				AddDir("[COLOR lightgray][Leg][/COLOR] "+ name3 +" "+namem ,urlm[1], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
+				AddDir("[COLOR lightgray][Dub][/COLOR] "+ name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
+				AddDir("[COLOR blue][Leg][/COLOR] "+ name3 +" "+namem ,urlm[1], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
 			elif urlm:
 				AddDir(name3 +" "+namem ,urlm[0], 133, iconimage, iconimage, info="", isFolder=False, IsPlayable=True)
 
@@ -314,7 +319,7 @@ def SeriesRC(urlrc,pagina2): #130 Lista as Series RC
 		pagina=eval(pagina2)
 		p= 1
 		if int(pagina) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background=pagina2)
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background=pagina2)
 		l= int(pagina)*5
 		for x in range(0, 5):
 			l +=1
@@ -325,9 +330,9 @@ def SeriesRC(urlrc,pagina2): #130 Lista as Series RC
 					AddDir(name2 ,url2, 135, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background=pagina2)
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background=pagina2)
 	except urllib2.URLError, e:
-		AddDir("Server error, tente novamente em alguns minutos" , url, 0, "", "", 0, cacheMin = "0")
+		AddDir("Server error, tente novamente em alguns minutos" , url, 0, "", "")
 # ----------------- FIM REDECANAIS SERIES,ANIMES,DESENHOS
 # ----------------- BUSCA
 def Busca(): # 160
@@ -335,7 +340,7 @@ def Busca(): # 160
 	d = xbmcgui.Dialog().input("Busca (poder demorar a carregar os resultados)").replace(" ", "+")
 	try:
 		p= 1
-		AddDir("[COLOR lightgray][B][RedeCanais.com][/B][/COLOR]", "" , 0 ,"", isFolder=False)
+		AddDir("[COLOR blue][B][RedeCanais.com][/B][/COLOR]", "" , 0 ,"", isFolder=False)
 		l= 0
 		for x in range(0, 10):
 			l +=1
@@ -352,7 +357,7 @@ def Busca(): # 160
 	except urllib2.URLError, e:
 		AddDir("Nada encontrado" , "", 0, "", "", 0)
 	try:
-		AddDir("[COLOR yellow][B][NetCine.us][/B][/COLOR]", "" , 0 ,"", isFolder=False)
+		AddDir("[COLOR lightgray][B][NetCine.us][/B][/COLOR]", "" , 0 ,"", isFolder=False)
 		link = urllib2.urlopen(URLNC+"listBusca.php?b="+d).read().replace('\n','').replace('\r','')
 		match = re.compile('url="(.+?)".+?mg="(.+?)".+?ame="(.+?)".+?ode="(.+?)"').findall(link)
 		for url2,img2,name2,mode2 in match:
@@ -363,12 +368,22 @@ def Busca(): # 160
 # ----------------- REDECANAIS TV
 def TVRC(): # 100
 	try:
+		link = urllib2.urlopen("https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/canaisredecanais.txt").read().replace('\n','').replace('\r','')
+		match = re.compile('url="(.+?)".+?mg="(.+?)".+?ame="(.+?)"').findall(link)
+		for url2,img2,name2 in match:
+			if cadulto=="8080":
+				AddDir(name2, url2, 101, img2, img2, isFolder=False, IsPlayable=True)
+			elif not "sex" in url2 and not "playboy" in url2 and not "venus" in url2:
+				AddDir(name2, url2, 101, img2, img2, isFolder=False, IsPlayable=True)
+	except urllib2.URLError, e:
+		AddDir("Server offline, tente novamente em alguns minutos" , "", 0, isFolder=False)
+def TVRC2(): # 100
+	try:
 		l= 0
 		for x in range(0, 5):
 			l +=1
 			link = common.OpenURL("http://www.redecanais.net/browse-canais-videos-"+str(l)+"-title.html")
 			match = re.compile('href=\"(https:\/\/www.redecanais[^\"]+).+?src=\"([^\"]+)\".alt=\"([^\"]+)\" wi').findall(link)
-			i= 0
 			if match:
 				for url2,img2,name2 in match:
 					try:
@@ -377,25 +392,85 @@ def TVRC(): # 100
 						name2 = name2.replace("Assistir ", "").replace(" - Online - 24 Horas - Ao Vivo", "")
 					#name2 = re.sub('&([^;]+);', lambda m: unichr(htmlentitydefs.name2codepoint[m.group(1)]), name2).encode('utf-8')
 					if cadulto=="8080":
-						AddDir(name2 ,url2, 101, img2, img2, index=i, cacheMin = "0", info="", isFolder=False, IsPlayable=True)
+						AddDir(name2 ,url2, 101, img2, img2, info="", isFolder=False, IsPlayable=True)
 					elif not "sex" in url2 and not "playboy" in url2:
-						AddDir(name2 ,url2, 101, img2, img2, index=i, cacheMin = "0", info="", isFolder=False, IsPlayable=True)
-					i += 1
+						AddDir(name2 ,url2, 101, img2, img2, info="", isFolder=False, IsPlayable=True)
 	except urllib2.URLError, e:
-		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0, cacheMin = "0")
+		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
 def PlayTVRC(): # 101
 	url2 = re.sub('(\.link|\.com|\.info)', ".net", url.replace("https","http") )
 	try:
 		link = common.OpenURL(url2)
 		player = re.compile('<iframe name=\"Player\".+src=\"([^\"]+)\"').findall(link)
 		link2 = common.OpenURL(player[0])
-		urlp = re.compile('source.+?\"(.+?m3u[^\"]+)').findall(link2)
-		#xbmcgui.Dialog().ok('TONYWARLLEY', str(urlp))
-		PlayUrl(name, urlp[0] + "?play|Referer=http://www.redecanais.com/", iconimage, name)
+		urlp = re.compile('(http[^\"]+m3u[^\"]+)').findall(link2)
+		if urlp:
+			PlayUrl(name, urlp[0] + "?play|Referer=http://www.redecanais.com/", iconimage, name)
+		else:
+			xbmcgui.Dialog().ok('TONYWARLLEY', "Erro, aguarde atualização")
 	except urllib2.URLError, e:
 		xbmcgui.Dialog().ok('TONYWARLLEY', 'Erro, tente novamente em alguns minutos')
 # ----------------- FIM REDECANAIS TV
+# ----------------- Inicio Filmes Online
+def GenerosFO(): #85
+	d = xbmcgui.Dialog().select("Escolha o Genero", Clistafo1)
+	if d != -1:
+		global Cat
+		Addon.setSetting("Catfo", str(d) )
+		Cat = d
+		Addon.setSetting("cPagefo1", "0" )
+		xbmc.executebuiltin("XBMC.Container.Refresh()")
+		
+def MoviesFO(urlfo,pagina2): #170
+	AddDir("[COLOR lightgray][B][Gênero dos Filmes]:[/B] " + Clistafo1[int(Catfo)] +"[/COLOR]", "url" ,85 ,"http://i67.tinypic.com/ieibdw.jpg", "http://i67.tinypic.com/ieibdw.jpg", isFolder=False)
+	try:
+		pagina=eval(pagina2)
+		l= int(pagina)*5
+		p= 1
+		if int(pagina) > 0:
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background=pagina2)
 
+		for x in range(0, 5):
+			l +=1
+			link = common.OpenURL("https://filmesonline.online/index.php?do=search&subaction=search&search_start="+str(l)+"&story="+urlfo+"&sortby=title&resorder=asc&catlist[]="+Clistafo0[int(Catfo)]).replace("\r","").replace("\n","")
+			link = re.sub('Novos Filmes.+', '', link)
+			m = re.compile('src=\"(.upload[^\"]+).+?alt=\"([^\"]+).+?href=\"([^\"]+)').findall(link)
+			if m:
+				#xbmcgui.Dialog().ok('TONYWARLLEY', str(m))
+				for img2,name2,url2 in m:
+					AddDir(name2, url2, 171, "https://filmesonline.online/"+img2, "https://filmesonline.online/"+img2, info="")
+					p+=1
+		if p >= 80:
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background=pagina2)
+	except urllib2.URLError, e:
+		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
+
+def PlayMFO(): #171
+	try:
+		link = common.OpenURL( url )
+		m = re.compile('href\=\"(.+?\#Rapid)').findall(link)
+		t = re.compile('class=\"titleblock\"\>\s\<h1\>([^\<]+)').findall(link)
+		i = re.compile('class=\"p-info-text\"\>\s\<span\>([^\<]+)').findall(link)
+		if m:
+			link2 = common.OpenURL( "https://filmesonline.online"+m[0] )
+			m2 = re.compile('iframe.+?src\=\"([^\"]+)').findall(link2)
+			if m2:
+				title = t[0] if t else name
+				info = i[0] if i else ""
+				link3 = common.OpenURL( "https:"+m2[0] + "?q=720p" )
+				m3 = re.compile('https[^\"]+\.mp4').findall(link3)
+				if m3:
+					AddDir( title + " (HD)" , m3[0], 3, iconimage, iconimage, isFolder=False, IsPlayable=True, info=info)
+				else:
+					link4 = common.OpenURL( "https:"+m2[0] )
+					m4 = re.compile('https[^\"]+\.mp4').findall(link4)
+					if m4:
+						AddDir( title , m4[0], 3, iconimage, iconimage, isFolder=False, IsPlayable=True, info=info)
+					else:
+						AddDir( "Video offline!" ,"", 0, "", "", isFolder=False)
+	except urllib2.URLError, e:
+		AddDir( "Video offline" ,"", 0, "", "", isFolder=False)
+# ----------------- FIM Filmes Online
 def GetChoice(choiceTitle, fileTitle, urlTitle, choiceFile, choiceUrl, choiceNone=None, fileType=1, fileMask=None, defaultText=""):
 	choice = ''
 	choiceList = [getLocaleString(choiceFile), getLocaleString(choiceUrl)]
@@ -455,6 +530,8 @@ def AddDir(name, url, mode, iconimage='', logos='', index=-1, move=0, isFolder=T
 		liz.addContextMenuItems(items = [("Add ao fav. do TONYWARLLEY", 'XBMC.RunPlugin({0}?url={1}&mode=93&iconimage={2}&name={3})'.format(sys.argv[0], urllib.quote_plus(url), urllib.quote_plus(iconimage), urllib.quote_plus(name)))])
 	elif mode== 135:
 		liz.addContextMenuItems(items = [("Add ao fav. do TONYWARLLEY", 'XBMC.RunPlugin({0}?url={1}&mode=131&iconimage={2}&name={3})'.format(sys.argv[0], urllib.quote_plus(url), urllib.quote_plus(iconimage), urllib.quote_plus(name)))])
+	elif mode== 171:
+		liz.addContextMenuItems(items = [("Add ao fav. do TONYWARLLEY", 'XBMC.RunPlugin({0}?url={1}&mode=175&iconimage={2}&name={3})'.format(sys.argv[0], urllib.quote_plus(url), urllib.quote_plus(iconimage), urllib.quote_plus(name)))])
 	if info=="Favoritos":
 		items = [("Remover dos favoritos", 'XBMC.RunPlugin({0}?index={1}&mode=33)'.format(sys.argv[0], index)),
 		(getLocaleString(30030), 'XBMC.RunPlugin({0}?index={1}&mode={2}&move=-1)'.format(sys.argv[0], index, 38)),
@@ -656,6 +733,8 @@ elif mode == 93:
 	AddFavorites(url, iconimage, name, "95", 'favorites.txt')
 elif mode == 131: 
 	AddFavorites(url, iconimage, name, "135", 'favorites.txt')
+elif mode == 175: 
+	AddFavorites(url, iconimage, name, "171", 'favorites.txt')
 elif mode == 33:
 	RemoveFromLists(index, favoritesFile)
 elif mode == 34:
@@ -736,8 +815,16 @@ elif mode == 150:
 elif mode == 160:
 	Busca()
 	setViewM()
+elif mode == 170:
+	MoviesFO("Rapidvideo","cPagefo1")
+	setViewM()
+elif mode == 171:
+	PlayMFO()
+	setViewM()
+elif mode == 85:
+	GenerosFO()
 elif mode == 200:
-	CheckUpdate(False)
+	CheckUpdate(True)
 
 xbmcplugin.endOfDirectory(int(sys.argv[1]))
 #checkintegrity25852
