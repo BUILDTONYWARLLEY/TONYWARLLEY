@@ -1,0 +1,548 @@
+
+url="https://www.redecanais.link/assistir-ae-online-24-horas-ao-vivo_045181caa.html"
+img="http://server3.redecanais.tv/imgs-videos/AeE.jpg"
+name="A&E"
+
+url="https://www.redecanais.link/assistir-amc-online-24-horas-ao-vivo_937d533e4.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20AMC.jpg"
+name="AMC"
+
+url="https://www.redecanais.link/assistir-animal-planet-online-24-horas-ao-vivo_34770ec30.html"
+img="http://server3.redecanais.tv/imgs-videos/Animal%20Planet.jpg"
+name="Animal Planet"
+
+url="https://www.redecanais.link/assistir-arte-1-online-24-horas-ao-vivo_48c4d385a.html"
+img="http://server3.redecanais.tv/imgs-videos/Arte%201.jpg"
+name="Arte 1"
+
+url="https://www.redecanais.link/assistir-axn-online-24-horas-ao-vivo_90585d867.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20AXN.jpg"
+name="AXN"
+
+url="https://www.redecanais.link/assistir-band-news-online-24-horas-ao-vivo_90b1c4208.html"
+img="http://server3.redecanais.tv/imgs-videos/Band%20News.jpg"
+name="Band News"
+
+url="https://www.redecanais.link/assistir-band-sports-online-24-horas-ao-vivo_3bf869236.html"
+img="http://server3.redecanais.tv/imgs-videos/Band%20Sports.jpg"
+name="Band Sports"
+
+url="https://www.redecanais.link/assistir-big-brother-brasil-18-bbb18-online-24-horas-ao-vivo-1080p_6371a82d8.html"
+img="http://server3.redecanais.tv/imgs-videos/BBB18.jpg"
+name="Big Brother Brasil 18 - BBB18"
+
+url="https://www.redecanais.link/assistir-bis-online-24-horas-ao-vivo_103e6898b.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20BIS.jpg"
+name="BIS"
+
+url="https://www.redecanais.link/assistir-boomerang-online-24-horas-ao-vivo_22648a214.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Boomerang.jpg"
+name="Boomerang"
+
+url="https://www.redecanais.link/assistir-canal-off-online-24-horas-ao-vivo_95e7c6539.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Off.jpg"
+name="Canal Off"
+
+url="https://www.redecanais.link/assistir-sony-online-24-horas-ao-vivo_54e4da298.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Sony.jpg"
+name="Canal Sony"
+
+url="https://www.redecanais.link/assistir-ae-online-24-horas-ao-vivo_045181caa.html"
+img="http://server3.redecanais.tv/imgs-videos/AeE.jpg"
+name="A&E"
+
+url="https://www.redecanais.link/assistir-amc-online-24-horas-ao-vivo_937d533e4.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20AMC.jpg"
+name="AMC"
+
+url="https://www.redecanais.link/assistir-animal-planet-online-24-horas-ao-vivo_34770ec30.html"
+img="http://server3.redecanais.tv/imgs-videos/Animal%20Planet.jpg"
+name="Animal Planet"
+
+url="https://www.redecanais.link/assistir-arte-1-online-24-horas-ao-vivo_48c4d385a.html"
+img="http://server3.redecanais.tv/imgs-videos/Arte%201.jpg"
+name="Arte 1"
+
+url="https://www.redecanais.link/assistir-axn-online-24-horas-ao-vivo_90585d867.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20AXN.jpg"
+name="AXN"
+
+url="https://www.redecanais.link/assistir-band-news-online-24-horas-ao-vivo_90b1c4208.html"
+img="http://server3.redecanais.tv/imgs-videos/Band%20News.jpg"
+name="Band News"
+
+url="https://www.redecanais.link/assistir-band-sports-online-24-horas-ao-vivo_3bf869236.html"
+img="http://server3.redecanais.tv/imgs-videos/Band%20Sports.jpg"
+name="Band Sports"
+
+url="https://www.redecanais.link/assistir-big-brother-brasil-18-bbb18-online-24-horas-ao-vivo-1080p_6371a82d8.html"
+img="http://server3.redecanais.tv/imgs-videos/BBB18.jpg"
+name="Big Brother Brasil 18 - BBB18"
+
+url="https://www.redecanais.link/assistir-bis-online-24-horas-ao-vivo_103e6898b.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20BIS.jpg"
+name="BIS"
+
+url="https://www.redecanais.link/assistir-boomerang-online-24-horas-ao-vivo_22648a214.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Boomerang.jpg"
+name="Boomerang"
+
+url="https://www.redecanais.link/assistir-canal-off-online-24-horas-ao-vivo_95e7c6539.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Off.jpg"
+name="Canal Off"
+
+url="https://www.redecanais.link/assistir-sony-online-24-horas-ao-vivo_54e4da298.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Sony.jpg"
+name="Canal Sony"
+
+url="https://www.redecanais.link/assistir-cartoon-network-online-24-horas-ao-vivo_9aefda12c.html"
+img="http://server3.redecanais.tv/imgs-videos/Cartoon%20Network.jpg"
+name="Cartoon Network"
+
+url="https://www.redecanais.link/assistir-cinemax-online-24-horas-ao-vivo_69c8ab81c.html"
+img="http://server3.redecanais.tv/imgs-videos/Cinemax%20HBO.jpg"
+name="Cinemax"
+
+url="https://www.redecanais.link/assistir-combate-lutas-ufc-online-24-horas-ao-vivo_680a58427.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Combate.jpg"
+name="Combate - Lutas - UFC"
+
+url="https://www.redecanais.link/assistir-comedy-central-online-24-horas-ao-vivo_61311d6c2.html"
+img="http://server3.redecanais.tv/imgs-videos/Comedy%20Central.jpg"
+name="Comedy Central"
+
+url="https://www.redecanais.link/assistir-curta-online-24-horas-ao-vivo_dd40c7b7e.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Curta!.jpg"
+name="Curta!"
+
+url="https://www.redecanais.link/assistir-discovery-channel-online-24-horas-ao-vivo_8b17b2f57.html"
+img="http://server3.redecanais.tv/imgs-videos/Discovery%20Channel.jpg"
+name="Discovery Channel"
+
+url="https://www.redecanais.link/assistir-discovery-civilization-online-24-horas-ao-vivo_4cc4228a7.html"
+img="http://server3.redecanais.tv/imgs-videos/Discovery%20Civilization%20Channel.jpg"
+name="Discovery Civilization"
+
+url="https://www.redecanais.link/assistir-discovery-home-health-online-24-horas-ao-vivo_5586213a8.html"
+img="http://server3.redecanais.tv/imgs-videos/Discovery%20Home%20e%20Health.jpg"
+name="Discovery Home & Health"
+
+url="https://www.redecanais.link/assistir-discovery-kids-online-24-horas-ao-vivo_cb9a8fcf1.html"
+img="http://server3.redecanais.tv/imgs-videos/Discovery%20Kids.jpg"
+name="Discovery Kids"
+
+url="https://www.redecanais.link/assistir-discovery-science-online-24-horas-ao-vivo_211a2a036.html"
+img="http://server3.redecanais.tv/imgs-videos/Discovery%20Science.jpg"
+name="Discovery Science"
+
+url="https://www.redecanais.link/assistir-discovery-theater-online-24-horas-ao-vivo_5345081a6.html"
+img="http://server3.redecanais.tv/imgs-videos/Discovery%20Theater.jpg"
+name="Discovery Theater"
+
+url="https://www.redecanais.link/assistir-discovery-turbo-online-24-horas-ao-vivo_f3dc41d71.html"
+img="http://server3.redecanais.tv/imgs-videos/Discovery%20Turbo.jpg"
+name="Discovery Turbo"
+
+url="https://www.redecanais.link/assistir-discovery-world-online-24-horas-ao-vivo_1ab5bd393.html"
+img="http://server3.redecanais.tv/imgs-videos/Discovery%20World.jpg"
+name="Discovery World"
+
+url="https://www.redecanais.link/assistir-disney-channel-online-24-horas-ao-vivo_793a0c69d.html"
+img="http://server8.redecanais.tv/imgs-videos/Disney%20Channel.jpg"
+name="Disney Channel"
+
+url="https://www.redecanais.link/assistir-disney-xd-online-24-horas-ao-vivo_36944293f.html"
+img="http://server3.redecanais.tv/imgs-videos/Disney%20XD.jpg"
+name="Disney XD"
+
+url="https://www.redecanais.link/assistir-e-entertainment-television-online-24-horas-ao-vivo_2447f633e.html"
+img="http://server3.redecanais.tv/imgs-videos/E!.jpg"
+name="E!: Entertainment Television"
+
+url="https://www.redecanais.link/assistir-espnplus-online-24-horas-ao-vivo_c67435dc2.html"
+img="http://server3.redecanais.tv/imgs-videos/ESPN%20plus.jpg"
+name="ESPN +"
+
+url="https://www.redecanais.link/assistir-espn-online-24-horas-ao-vivo_8708f88bb.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20ESPN.jpg"
+name="ESPN"
+
+url="https://www.redecanais.link/assistir-espn-brasil-online-24-horas-ao-vivo_299473be0.html"
+img="http://server3.redecanais.tv/imgs-videos/ESPN%20Brasil.jpg"
+name="ESPN Brasil"
+
+url="https://www.redecanais.link/assistir-esporte-interativo-online-24-horas-ao-vivo_259cacba3.html"
+img="http://server3.redecanais.tv/imgs-videos/Esporte%20Interativo.jpg"
+name="Esporte Interativo"
+
+url="https://www.redecanais.link/assistir-esporte-interativo-2-online-24-horas-ao-vivo_5ff8bee0c.html"
+img="http://server3.redecanais.tv/imgs-videos/Esporte%20Interativo%202.jpg"
+name="Esporte Interativo 2"
+
+url="https://www.redecanais.link/assistir-esporte-interativo-br-online-24-horas-ao-vivo_25b2d99bb.html"
+img="http://server3.redecanais.tv/imgs-videos/Esporte%20Interativo%20BR.jpg"
+name="Esporte Interativo BR"
+
+url="https://www.redecanais.link/assistir-fish-tv-online-24-horas-ao-vivo_6d57379ac.html"
+img="http://server3.redecanais.tv/imgs-videos/Fish%20TV.jpg"
+name="Fish TV"
+
+url="https://www.redecanais.link/assistir-food-network-online-24-horas-ao-vivo_3a2f38193.html"
+img="http://server3.redecanais.tv/imgs-videos/Food%20Network.jpg"
+name="Food Network"
+
+url="https://www.redecanais.link/assistir-fox-online-24-horas-ao-vivo_71b939a76.html"
+img="http://server8.redecanais.tv/imgs-videos/FOX.jpg"
+name="Fox"
+
+url="https://www.redecanais.link/assistir-fox-life-online-24-horas-ao-vivo_0c25756bc.html"
+img="http://server3.redecanais.tv/imgs-videos/Fox%20Life.jpg"
+name="Fox Life"
+
+url="https://www.redecanais.link/assistir-fox-premium-1-online-24-horas-ao-vivo_3eecedd75.html"
+img="http://server3.redecanais.tv/imgs-videos/Fox%20Premium%201.jpg"
+name="Fox Premium 1"
+
+url="https://www.redecanais.link/assistir-fox-premium-2-online-24-horas-ao-vivo_0036772da.html"
+img="http://server3.redecanais.tv/imgs-videos/Fox%20Premium%202.jpg"
+name="Fox Premium 2"
+
+url="https://www.redecanais.link/assistir-fox-sports-online-24-horas-ao-vivo_89d782e32.html"
+img="http://server3.redecanais.tv/imgs-videos/Fox%20Sports.jpg"
+name="Fox Sports"
+
+url="https://www.redecanais.link/assistir-fox-sports-2-online-24-horas-ao-vivo_b29a0cbb0.html"
+img="http://server3.redecanais.tv/imgs-videos/Fox%20Sports%202.jpg"
+name="Fox Sports 2"
+
+url="https://www.redecanais.link/assistir-futura-online-24-horas-ao-vivo_0b1822e0d.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Futura.jpg"
+name="Futura"
+
+url="https://www.redecanais.link/assistir-fx-online-24-horas-ao-vivo_277a1b8f4.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20FX.jpg"
+name="FX"
+
+url="https://www.redecanais.link/assistir-globo-news-online-24-horas-ao-vivo_7d9ad9fed.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20News.jpg"
+name="Globo News"
+
+url="https://www.redecanais.link/assistir-gloob-online-24-horas-ao-vivo_be969d213.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Gloob.jpg"
+name="Gloob"
+
+url="https://www.redecanais.link/assistir-gloobinho-online-24-horas-ao-vivo_26b3381f4.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Gloobinho.jpg"
+name="Gloobinho"
+
+url="https://www.redecanais.link/assistir-gnt-online-24-horas-ao-vivo_f04085264.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20GNT.jpg"
+name="GNT"
+
+url="https://www.redecanais.link/assistir-hbo-online-24-horas-ao-vivo_967c62042.html"
+img="http://server3.redecanais.tv/imgs-videos/HBO%201.jpg"
+name="HBO"
+
+url="https://www.redecanais.link/assistir-hbo-2-online-24-horas-ao-vivo_df25674db.html"
+img="http://server3.redecanais.tv/imgs-videos/HBO%202.jpg"
+name="HBO 2"
+
+url="https://www.redecanais.link/assistir-hbo-family-online-24-horas-ao-vivo_50d57f828.html"
+img="http://server3.redecanais.tv/imgs-videos/HBO%20Family.jpg"
+name="HBO Family"
+
+url="https://www.redecanais.link/assistir-hbo-plus-online-24-horas-ao-vivo_7376628f1.html"
+img="http://server3.redecanais.tv/imgs-videos/HBO%20Plus.jpg"
+name="HBO Plus"
+
+url="https://www.redecanais.link/assistir-hbo-signature-online-24-horas-ao-vivo_b0e291b12.html"
+img="http://server3.redecanais.tv/imgs-videos/HBO%20Signature.jpg"
+name="HBO Signature"
+
+url="https://www.redecanais.link/assistir-history-2-h2-online-24-horas-ao-vivo_31313807c.html"
+img="http://server3.redecanais.tv/imgs-videos/History%202.jpg"
+name="History 2 - H2"
+
+url="https://www.redecanais.link/assistir-history-channel-online-24-horas-ao-vivo_363f58d3c.html"
+img="http://server3.redecanais.tv/imgs-videos/History%20Channel.jpg"
+name="History Channel"
+
+url="https://www.redecanais.link/assistir-investigacao-discovery-online-24-horas-ao-vivo_a728e7355.html"
+img="http://server3.redecanais.tv/imgs-videos/Investiga%C3%A7%C3%A3o%20Discovery.jpg"
+name="Investigação Discovery"
+
+url="https://www.redecanais.link/assistir-lifetime-online-24-horas-ao-vivo_f9f7dc964.html"
+img="http://server3.redecanais.tv/imgs-videos/Meu%20Lifetime.jpg"
+name="Lifetime"
+
+url="https://www.redecanais.link/assistir-mais-globosat-online-24-horas-ao-vivo_38681672d.html"
+img="http://server3.redecanais.tv/imgs-videos/Mais%20Globosat.jpg"
+name="Mais Globosat"
+
+url="https://www.redecanais.link/assistir-max-online-24-horas-ao-vivo_e26cc0768.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Max.jpg"
+name="Max"
+
+url="https://www.redecanais.link/assistir-max-prime-online-24-horas-ao-vivo_883f30cef.html"
+img="http://server3.redecanais.tv/imgs-videos/Max%20Prime.jpg"
+name="Max Prime"
+
+url="https://www.redecanais.link/assistir-max-up-online-24-horas-ao-vivo_2b28bed64.html"
+img="http://server3.redecanais.tv/imgs-videos/Max%20Up.jpg"
+name="Max Up"
+
+url="https://www.redecanais.link/assistir-megapix-online-24-horas-ao-vivo_7bacfb587.html"
+img="http://server8.redecanais.tv/imgs-videos/Megapix.jpg"
+name="Megapix"
+
+url="https://www.redecanais.link/assistir-mtv-online-24-horas-ao-vivo_b28899a61.html"
+img="http://server6.redecanais.tv/imgs-videos/MTV%20Music.jpg"
+name="MTV"
+
+url="https://www.redecanais.link/assistir-multishow-online-24-horas-ao-vivo_da2b2ea8b.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Multishow.jpg"
+name="Multishow"
+
+url="https://www.redecanais.link/assistir-music-box-brazil-online-24-horas-ao-vivo_87fb06084.html"
+img="http://server3.redecanais.tv/imgs-videos/Music%20Box%20Brazil.jpg"
+name="Music Box Brazil"
+
+url="https://www.redecanais.link/assistir-nat-geo-kids-online-24-horas-ao-vivo_6bef8d152.html"
+img="http://server3.redecanais.tv/imgs-videos/Nat%20Geo%20Kids.jpg"
+name="Nat Geo Kids"
+
+url="https://www.redecanais.link/assistir-nat-geo-wild-online-24-horas-ao-vivo_af5a453a2.html"
+img="http://server3.redecanais.tv/imgs-videos/Nat%20Geo%20Wild.jpg"
+name="Nat Geo Wild"
+
+url="https://www.redecanais.link/assistir-national-geographic-channel-nat-geo-online-24-horas-ao-vivo_40faf94ff.html"
+img="http://server6.redecanais.tv/imgs-videos/National%20Geographic%20Channel.jpg"
+name="National Geographic Channel - Nat Geo"
+
+url="https://www.redecanais.link/assistir-nick-jr-online-24-horas-ao-vivo_2c89b6ac9.html"
+img="http://server3.redecanais.tv/imgs-videos/Nick%20JR..jpg"
+name="Nick Jr."
+
+url="https://www.redecanais.link/assistir-nickelodeon-online-24-horas-ao-vivo_c71d2928e.html"
+img="http://server8.redecanais.tv/imgs-videos/Nickelodeon.jpg"
+name="Nickelodeon: Nick"
+
+url="https://www.redecanais.link/assistir-paramount-channel-online-24-horas-ao-vivo_d9f509715.html"
+img="http://server3.redecanais.tv/imgs-videos/Paramount%20Channel.jpg"
+name="Paramount Channel"
+
+url="https://www.redecanais.link/assistir-playboy-tv-online-24-horas-ao-vivo-adulto_010df5ee6.html"
+img="http://server3.redecanais.tv/imgs-videos/Playboy%20TV.jpg"
+name="Playboy TV - Adulto"
+
+url="https://www.redecanais.link/assistir-premiere-2-online-24-horas-ao-vivo_c3e04ab4a.html"
+img="http://server3.redecanais.tv/imgs-videos/Premiere%202.jpg"
+name="Premiere 2"
+
+url="https://www.redecanais.link/assistir-premiere-3-online-24-horas-ao-vivo_5a59444f7.html"
+img="http://server3.redecanais.tv/imgs-videos/Premiere%203.jpg"
+name="Premiere 3"
+
+url="https://www.redecanais.link/assistir-premiere-5-online-24-horas-ao-vivo_052975aef.html"
+img="http://server3.redecanais.tv/imgs-videos/Premiere%205.jpg"
+name="Premiere 5"
+
+url="https://www.redecanais.link/assistir-premiere-6-online-24-horas-ao-vivo_8bc69362e.html"
+img="http://server3.redecanais.tv/imgs-videos/Premiere%206.jpg"
+name="Premiere 6"
+
+url="https://www.redecanais.link/assistir-premiere-7-online-24-horas-ao-vivo_128c011a4.html"
+img="http://server3.redecanais.tv/imgs-videos/Premiere%207.jpg"
+name="Premiere 7"
+
+url="https://www.redecanais.link/assistir-premiere-clubes-online-24-horas-ao-vivo_23f90a098.html"
+img="http://server3.redecanais.tv/imgs-videos/Premiere%20Clubes.jpg"
+name="Premiere Clubes"
+
+url="https://www.redecanais.link/assistir-prime-box-brazil-online-24-horas-ao-vivo_5eaa16baf.html"
+img="http://server3.redecanais.tv/imgs-videos/Prime%20Box%20Brazil.jpg"
+name="Prime Box Brazil"
+
+url="https://www.redecanais.link/assistir-record-news-online-24-horas-ao-vivo_373e0eaf5.html"
+img="http://server3.redecanais.tv/imgs-videos/Record%20News.jpg"
+name="Record News"
+
+url="https://www.redecanais.link/assistir-record-tv-online-24-horas-ao-vivo_84be0a6b8.html"
+img="http://server3.redecanais.tv/imgs-videos/Record%20TV.jpg"
+name="Record TV"
+
+url="https://www.redecanais.link/assistir-rede-bandeirantes-band-online-24-horas-ao-vivo_6b0e02f7b.html"
+img="http://server3.redecanais.tv/imgs-videos/Band%20HD.jpg"
+name="Rede Bandeirantes: Band"
+
+url="https://www.redecanais.link/assistir-rede-globo-rede-bahia-online-24-horas-ao-vivo_c0eb19614.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20-%20Rede%20Bahia.jpg"
+name="Rede Globo - Rede Bahia - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-rpc-curitiba-online-24-horas-ao-vivo_1de965619.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20RPC%20Curitiba.jpg"
+name="Rede Globo - RPC Curitiba - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-tv-anhanguera-online-24-horas-ao-vivo_f6bd29733.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20-%20TV%20Anhanguera.jpg"
+name="Rede Globo - TV Anhanguera - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-campinas-eptv-online-24-horas-ao-vivo_545d9596e.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20Campinas%20-%20EPTV.jpg"
+name="Rede Globo Campinas - EPTV - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-df-online-24-horas-ao-vivo_c1f6e1243.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20Brasilia-DF.jpg"
+name="Rede Globo DF - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-florianopolis-nsc-tv-online-24-horas-ao-vivo_4c512e4d5.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20NSC%20TV%20-%20Florianopolis.jpg"
+name="Rede Globo Florianopolis - NSC TV - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-minas-online-24-horas-ao-vivo_894c82a09.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20Minas.jpg"
+name="Rede Globo Minas - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-nordeste-online-24-horas-ao-vivo_e616f6223.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20Nordeste.jpg"
+name="Rede Globo Nordeste - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-porto-alegre-rbs-rs-online-24-horas-ao-vivo_df142c97e.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20-%20RBS%20RS%20-%20Porto%20Alegre.jpg"
+name="Rede Globo Porto Alegre - RBS RS - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-ribeirao-preto-eptv-online-24-horas-ao-vivo_d8baa33fc.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20Ribeir%C3%A3o%20Preto%20-%20EPTV.jpg"
+name="Rede Globo Ribeirão Preto - EPTV"
+
+url="https://www.redecanais.link/assistir-rede-globo-rj-online-24-horas-ao-vivo_8bf454423.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20RJ.jpg"
+name="Rede Globo RJ - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-sao-jose-do-rio-preto-tv-tem-online-24-horas-ao-vivo_4b9292ff4.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20-%20TV%20Tem%20-%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto.jpg"
+name="Rede Globo São José do Rio Preto - TV Tem - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-globo-sp-online-24-horas-ao-vivo_889f46b22.html"
+img="http://server3.redecanais.tv/imgs-videos/Globo%20SP.jpg"
+name="Rede Globo SP - Online 24 Horas Ao Vivo"
+
+url="https://www.redecanais.link/assistir-rede-tv-online-24-horas-ao-vivo_641b8e130.html"
+img="http://server3.redecanais.tv/imgs-videos/Rede%20TV.jpg"
+name="Rede TV"
+
+url="https://www.redecanais.link/assistir-sbt-online-24-horas-ao-vivo_4471f6839.html"
+img="http://server3.redecanais.tv/imgs-videos/Sistema%20Brasileiro%20de%20Televis%C3%A3o.jpg"
+name="SBT"
+
+url="https://www.redecanais.link/assistir-sex-zone-online-24-horas-ao-vivo-adulto_b10228a77.html"
+img="http://server8.redecanais.tv/imgs-videos/SexyZone.jpg"
+name="Sex Zone - Adulto"
+
+url="https://www.redecanais.link/assistir-sextreme-online-24-horas-ao-vivo-adulto_e53096b91.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Sextreme.jpg"
+name="Sextreme - Adulto"
+
+url="https://www.redecanais.link/assistir-sexy-hot-online-24-horas-ao-vivo-adulto_04678622f.html"
+img="http://server3.redecanais.tv/imgs-videos/Sexy%20Hot.jpg"
+name="Sexy Hot - Adulto"
+
+url="https://www.redecanais.link/assistir-space-online-24-horas-ao-vivo_8dd82883e.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Space.jpg"
+name="Space"
+
+url="https://www.redecanais.link/assistir-sportv-online-24-horas-ao-vivo_2ef7760e3.html"
+img="http://server3.redecanais.tv/imgs-videos/Sportv.jpg"
+name="SporTV"
+
+url="https://www.redecanais.link/assistir-sportv-2-online-24-horas-ao-vivo_cf8c3a94b.html"
+img="http://server3.redecanais.tv/imgs-videos/Sportv%202.jpg"
+name="SporTV 2"
+
+url="https://www.redecanais.link/assistir-sportv-3-online-24-horas-ao-vivo_d3dd97dc8.html"
+img="http://server3.redecanais.tv/imgs-videos/Sportv%203.jpg"
+name="SporTV 3"
+
+url="https://www.redecanais.link/assistir-studio-universal-online-24-horas-ao-vivo_fa52fabdd.html"
+img="http://server3.redecanais.tv/imgs-videos/Studio%20Universal.jpg"
+name="Studio Universal"
+
+url="https://www.redecanais.link/assistir-syfy-online-24-horas-ao-vivo_bb026accf.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20SYFY.jpg"
+name="Syfy"
+
+url="https://www.redecanais.link/assistir-tbs-online-24-horas-ao-vivo_044432f7b.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20TBS.jpg"
+name="TBS"
+
+url="https://www.redecanais.link/assistir-telecine-action-online-24-horas-ao-vivo_77666236e.html"
+img="http://server3.redecanais.tv/imgs-videos/Telecine%20Action.jpg"
+name="Telecine Action"
+
+url="https://www.redecanais.link/assistir-telecine-cult-online-24-horas-ao-vivo_39e370884.html"
+img="http://server3.redecanais.tv/imgs-videos/Telecine%20Cult.jpg"
+name="Telecine Cult"
+
+url="https://www.redecanais.link/assistir-telecine-fun-online-24-horas-ao-vivo_5dbdd87bd.html"
+img="http://server3.redecanais.tv/imgs-videos/Telecine%20Fun.jpg"
+name="Telecine Fun"
+
+url="https://www.redecanais.link/assistir-telecine-pipoca-online-24-horas-ao-vivo_9b777c85b.html"
+img="http://server3.redecanais.tv/imgs-videos/Telecine%20Pipoca.jpg"
+name="Telecine Pipoca"
+
+url="https://www.redecanais.link/assistir-telecine-premium-online-24-horas-ao-vivo_daa81e5af.html"
+img="http://server3.redecanais.tv/imgs-videos/Telecine%20Premium.jpg"
+name="Telecine Premium"
+
+url="https://www.redecanais.link/assistir-telecine-touch-online-24-horas-ao-vivo_ddc6aa7b9.html"
+img="http://server3.redecanais.tv/imgs-videos/Telecine%20Touch.jpg"
+name="Telecine Touch"
+
+url="https://www.redecanais.link/assistir-tlc-online-24-horas-ao-vivo_21c8cf229.html"
+img="http://server3.redecanais.tv/imgs-videos/TLC%20Discovery.jpg"
+name="TLC"
+
+url="https://www.redecanais.link/assistir-tnt-online-24-horas-ao-vivo_e6f8a099b.html"
+img="http://server3.redecanais.tv/imgs-videos/canal%20TNT.jpg"
+name="TNT"
+
+url="https://www.redecanais.link/assistir-tnt-series-online-24-horas-ao-vivo_2fe6f8828.html"
+img="http://server3.redecanais.tv/imgs-videos/TNT%20Series.jpg"
+name="TNT Series"
+
+url="https://www.redecanais.link/assistir-trutv-online-24-horas-ao-vivo_8d468128f.html"
+img="http://server3.redecanais.tv/imgs-videos/Tru%20TV.jpg"
+name="TruTV"
+
+url="https://www.redecanais.link/assistir-tv-cultura-online-24-horas-ao-vivo_0156c12f3.html"
+img="http://server3.redecanais.tv/imgs-videos/TV%20Cultura.jpg"
+name="TV Cultura"
+
+url="https://www.redecanais.link/assistir-tv-gazeta-online-24-horas-ao-vivo_e2328e636.html"
+img="http://server3.redecanais.tv/imgs-videos/TV%20Gazeta.jpg"
+name="TV Gazeta"
+
+url="https://www.redecanais.link/assistir-universal-channel-online-24-horas-ao-vivo_312efc108.html"
+img="http://server3.redecanais.tv/imgs-videos/Universal%20Channel.jpg"
+name="Universal Channel"
+
+url="https://www.redecanais.link/assistir-venus-online-24-horas-ao-vivo-adulto_c95f8b730.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Venus.jpg"
+name="Venus - Adulto"
+
+url="https://www.redecanais.link/assistir-vh1-hd-online-24-horas-ao-vivo_1cf3f56c1.html"
+img="http://server3.redecanais.tv/imgs-videos/VH1%20HD.jpg"
+name="VH1 HD"
+
+url="https://www.redecanais.link/assistir-viva-online-24-horas-ao-vivo_3b73e3cff.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Viva.jpg"
+name="Viva"
+
+url="https://www.redecanais.link/assistir-warner-tv-online-24-horas-ao-vivo_d280566e8.html"
+img="http://server3.redecanais.tv/imgs-videos/Warner%20Channel.jpg"
+name="Warner TV"
+
+url="https://www.redecanais.link/assistir-woohoo-online-24-horas-ao-vivo_5a9489135.html"
+img="http://server3.redecanais.tv/imgs-videos/Canal%20Woohoo.jpg"
+name="Woohoo"
