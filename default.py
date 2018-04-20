@@ -69,7 +69,7 @@ def Categories(): #70
 	AddDir("[COLOR lightgray][B]Filmes Dublados[/B][/COLOR]" , cPage, 90, "http://i67.tinypic.com/2mnojkn.jpg", "http://i67.tinypic.com/2mnojkn.jpg", background="cPage")
 	AddDir("[COLOR lightgray][B]Filmes Legendados[/B][/COLOR]" , cPageleg, 91, "http://i67.tinypic.com/34xg6s7.jpg", "http://i67.tinypic.com/34xg6s7.jpg", background="cPageleg")
 	AddDir("[COLOR lightgray][B]Filmes Nacionais[/B][/COLOR]" , cPagenac, 92, "http://i68.tinypic.com/rvzp8l.jpg", "http://i68.tinypic.com/rvzp8l.jpg", background="cPagenac")
-	AddDir("[COLOR blue][B][Séries RedeCanais.com][/B][/COLOR]" , cPageser, 130, "http://i67.tinypic.com/33ng6cl.jpg", "http://i67.tinypic.com/33ng6cl.jpg", background="cPageser")
+	AddDir("[COLOR lightgray][B]Séries[/B][/COLOR]" , cPageser, 130, "http://i67.tinypic.com/33ng6cl.jpg", "http://i67.tinypic.com/33ng6cl.jpg", background="cPageser")
 
 	AddDir("[COLOR lightgray][B]Séries[/B][/COLOR]" , URLNC + "listTVshow.php", 60, "http://i67.tinypic.com/2cwx3it.jpg", "http://i67.tinypic.com/2cwx3it.jpg")
 	AddDir("[COLOR lightgray][B]Filmes[/B][/COLOR]" , URLNC + "listMovies.php", 71, "http://i66.tinypic.com/2ezh8wj.jpg", "http://i66.tinypic.com/2ezh8wj.jpg")
@@ -148,7 +148,7 @@ def MoviesRCD(): #90 Filme dublado
 	try:
 		p= 1
 		if int(cPage) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPage) ) +"[/B]][/COLOR]", cPage , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPage")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPage) ) +"[/B]][/COLOR]", cPage , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPage")
 		l= int(cPage)*5
 		for x in range(0, 5):
 			l +=1
@@ -161,7 +161,7 @@ def MoviesRCD(): #90 Filme dublado
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPage) + 2) +"[/B]][/COLOR]", cPage , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPage")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPage) + 2) +"[/B]][/COLOR]", cPage , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPage")
 	except e:
 		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
 def MoviesRCL(): #91 Filme Legendado
@@ -169,7 +169,7 @@ def MoviesRCL(): #91 Filme Legendado
 	try:
 		p= 1
 		if int(cPageleg) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPageleg) ) +"[/B]][/COLOR]", cPageleg , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPageleg")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPageleg) ) +"[/B]][/COLOR]", cPageleg , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPageleg")
 		l= int(cPageleg)*5
 		for x in range(0, 5):
 			l +=1
@@ -182,14 +182,14 @@ def MoviesRCL(): #91 Filme Legendado
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPageleg) + 2) +"[/B]][/COLOR]", cPageleg , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPageleg")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPageleg) + 2) +"[/B]][/COLOR]", cPageleg , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPageleg")
 	except e:
 		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
 def MoviesRCN(): #92 Filmes Nacional
 	try:
 		p= 1
 		if int(cPagenac) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPagenac) ) +"[/B]][/COLOR]", cPagenac , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background="cPagenac")
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(cPagenac) ) +"[/B]][/COLOR]", cPagenac , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background="cPagenac")
 		l= int(cPagenac)*5
 		for x in range(0, 5):
 			l +=1
@@ -200,7 +200,7 @@ def MoviesRCN(): #92 Filmes Nacional
 					AddDir(name2 ,url2, 95, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPagenac) + 2) +"[/B]][/COLOR]", cPagenac , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background="cPagenac")
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(cPagenac) + 2) +"[/B]][/COLOR]", cPagenac , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background="cPagenac")
 	except urllib2.URLError, e:
 		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "", 0)
 def PlayMRC(): #95 Play filmes
@@ -319,7 +319,7 @@ def SeriesRC(urlrc,pagina2): #130 Lista as Series RC
 		pagina=eval(pagina2)
 		p= 1
 		if int(pagina) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background=pagina2)
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background=pagina2)
 		l= int(pagina)*5
 		for x in range(0, 5):
 			l +=1
@@ -330,7 +330,7 @@ def SeriesRC(urlrc,pagina2): #130 Lista as Series RC
 					AddDir(name2 ,url2, 135, img2, img2, info="")
 					p += 1
 		if p >= 60:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background=pagina2)
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background=pagina2)
 	except urllib2.URLError, e:
 		AddDir("Server error, tente novamente em alguns minutos" , url, 0, "", "")
 # ----------------- FIM REDECANAIS SERIES,ANIMES,DESENHOS
@@ -428,7 +428,7 @@ def MoviesFO(urlfo,pagina2): #170
 		l= int(pagina)*5
 		p= 1
 		if int(pagina) > 0:
-			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://i65.tinypic.com/70dmx4.jpg", isFolder=False, background=pagina2)
+			AddDir("[COLOR lightgray][B]<< Página Anterior ["+ str( int(pagina) ) +"[/B]][/COLOR]", pagina , 120 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Previous-icon.png", isFolder=False, background=pagina2)
 
 		for x in range(0, 5):
 			l +=1
@@ -441,7 +441,7 @@ def MoviesFO(urlfo,pagina2): #170
 					AddDir(name2, url2, 171, "https://filmesonline.online/"+img2, "https://filmesonline.online/"+img2, info="")
 					p+=1
 		if p >= 80:
-			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://i64.tinypic.com/9jiova.jpg", isFolder=False, background=pagina2)
+			AddDir("[COLOR lightgray][B]Próxima Página >> ["+ str( int(pagina) + 2) +"[/B]][/COLOR]", pagina , 110 ,"http://icons.iconarchive.com/icons/iconsmind/outline/256/Next-2-2-icon.png", isFolder=False, background=pagina2)
 	except urllib2.URLError, e:
 		AddDir("Server error, tente novamente em alguns minutos" , "", 0, "", "")
 
