@@ -70,10 +70,6 @@ def Categories(): #70
 	AddDir("[COLOR lightgray][B]Filmes Legendados[/B][/COLOR]" , cPageleg, 91, "http://i67.tinypic.com/34xg6s7.jpg", "http://i67.tinypic.com/34xg6s7.jpg", background="cPageleg")
 	AddDir("[COLOR lightgray][B]Filmes Nacionais[/B][/COLOR]" , cPagenac, 92, "http://i68.tinypic.com/rvzp8l.jpg", "http://i68.tinypic.com/rvzp8l.jpg", background="cPagenac")
 	AddDir("[COLOR lightgray][B]Séries[/B][/COLOR]" , cPageser, 130, "http://i67.tinypic.com/33ng6cl.jpg", "http://i67.tinypic.com/33ng6cl.jpg", background="cPageser")
-
-	AddDir("[COLOR lightgray][B]Séries[/B][/COLOR]" , URLNC + "listTVshow.php", 60, "http://i67.tinypic.com/2cwx3it.jpg", "http://i67.tinypic.com/2cwx3it.jpg")
-	AddDir("[COLOR lightgray][B]Filmes[/B][/COLOR]" , URLNC + "listMovies.php", 71, "http://i66.tinypic.com/2ezh8wj.jpg", "http://i66.tinypic.com/2ezh8wj.jpg")
-
 	#AddDir("[COLOR lightgray][B]Filmes por Gênero:[/B] " + Clista2[int(Cat)] +"[/COLOR]", "url" ,80 ,"http://i67.tinypic.com/ieibdw.jpg", "http://i67.tinypic.com/ieibdw.jpg", isFolder=False)
 	AddDir("[COLOR lightgray][B]Animes[/B][/COLOR]" , cPageser, 140, "http://i66.tinypic.com/1112hc3.jpg", "http://i66.tinypic.com/1112hc3.jpg", background="cPageser")
 	AddDir("[COLOR lightgray][B]Desenhos[/B][/COLOR]" , cPageani, 150, "http://i65.tinypic.com/1qqzgz.jpg", "http://i65.tinypic.com/1qqzgz.jpg", background="cPageser")
