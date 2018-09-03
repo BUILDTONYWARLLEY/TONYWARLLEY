@@ -181,26 +181,6 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
   </extension>
 </addon>
 
-<addon id="plugin.video.espiritismo" name="Espiritismo" version="2.0.0" provider-name="Kodish-MC">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Espiritismo</summary>
-    <description lang="en">Uma seleÃ§Ã£o de Conhecimentos Espiritas.</description>
-    <platform>all</platform>
-    <forum></forum>
-    <website></website>
-  </extension>
-</addon>
-
 <addon id="plugin.video.evolutionmedia"
        name="[COLOR white] EVOLUTION [/COLOR][COLOR white] TV [/COLOR]"
        version="1.3.1"
@@ -278,78 +258,6 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
         <description lang="en">[COLORorange][B]Flecha Negra Ã© um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR][/B]</description>
     <platform>all</platform>
   </extension>
-</addon>
-
-<addon id="plugin.video.foradabox"
-       name="Fora da Box"
-       version="1.1"
-       provider-name="frenchdj, Demagorgon e bit.ly/[COLOR blue][B]AMO[/B][/COLOR][COLOR green]box[/COLOR]">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-     <import addon="script.module.livestreamer" optional="true"/>
-     <import addon="script.module.pyamf" optional="true"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Fora da Box</summary>
-    <description>Tudo o que o media center jÃ¡ tinha, mais aquilo que ainda lhe faltava. Todo o conteudo deste addon provÃ©m do Youtube.</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-
-<addon id="plugin.video.formigatv" name="FormigaTV" version="0.1" provider-name="formiga">
-
-  <requires>
-
-    <import addon="xbmc.python" version="2.1.0"/>
-
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-
-    <import addon="script.module.beautifulsoup4"/>
-
-    <import addon="script.module.requests"/>
-
-    <import addon="script.module.httplib2"/>
-
-    <import addon="script.module.youtube.dl" optional="true"/>
-
-    <import addon="plugin.video.youtube"/>
-
-    <import addon="script.module.urlresolver" optional="true"/>
-
-    <import addon="script.module.simplejson"/>
-
-  </requires>
-
-  <extension point="xbmc.python.pluginsource" library="default.py">
-
-        <provides>video</provides>
-
-  </extension>
-
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">FormigaTV</summary>
-
-    <description lang="en">FormigaTV</description>
-    <platform>all</platform>
-
- </extension>
-
 </addon>
 
 <addon id="plugin.video.gdrive" version="0.8.35" name="gdrive" provider-name="ddurdle">
@@ -467,69 +375,6 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
   </extension>
 </addon>
 
-<addon id="plugin.video.KondZilla" name="Canal Kond Zilla" version="1.0.0" provider-name="Kodish Team">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Addon do Canal KondZilla</summary>
-    <description lang="en">Addon do Canal KondZilla</description>
-    <platform>all</platform>
-    <forum></forum>
-    <website></website>
-  </extension>
-</addon>
-
-<addon
-  id="plugin.video.malandro"
-  version="1.1.2"
-  name="MALANDRO"
-  provider-name="TEAM J2MF4">
-  <requires>
-   <import addon="xbmc.python" version="2.14.0"/>
-  </requires>
-  <extension
-    point="xbmc.python.pluginsource"
-    library="default.py">
-   <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Play videos from different adult streaming sites</summary>
-    <description>This addon plays videos from YouPorn, Tube8, Boysfood, MoviesAnd, PornoTube, xHamster, KeezMovies and some other adult streaming sites. It contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon. </description>
-    <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.MinhaSerie" name="Minha SÃ©rie" version="0.0.1" provider-name="Lojink / ali">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.urlresolver" version="2.10.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Assista SÃ©ries em Sd diretamente pelo kodi...</summary>
-    <description lang="en">Assista SÃ©ries em Sd diretamente pelo kodi...</description>
-    <disclaimer lang="en">Assista SÃ©ries em Sd diretamente pelo kodi...</disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license></license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <source></source>
-  </extension>
-</addon>
-
 <addon id="plugin.video.MMFilmesHD" name="MMFilmes HD" version="1.0" provider-name="Lojink">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -543,30 +388,6 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
         <platform>all</platform>
         <summary>MMFilmes HD</summary>
         <description>Assista filmes e sÃ©ries online em seu computador, notebook ou celular.</description>
-    </extension>
-</addon>
-
-<addon id="plugin.video.monkeyspank" name="Monkey Spank" version="1.0.0" provider-name="MrSkeletor">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.requests" version="1.1.0"/>
-        <import addon="script.module.t0mm0.common" version="1.1.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <news>v 1.0.0 Birth</news>
-        <summary>[COLOR deeppink]XXX[/COLOR] Adult Content</summary>
-        <description>[COLOR deeppink]Porn Videos[/COLOR]</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-		<license>http://www.gnu.org/licenses/</license>
-		<forum></forum>
-		<website></website>
-		<email></email>
-		<mainsource>http://repo.illuminatitemple.xyz</mainsource>
-		<source></source>
     </extension>
 </addon>
 
@@ -627,27 +448,6 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
     <email></email>
     <source></source>
   </extension>
-</addon>
-
-<addon id="plugin.video.netflix2" version="1.0.0" name="Kodish Netflix" provider-name="Kodish MC">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Laucher Netflix by Kodish</summary>
-        <description lang="en_GB"></description>
-        <platform>all</platform>
-        <license>Kodish Licence</license>
-        <source></source>
-        <news></news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.NeXus"
@@ -841,36 +641,6 @@ Artwork by @konsumer420
 	</extension>
 </addon>
 
-<addon id="plugin.video.skyonplus"
-       name="Sky on Plus"
-       version="1.0.0"
-       provider-name="Kodish MC">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.simplejson" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Sky On Plus</summary>
-    <description lang="en">Filmes do Sky On Plus</description>
-    <platform>all</platform>
-  </extension>
-
-</addon>
 
 <addon id="plugin.video.somlivre" name="Som Livre" version="1.0" provider-name="Kodish Team">
     <requires>
@@ -906,26 +676,6 @@ Artwork by @konsumer420
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website></website>
     </extension>
-</addon>
-
-<addon id="plugin.video.StarvsFocasdoMal" name="Star Vs Focas do Mal" version="1.0.0" provider-name="Kodish Mc">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Star Vs Focas do Mal</summary>
-    <description lang="en">Addon do Star Vs Focas do Mal</description>
-    <platform>all</platform>
-    <forum></forum>
-    <website></website>
-  </extension>
 </addon>
 
 <addon id="plugin.video.tokusatsuBr" name="TOKUSATSU BR" version="0.0.1" provider-name="Bruno holanda">
@@ -1118,32 +868,6 @@ Artwork by @konsumer420
   </extension>
 </addon>
 
-<addon id="plugin.video.VelhosTempos" version="0.0.3" name="[B][COLOR red]Velhos Tempos[/B][/COLOR]" provider-name="Sergio Tools">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR gold]Velhos Tempos[/B][/COLOR]</summary>
-    <description lang="en">[B][COLOR red]Seriados, filmes e desenhos que nÃ£o voltam[/B][/COLOR]</description>
-    <disclaimer lang="en">[B][COLOR blue]NÃ³s nÃ£o hospedamos ou distribuimos qualquer conteÃºdo exibido por este addon.[/COLOR][/B] [B][COLOR lime]NÃ³s do Addon Velhos Tempos[/COLOR][/B] [B][COLOR red], nÃ£o temos nenhuma afiliaÃ§Ã£o com o provedor de conteÃºdo[/COLOR][/B] [B][COLOR gold]somos apenas responsÃ¡veis por linkar os endereÃ§os de conteÃºdos que jÃ¡ se encontram na Internet, categorizando e organizando, para que quem queira, possa desfrutÃ¡-los dentro do seu player preferido.[/COLOR][/B]</disclaimer>
-    <platform>all</platform>
-    <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>fanart.jpg</screenshot>
-    </assets>
-    <forum></forum>
-    <website>http://sergiogracas.com</website>
-  </extension>
-</addon>
-
 <addon id="plugin.video.vida"
        name="[COLOR cyan][B]--VIDA--[/B][/COLOR]"
        version="4.0.0"
@@ -1257,15 +981,15 @@ Artwork by @konsumer420
 	</extension>
 </addon>
 
-<addon id="repository.vikingsbuilds" name="[B][COLOR yellow].Vikings  [COLOR orange]Repo[/B][/COLOR]" version="0.0.6" provider-name="Vikings Build">
+<addon id="repository.TWTutoriais" name="[B][COLOR red].TWTtutoriais Repo[/B][/COLOR]" version="1.0" provider-name="@twttutoriais">
 	<extension point="xbmc.addon.repository" name="Repositorio Vikings Build">
-		<info compressed="false">http://raw.github.com/vikingsbuild/repository.vikingsbuilds/master/addons.xml</info>
+		<info compressed="false">http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/addon.xml</info>
 		<checksum>http://raw.github.com/vikingsbuild/repository.vikingsbuilds/master/addons.xml.md5</checksum>
 		<datadir zip="true">http://raw.github.com/vikingsbuild/repository.vikingsbuilds/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Repositorio Vikings Build</summary>
-		<description>Repositorio oficial Vikings Build - Proibido reproducao sem previa autorizacao</description>
+		<summary>Repositorio TWTutoriais</summary>
+		<description>Repositorio TWTutoriais - Proibido Reproducao sem Previa Autorizacao...kkk Sério?</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
