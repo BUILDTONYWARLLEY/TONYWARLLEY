@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
 		<info compressed="false">http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/addon.xml</info>
 		<checksum>http://raw.github.com/vikingsbuild/repository.vikingsbuilds/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/vikingsbuild/repository.vikingsbuilds/master/repo/</datadir>
+		<datadir zip="true">https://github.com/BUILDTONYWARLLEY/TONYWARLLEY/tree/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repositorio TWTutoriais</summary>
