@@ -900,35 +900,6 @@ Artwork by @konsumer420
   </extension>
 </addon>
 
-<addon id="plugin.video.vrlivre" name="[COLOR blue]VRlivreTV[/COLOR] [COLOR red]By Sergio[/COLOR]" version="0.0.4" provider-name="Sergio Tools">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.httplib2"/>
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson"/>
-  </requires>
-
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">VRlivreTV</summary>
-    <description lang="en">VRlivreTV - Nosso Agregador de Links e ConteÃºdos Educacionais</description>
-    <platform>all</platform>
-    <forum></forum>
-    <website>http://sergiogracas.com</website>
-  </extension>
-</addon>
-
 <addon id="quasar.repo.store" name="Quasar Store" version="1.0" provider-name="Kodish-MC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -964,19 +935,6 @@ Artwork by @konsumer420
 		<forum>none</forum>
 		<source></source>
 		<website></website>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="repository.kodiazor" name="[COLOR orange]Kodiazor.Repo[/COLOR]" version="0.1" provider-name="ike">
-	<extension point="xbmc.addon.repository" name="ike repo">
-		<info compressed="false">http://kodiazorteam.website/Repo%20Kodiazor/plugins/addons.xml</info>
-		<checksum>http://kodiazorteam.website/Repo%20Kodiazor/plugins/addons.xml.md5</checksum>
-		<datadir zip="true">http://kodiazorteam.website/Repo%20Kodiazor/plugins</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Kodiazor.Repo</summary>
-		<description>Kodiazor.Repo</description>
 		<platform>all</platform>
 	</extension>
 </addon>
