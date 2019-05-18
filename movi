@@ -1,0 +1,31 @@
+<item>
+<title>[COLOR red]Filmes Antigos 1[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLx3KMi5UfCYVvTleeGBEFsxnwHVUTK2OM/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/9XONxCQ.png</thumbnail>
+<fanart>https://i.imgur.com/9XONxCQ.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Filmes Antigos 2[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLF0wMHu45oTE1W8QR-SFSUFXBVCukxPPH/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/NM9iHhP.jpg</thumbnail>
+<fanart>https://i.imgur.com/NM9iHhP.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Filmes Anos 90[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLCcWr6nZW_pUUAjmEKignky_pxw1M1SCv/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/0i3UelO.jpg</thumbnail>
+<fanart>https://i.imgur.com/0i3UelO.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Filmes Diversos[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcqMr0wdqEghtXvMA7EhFCU5duD_nqYrO/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/qAaM89b.jpg</thumbnail>
+<fanart>https://i.imgur.com/qAaM89b.jpg</fanart>
+</item>
