@@ -2,9 +2,57 @@
 
 <channels>
 <channel>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] TESTE - 1 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
+<thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/T01</externallink>
+<fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
+<info>
+
+
+[COLOR yellow]l[/COLOR]- DO MELHOR IPTV PARA SUA CASA -[COLOR yellow]l[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] TESTE - 2 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
+<thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/T02</externallink>
+<fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
+<info>
+
+
+[COLOR yellow]l[/COLOR]- DO MELHOR IPTV PARA SUA CASA -[COLOR yellow]l[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] TESTE - 3 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
+<thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/T03</externallink>
+<fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
+<info>
+
+
+[COLOR yellow]l[/COLOR]- DO MELHOR IPTV PARA SUA CASA -[COLOR yellow]l[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] SERVIDOR - 1 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/brlive/brlive/master/teste</externallink>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/01</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
 <info>
 
@@ -20,7 +68,7 @@
 <channel>
 <name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] SERVIDOR - 2 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/brlive/brlive/master/teste2</externallink>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/02</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
 <info>
 
@@ -37,7 +85,7 @@
 <channel>
 <name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] SERVIDOR - 3 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/brlive/brlive/master/teste3</externallink>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/03</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
 <info>
 
@@ -54,7 +102,7 @@
 <channel>
 <name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] SERVIDOR - 4 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/brlive/brlive/master/24horas</externallink>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/04</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
 <info>
 
