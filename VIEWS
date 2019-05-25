@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] TESTE-1 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] SERVIDOR - 1 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/teste</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -18,7 +18,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] TESTE-2 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] SERVIDOR - 2 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/teste2</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -35,7 +35,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] TESTE-3 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] SERVIDOR - 3 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/teste3</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -52,7 +52,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] CANAIS 24Hs [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 4 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/24horas</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -69,7 +69,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-01 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white][B] SERVIDOR - 5 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor01</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -85,7 +85,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-02 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 6 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor02</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -103,7 +103,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-03 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 7 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor03</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -120,7 +120,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-04 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 8 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor04</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -137,7 +137,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-05 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 9 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor05</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -154,7 +154,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-06 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 10 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor06</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -171,7 +171,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-07 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 11 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor07</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -188,7 +188,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-08 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 12 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor08</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -205,7 +205,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-09 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 13 [/B][/COLOR] [COLOR yellow]l[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor09</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
@@ -222,7 +222,7 @@
 
 <channels>
 <channel>
-<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR-IPTV [/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR White] LIVE-10 [/COLOR]</name>
+<name>[COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR orange][B] SERVIDOR - 14 [/B][/COLOR] [COLOR yellow]l[/COLOR</name>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/brlive/brlive/master/corposervidor10</externallink>
 <fanart>https://i.imgur.com/9KMCqko.jpg</fanart>
