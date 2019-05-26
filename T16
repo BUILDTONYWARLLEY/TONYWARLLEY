@@ -1,0 +1,654 @@
+#EXTM3U
+
+#EXTINF:-1,.A&E HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3927
+#EXTINF:-1,.AMC HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3925
+#EXTINF:-1,.Animal Planet HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3923
+#EXTINF:-1,.Arte1 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3921
+#EXTINF:-1,.AXN HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3919
+#EXTINF:-1,.BabyTV HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3917
+#EXTINF:-1,.Band Campinas HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3915
+#EXTINF:-1,.Band News HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3913
+#EXTINF:-1,.Band Sports HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3911
+#EXTINF:-1,.BIS HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3909
+#EXTINF:-1,.Boomerang HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3907
+#EXTINF:-1,.Curta! HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3905
+#EXTINF:-1,.Futura HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3903
+#EXTINF:-1,.OFF HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3901
+#EXTINF:-1,.Woohoo HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3899
+#EXTINF:-1,.Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3897
+#EXTINF:-1,.Cineanajulia HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3895
+#EXTINF:-1,.Combate HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3893
+#EXTINF:-1,.Cultura HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3889
+#EXTINF:-1,.Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3887
+#EXTINF:-1,.Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3883
+#EXTINF:-1,.Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3881
+#EXTINF:-1,.Discovery Science HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3879
+#EXTINF:-1,.Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3877
+#EXTINF:-1,.Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3875
+#EXTINF:-1,.Discovery World HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3873
+#EXTINF:-1,.Disney Channel  HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3871
+#EXTINF:-1,.Disney Junior HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3869
+#EXTINF:-1,.Disney XD HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3867
+#EXTINF:-1,.E! HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3865
+#EXTINF:-1,.Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3863
+#EXTINF:-1,.Espn HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3861
+#EXTINF:-1,.Espn Brasil HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3859
+#EXTINF:-1,.Espn HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3857
+#EXTINF:-1,.Fish TV HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3850
+#EXTINF:-1,.Food Network HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3849
+#EXTINF:-1,.FOX HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3847
+#EXTINF:-1,.Fox Life HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3846
+#EXTINF:-1,.Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3839
+#EXTINF:-1,.Fox Sports HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3837
+#EXTINF:-1,.FX HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3835
+#EXTINF:-1,.Globo News HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3833
+#EXTINF:-1,.Gloob HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3831
+#EXTINF:-1,.GNT HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3829
+#EXTINF:-1,.H2 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3827
+#EXTINF:-1,.HBO 2 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3825
+#EXTINF:-1,.HBO Family HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3823
+#EXTINF:-1,.HBO HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3821
+#EXTINF:-1,.HBO Plus HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3818
+#EXTINF:-1,.HBO Signature HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3815
+#EXTINF:-1,.The History Channel HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3813
+#EXTINF:-1,.Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3811
+#EXTINF:-1,.Lifetime HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3809
+#EXTINF:-1,.Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3807
+#EXTINF:-1,.anajulia HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3805
+#EXTINF:-1,.anajulia Prime HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3802
+#EXTINF:-1,.anajulia UP HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3799
+#EXTINF:-1,.Megapix HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3797
+#EXTINF:-1,.MTV HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3795
+#EXTINF:-1,.MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3793
+#EXTINF:-1,.NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3791
+#EXTINF:-1,.NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3789
+#EXTINF:-1,.National Geographic HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3787
+#EXTINF:-1,.Nick Jr HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3783
+#EXTINF:-1,.Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3781
+#EXTINF:-1,.Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3779
+#EXTINF:-1,.Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3775
+#EXTINF:-1,.Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3773
+#EXTINF:-1,.Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3771
+#EXTINF:-1,.Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3769
+#EXTINF:-1,.Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3767
+#EXTINF:-1,.Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3765
+#EXTINF:-1,.Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3763
+#EXTINF:-1,.Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3761
+#EXTINF:-1,.Rá-Tim-Bum HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3759
+#EXTINF:-1,.Record HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3757
+#EXTINF:-1,.Rede Vida HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3755
+#EXTINF:-1,.RedeTV HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3753
+#EXTINF:-1,.SBT HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3751
+#EXTINF:-1,.Sony HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3745
+#EXTINF:-1,.Space HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3743
+#EXTINF:-1,.SporTV HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3741
+#EXTINF:-1,.SporTV2 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3739
+#EXTINF:-1,.SporTV3 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3737
+#EXTINF:-1,.Studio Universal HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3735
+#EXTINF:-1,.Syfy HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3733
+#EXTINF:-1,.TBS HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3731
+#EXTINF:-1,.TCM HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3729
+#EXTINF:-1,.Telecine Action HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3727
+#EXTINF:-1,.Telecine Cult  HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3724
+#EXTINF:-1,.Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3723
+#EXTINF:-1,.Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3721
+#EXTINF:-1,.Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3719
+#EXTINF:-1,.Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3717
+#EXTINF:-1,.TLC HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3715
+#EXTINF:-1,.TNT HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3713
+#EXTINF:-1,.TNT Series HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3711
+#EXTINF:-1,.Tooncast HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3709
+#EXTINF:-1,.TV Aparecida HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3707
+#EXTINF:-1,.Universal TV HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3705
+#EXTINF:-1,.VH1 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3701
+#EXTINF:-1,.Viva HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3699
+#EXTINF:-1,.Warner Channel HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3697
+#EXTINF:-1,.Zoomoo HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3695
+#EXTINF:-1,.Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/4920
+#EXTINF:-1,.Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/4922
+#EXTINF:-1,DISNEY JUNIOR HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7467
+#EXTINF:-1,DISNEY CHANNEL HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7451
+#EXTINF:-1,COMBATE HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7951
+#EXTINF:-1,CANAL BRASIL HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7940
+#EXTINF:-1,BIS HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7935
+#EXTINF:-1,SPORTV HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7934
+#EXTINF:-1,SPORTV 3 HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7960
+#EXTINF:-1,SPORTV 2 HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7937
+#EXTINF:-1,ESPORTE INTERATIVO HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/13721
+#EXTINF:-1,SBT GOIÂNIA HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8241
+#EXTINF:-1,PREMIERE CLUBES HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7961
+#EXTINF:-1,PREMIERE 4 HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8245
+#EXTINF:-1,PLAYKIDS HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7462
+#EXTINF:-1,OFF HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7958
+#EXTINF:-1,MULTISHOW HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7957
+#EXTINF:-1,MAIS GLOBOSAT HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7959
+#EXTINF:-1,GNT HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7936
+#EXTINF:-1,GLOOBINHO HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5614
+#EXTINF:-1,GLOOB HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7962
+#EXTINF:-1,GLOBO SP HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7952
+#EXTINF:-1,GLOBO RIO HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7955
+#EXTINF:-1,GLOBO REDE AMAZONICA HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7954
+#EXTINF:-1,GLOBO NORDESTE HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7953
+#EXTINF:-1,GLOBO NEWS HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7933
+#EXTINF:-1,GLOBO MINAS HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7939
+#EXTINF:-1,GLOBO BRASILIA HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7938
+#EXTINF:-1,FUTURA HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8138
+#EXTINF:-1,ESPN EXTRA HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8239
+#EXTINF:-1,ESPN BRASIL HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8124
+#EXTINF:-1,EIPLUS 2 HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7453
+#EXTINF:-1,EIPLUS 1 HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7459
+#EXTINF:-1,DISNEY XD HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7466
+#EXTINF:-1,TV GAZETA HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/12798
+#EXTINF:-1,VIVA HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7956
+#EXTINF:-1,RECORD HD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8054
+#EXTINF:-1,PREMIERE 4 HD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8192
+#EXTINF:-1,PREMIERE 3 HD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8191
+#EXTINF:-1,SBT PERNAMBUCO HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8243
+#EXTINF:-1,SBT PIAUÍ FHD CIDADE VERDE
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8242
+#EXTINF:-1,DAZN BRASIL 1 *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/12800
+#EXTINF:-1,DAZN BRASIL 2 *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/12801
+#EXTINF:-1,COPA DO NORDESTE HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8119
+#EXTINF:-1,COPA DO NORDESTE 2 HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8121
+#EXTINF:-1,COPA DO NORDESTE 3 HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8123
+#EXTINF:-1,REDE NEW HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/13336
+#EXTINF:-1,TOP TV HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/13335
+#EXTINF:-1,A&E SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8032
+#EXTINF:-1,ARTE1 SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8060
+#EXTINF:-1,AXN SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8067
+#EXTINF:-1,BAND SP SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8075
+#EXTINF:-1,BIS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8040
+#EXTINF:-1,BOOMERANG SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8042
+#EXTINF:-1,COMBATE SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8013
+#EXTINF:-1,COMEDY CENTRAL SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8033
+#EXTINF:-1,CURTA! SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8048
+#EXTINF:-1,E! SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8049
+#EXTINF:-1,ESPORTE INTERATIVO SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/13720
+#EXTINF:-1,FILM & ARTS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8028
+#EXTINF:-1,FISH TV SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8047
+#EXTINF:-1,FOX LIFE SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8029
+#EXTINF:-1,FOX SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8036
+#EXTINF:-1,FOX SPORTS 2 SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8068
+#EXTINF:-1,FOX SPORTS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8045
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5633
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5631
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5630
+#EXTINF:-1,GLOBO INTER TV CABUGI SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8062
+#EXTINF:-1,GLOBO NEWS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5623
+#EXTINF:-1,GLOBO NORDESTE SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5622
+#EXTINF:-1,GLOBO REDE AMAZÔNICA SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8063
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8061
+#EXTINF:-1,GLOBO SJRP SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5592
+#EXTINF:-1,GLOBO SP SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5616
+#EXTINF:-1,GLOBO TV BAHIA SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5598
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIBÁ SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5596
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5595
+#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5589
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/5588
+#EXTINF:-1,GNT SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8053
+#EXTINF:-1,HBO FAMILY SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8020
+#EXTINF:-1,HBO PLUS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8021
+#EXTINF:-1,HBO SIGNATURE SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8065
+#EXTINF:-1,LIFETIME SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8031
+#EXTINF:-1,MAIS GLOBOSAT SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8050
+#EXTINF:-1,anajulia SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8018
+#EXTINF:-1,anajulia UP SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8019
+#EXTINF:-1,MTV SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8039
+#EXTINF:-1,MULTISHOW SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8052
+#EXTINF:-1,MUSIC BOX BRAZIL SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8038
+#EXTINF:-1,NATGEO WILD SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8044
+#EXTINF:-1,NICK JR SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8043
+#EXTINF:-1,PREMIERE 3 SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8017
+#EXTINF:-1,PREMIERE 4 SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8016
+#EXTINF:-1,PREMIERE 5 SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8064
+#EXTINF:-1,PREMIERE 6 SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8015
+#EXTINF:-1,PREMIERE 8 SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8014
+#EXTINF:-1,SPACE SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8027
+#EXTINF:-1,SPORTV 2 SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8056
+#EXTINF:-1,STUDIO UNIVERSAL SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8026
+#EXTINF:-1,TBS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8034
+#EXTINF:-1,TCM SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8025
+#EXTINF:-1,TELECINE ACTION SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8024
+#EXTINF:-1,TELECINE CULT SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8057
+#EXTINF:-1,TELECINE FUN SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8023
+#EXTINF:-1,TELECINE PIPOCA SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8022
+#EXTINF:-1,TNT SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8066
+#EXTINF:-1,TNT SÉRIES SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8030
+#EXTINF:-1,TV RA TIM BUM SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8041
+#EXTINF:-1,UNIVERSAL TV SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8059
+#EXTINF:-1,VH1 MEGAHITS SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8037
+#EXTINF:-1,VIVA SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8051
+#EXTINF:-1,WARNER CHANNEL SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8035
+#EXTINF:-1,WOOHOO SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8046
+#EXTINF:-1,AMC SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8103
+#EXTINF:-1,ANIMAL PLANET SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8137
+#EXTINF:-1,BABY TV SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8104
+#EXTINF:-1,BAND NEWS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8115
+#EXTINF:-1,BAND SP HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7964
+#EXTINF:-1,BAND SPORTS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8116
+#EXTINF:-1,CANAL BRASIL SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8086
+#EXTINF:-1,CANAL BRASIL SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/11256
+#EXTINF:-1,CINEanajulia SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8095
+#EXTINF:-1,COPA DO NORDESTE 2 SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8120
+#EXTINF:-1,DISCOVERY CHANNEL SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8078
+#EXTINF:-1,DISCOVERY H&H SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8117
+#EXTINF:-1,DISCOVERY KIDS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8097
+#EXTINF:-1,DISNEY JUNIOR SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7450
+#EXTINF:-1,DISNEY XD SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7449
+#EXTINF:-1,ESPN 2 SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7457
+#EXTINF:-1,ESPN BRASIL SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7460
+#EXTINF:-1,ESPN EXTRA SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7452
+#EXTINF:-1,ESPN SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7456
+#EXTINF:-1,FOOD NETWORK SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8106
+#EXTINF:-1,FUTURA SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/11257
+#EXTINF:-1,FX SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/12790
+#EXTINF:-1,GLOBO BRASILIA SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8084
+#EXTINF:-1,GLOBO BRASILIA SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/10959
+#EXTINF:-1,GLOBO MINAS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8083
+#EXTINF:-1,GLOBO MINAS SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/10958
+#EXTINF:-1,GLOBO NORDESTE SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/10960
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8113
+#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/10963
+#EXTINF:-1,GLOBO RIO SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8085
+#EXTINF:-1,GLOBO RIO SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/10961
+#EXTINF:-1,GLOBO SP HD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/10962
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIÂNIA SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8082
+#EXTINF:-1,GLOBO TV TEM BAURU SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8081
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8092
+#EXTINF:-1,GLOOB SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8077
+#EXTINF:-1,H2 SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8112
+#EXTINF:-1,HBO 2 SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8108
+#EXTINF:-1,HBO SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8100
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8109
+#EXTINF:-1,anajulia PRIME SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8094
+#EXTINF:-1,MEGAPIX SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8096
+#EXTINF:-1,NATGEO KIDS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8110
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8114
+#EXTINF:-1,NICKELODEON SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8111
+#EXTINF:-1,OFF SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/12637
+#EXTINF:-1,PARAMOUNT CHANNEL SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/12788
+#EXTINF:-1,PREMIERE 2 SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8107
+#EXTINF:-1,PREMIERE 7 SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8093
+#EXTINF:-1,PREMIERE CLUBES SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8087
+#EXTINF:-1,RECORD BRASILIA SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7445
+#EXTINF:-1,RECORD GOIAS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8438
+#EXTINF:-1,RECORD MINAS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7444
+#EXTINF:-1,RECORD NEWS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7464
+#EXTINF:-1,RECORD RIO SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7443
+#EXTINF:-1,RECORD RS SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7465
+#EXTINF:-1,RECORD SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7446
+#EXTINF:-1,SBT PERNAMBUCO SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8244
+#EXTINF:-1,SONY SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8079
+#EXTINF:-1,SPORTV 2 SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/11254
+#EXTINF:-1,SPORTV 3 SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8099
+#EXTINF:-1,SPORTV 3 SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/11255
+#EXTINF:-1,SPORTV SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8089
+#EXTINF:-1,SPORTV SD **
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/11253
+#EXTINF:-1,SYFY SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/12785
+#EXTINF:-1,TELECINE PREMIUM SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8102
+#EXTINF:-1,TELECINE TOUCH SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8101
+#EXTINF:-1,THE HISTORY CHANNEL SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8098
+#EXTINF:-1,TLC SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8088
+#EXTINF:-1,TOONCAST SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8105
+#EXTINF:-1,TV DIÁRIO SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/10966
+#EXTINF:-1,TV TROPICAL SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8433
+#EXTINF:-1,ZOOMOO SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/12789
+#EXTINF:-1,COPA DO NORDESTE 3 SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8122
+#EXTINF:-1,COPA DO NORDESTE SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8118
+#EXTINF:-1,GLOOBINHO SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/13337
+#EXTINF:-1,BOING (ESP)*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8183
+#EXTINF:-1,DIVINITY HD (ESP)*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8185
+#EXTINF:-1,CNN ESPANHOL SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8058
+#EXTINF:-1,CUATRO (ESP)*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8184
+#EXTINF:-1,ENERGY (ESP)*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8187
+#EXTINF:-1,FDP (ESP)*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8186
+#EXTINF:-1,TELECINCO HD (ESP)*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8182
+#EXTINF:-1,LA 1 *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8275
+#EXTINF:-1,24H *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8274
+#EXTINF:-1,ABU DABI SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8073
+#EXTINF:-1,ABU DABI SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8069
+#EXTINF:-1,ABU DABI SPORT 3 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8070
+#EXTINF:-1,ABU DABI SPORT 4 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8071
+#EXTINF:-1,ABU DABI SPORT 5 HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8072
+#EXTINF:-1,CNN INTERNACIONAL SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8090
+#EXTINF:-1,.NHK HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3785
+#EXTINF:-1,.NHK SD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3784
+#EXTINF:-1,NHK WORLD HD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7344
+#EXTINF:-1,NHK WORLD JAPAN HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/7346
+#EXTINF:-1,.Sextreme HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3749
+#EXTINF:-1,.Sextreme SD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3748
+#EXTINF:-1,.Sexy Hot HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3747
+#EXTINF:-1,.Sexy Hot SD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3746
+#EXTINF:-1,.Playboy SD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3776
+#EXTINF:-1,SEXTREME SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8011
+#EXTINF:-1,SEXY HOT SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8010
+#EXTINF:-1,.Playboy HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3777
+#EXTINF:-1,PLAYTV SD *
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8091
+#EXTINF:-1,PLAYBOY SD*
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/8012
+#EXTINF:-1,.Venus HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3703
+#EXTINF:-1,.Venus SD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&anajuliabitrate=1264000&amp;url=http://pndxt01.dyndns.org:25461/anajulia/anajulia/3702
