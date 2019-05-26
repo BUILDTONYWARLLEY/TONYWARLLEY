@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]AÇÃO [/B][/COLOR]</title>
+<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR][COLOR mediumblue]lll[/COLOR] [B][COLOR yellow]AÇÃO [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
@@ -10,7 +10,7 @@
 </item>
  
 <item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]AVENTURA[/B][/COLOR]</title>
+<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR][COLOR mediumblue]lll[/COLOR] [B][COLOR yellow]AVENTURA[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
@@ -19,7 +19,7 @@
 </item>
  
 <item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]COMÉDIA[/B][/COLOR]</title>
+<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR][COLOR mediumblue]lll[/COLOR] [B][COLOR yellow]COMÉDIA[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
@@ -28,7 +28,7 @@
 </item>
  
 <item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]CRIME[/B][/COLOR]</title>
+<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR][COLOR mediumblue]lll[/COLOR] [B][COLOR yellow]CRIME[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
@@ -37,7 +37,7 @@
 </item>
  
 <item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]DRAMA[/B][/COLOR]</title>
+<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR][COLOR mediumblue]lll[/COLOR] [B][COLOR yellow]DRAMA[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
@@ -46,7 +46,7 @@
 </item>
  
 <item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]SCI-FI[/B][/COLOR]</title>
+<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR][COLOR mediumblue]lll[/COLOR] [B][COLOR yellow]SCI-FI[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
@@ -55,7 +55,7 @@
 </item>
  
 <item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]SUSPENSE[/B][/COLOR]</title>
+<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR][COLOR mediumblue]lll[/COLOR] [B][COLOR yellow]SUSPENSE[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
@@ -64,19 +64,11 @@
 </item>
  
 <item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]TERROR[/B][/COLOR]</title>
+<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR][COLOR mediumblue]lll[/COLOR] [B][COLOR yellow]TERROR[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Terror</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE08_TERROR.xml</externallink>
 </item>
- 
-<item>
-<title>[COLOR green]lll[/COLOR][COLOR yellow]lll[/COLOR][COLOR white]lll[/COLOR] [B][COLOR yellow]FILMES NETCINE.US (Escolhe o que queres ver)[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
-<fanart></fanart>
-<info>Filmes para escolher do site NetFilmes US</info>
-<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE09_NETFILMES.xml</externallink>
-</item>
+
