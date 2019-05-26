@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[B][COLOR deepskyblue]ACÇÃO [/B][/COLOR]</title>
+<title>[B][COLOR yellow]ACÇÃO [/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Accao</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE01_ACCAO.xml</externallink>
 </item>
  
 <item>
-<title>[B][COLOR deepskyblue]AVENTURA[/B][/COLOR]</title>
+<title>[B][COLOR yellow]AVENTURA[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Aventura</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE02_AVENTURA.xml</externallink>
 </item>
  
 <item>
-<title>[B][COLOR deepskyblue]COMEDIA[/B][/COLOR]</title>
+<title>[B][COLOR yellow]COMEDIA[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Comedia</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE03_COMEDIA.xml</externallink>
 </item>
  
 <item>
-<title>[B][COLOR deepskyblue]CRIME[/B][/COLOR]</title>
+<title>[B][COLOR yellow]CRIME[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Crime</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE04_CRIME.xml</externallink>
 </item>
  
 <item>
-<title>[B][COLOR deepskyblue]DRAMA[/B][/COLOR]</title>
+<title>[B][COLOR yellow]DRAMA[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Drama</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE05_DRAMA.xml</externallink>
 </item>
  
 <item>
-<title>[B][COLOR deepskyblue]SCI-FI[/B][/COLOR]</title>
+<title>[B][COLOR yellow]SCI-FI[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Ficcção Cientifica</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE06_SCIFI.xml</externallink>
 </item>
  
 <item>
-<title>[B][COLOR deepskyblue]SUSPENSE[/B][/COLOR]</title>
+<title>[B][COLOR yellow]SUSPENSE[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Suspense</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE07_SUSPENSE.xml</externallink>
 </item>
  
 <item>
-<title>[B][COLOR deepskyblue]TERROR[/B][/COLOR]</title>
+<title>[B][COLOR yellow]TERROR[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Género Terror</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE08_TERROR.xml</externallink>
 </item>
  
 <item>
-<title>[B][COLOR deepskyblue]FILMES NETCINE.US (Escolhe o que queres ver)[/B][/COLOR]</title>
+<title>[B][COLOR yellow]FILMES NETCINE.US (Escolhe o que queres ver)[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://nortelitoral.tv/wp-content/uploads/2015/03/Cinema.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/z0tA90i.png</thumbnail>
 <fanart></fanart>
 <info>Filmes para escolher do site NetFilmes US</info>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE09_NETFILMES.xml</externallink>
