@@ -241,7 +241,6 @@
 <item>
 <title>[COLOR white][B] ESPN [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]espn.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]espn-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/espn-symbol.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -250,7 +249,6 @@
 <item>
 <title>[COLOR white][B] ESPN 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]espn2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]espnmais-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/espn-symbol.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -259,7 +257,6 @@
 <item>
 <title>[COLOR white][B] ESPN Brasil [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]espnbrasil.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]espnbrasil-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/espnbr.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -268,7 +265,6 @@
 <item>
 <title>[COLOR white][B] ESPN Extra [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]espnextra.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]espnextra-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/extra.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -277,7 +273,6 @@
 <item>
 <title>[COLOR white][B] Fish TV [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]fishtv.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[QCOLOR]</link>
-<link>$doregex[TWT]fishtv-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[QCOLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/logo-fishtv-blog1.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -286,7 +281,6 @@
 <item>
 <title>[COLOR white][B] FOX [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]fox.m3u8|Referer=http://www.miceret.com$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]fox-sd.m3u8|Referer=http://www.miceret.com/$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/fox.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -295,7 +289,6 @@
 <item>
 <title>[COLOR white][B] Fox Life [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]foxlife.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]foxlife-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/foxlife.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -304,7 +297,6 @@
 <item>
 <title>[COLOR white][B] Fox Premium 1 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]foxpremium1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]foxpremium1-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/foxpremium1.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -313,7 +305,6 @@
 <item>
 <title>[COLOR white][B] Fox Premium 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]foxpremium2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]foxpremium2-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/foxpremium2.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -322,7 +313,6 @@
 <item>
 <title>[COLOR white][B] Fox Sports 1 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]foxsports1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]foxsports1-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/fox-sports.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -331,7 +321,6 @@
 <item>
 <title>[COLOR white][B] Fox Sports 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]foxsports2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]foxsports2-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/fox-sports.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -340,7 +329,6 @@
 <item>
 <title>[COLOR white][B] FX [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]fx.m3u8|Referer=http://cometa.top/contadorcanais.php$nome-=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]fx-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome-=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/fx.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -349,7 +337,6 @@
 <item>
 <title>[COLOR white][B] Globo News [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]globonews.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]globonews-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/globonew.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -358,7 +345,6 @@
 <item>
 <title>[COLOR white][B] Globo RJ [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]boborj.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]boborj-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -367,7 +353,6 @@
 <item>
 <title>[COLOR white][B] Globo SP [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]bobosp.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]bobosp-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -377,7 +362,6 @@
 <item>
 <title>[COLOR white][B] Globo Nordeste [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]bobonordeste.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]bobonordeste-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -386,7 +370,6 @@
 <item>
 <title>[COLOR white][B] Gloob [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]gloob.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]gloob-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Logo-Gloob.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -395,7 +378,6 @@
 <item>
 <title>[COLOR white][B] GNT [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]gnt.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]gnt-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/gnt.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -404,7 +386,6 @@
 <item>
 <title>[COLOR white][B] HBO [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]hbo.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]hbo-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/hbo.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -413,7 +394,6 @@
 <item>
 <title>[COLOR white][B] HBO 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]hbo2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]hbo2-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/hbo2.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -422,7 +402,6 @@
 <item>
 <title>[COLOR white][B] HBO Family [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]hbofamily.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]hbofamily-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/hbofamily.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -431,7 +410,6 @@
 <item>
 <title>[COLOR white][B] HBO Plus [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]hboplus.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]hboplus-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/hboplus.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -440,7 +418,6 @@
 <item>
 <title>[COLOR white][B] HBO Signature [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]hbosignature.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]hbosignature-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Hbosignature.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -449,7 +426,6 @@
 <item>
 <title>[COLOR white][B] History [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]history.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]history-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/history_channel_logo.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -458,7 +434,6 @@
 <item>
 <title>[COLOR white][B] History 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]history2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]history2-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/historia.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -467,7 +442,6 @@
 
 <item><title>[COLOR white][B] Investigação Discovery [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]investigacaodiscovery.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLER gold]HD[/COLOR]</link>
-<link>$doregex[TWT]investigacaodiscovery-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLER green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Idiscovery.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -476,7 +450,6 @@
 <item>
 <title>[COLOR white][B] Lifetime [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]lifetime.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]lifetime-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/lifetime.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -485,7 +458,6 @@
 <item>
 <title>[COLOR white][B] MAX [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]max.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]max-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Max_HD.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -494,7 +466,6 @@
 <item>
 <title>[COLOR white][B] Max Prime [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]maxprime.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]maxprime-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Maxprime.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -503,7 +474,6 @@
 <item>
 <title>[COLOR white][B] Max UP [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]maxup.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]maxup-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Max-up-canal.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -512,7 +482,6 @@
 <item>
 <title>[COLOR white][B] Megapix [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]megapix.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]megapix-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Megapix.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -521,7 +490,6 @@
 <item>
 <title>[COLOR white][B] MTV [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]mtv.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]mtv-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/mtv-logo.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -530,7 +498,6 @@
 <item>
 <title>[COLOR white][B] Multishow [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]multishow.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]multishow-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Multishow.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -539,7 +506,6 @@
 <item>
 <title>[COLOR white][B] NatGeo Kids [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]natgeokids.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]natgeokids-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Nat_Geo_Kids.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -548,7 +514,6 @@
 <item>
 <title>[COLOR white][B] NatGeo Wild [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]natgeowind.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]natgeowind-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Nat_Geo_Wild.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -557,7 +522,6 @@
 <item>
 <title>[COLOR white][B] National Geographic [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]natgeo.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]natgeo-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Nationag.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -566,7 +530,6 @@
 <item>
 <title>[COLOR white][B] Nick JR [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]nickjr.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]nickjr-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/nick-jnr.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -575,7 +538,6 @@
 <item>
 <title>[COLOR white][B] Nickelodeon [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]nick.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]nick-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/nickelodeon.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -584,7 +546,6 @@
 <item>
 <title>[COLOR white][B] Paramount [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]paramount.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]paramount-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/paramounthd.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -593,7 +554,6 @@
 <item>
 <title>[COLOR white][B] Premiere Clubes [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiereclubes.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiereclubes-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiereclubes.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -602,7 +562,6 @@
 <item>
 <title>[COLOR white][B] Premiere 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiere2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiere2-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere2.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -611,7 +570,6 @@
 <item>
 <title>[COLOR white][B] Premiere 3 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiere3.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiere3-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere3.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -620,7 +578,6 @@
 <item>
 <title>[COLOR white][B] Premiere 4 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiere4.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiere4-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere4.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -629,7 +586,6 @@
 <item>
 <title>[COLOR white][B] Premiere 5 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiere5.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiere5-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere5.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -638,7 +594,6 @@
 <item>
 <title>[COLOR white][B] Premiere 6 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiere6.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiere6-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere6.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -647,7 +602,6 @@
 <item>
 <title>[COLOR white][B] Premiere 7 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiere7.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiere7-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere7.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -656,7 +610,6 @@
 <item>
 <title>[COLOR white][B] Premiere 8 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiere8.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiere8-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -665,7 +618,6 @@
 <item>
 <title>[COLOR white][B] Premiere 9 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]premiere9.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]premiere9-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -674,7 +626,6 @@
 <item>
 <title>[COLOR white][B] Record [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]recordsp.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]recordsp-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/record.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -683,7 +634,6 @@
 <item>
 <title>[COLOR white][B] SBT [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]sbt.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]sbt-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/sbt.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -692,7 +642,6 @@
 <item>
 <title>[COLOR white][B] Space [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]space.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]space-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Space_logo.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -701,7 +650,6 @@
 <item>
 <title>[COLOR white][B] SporTV 1 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]sportv1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]sportv1-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/sportv.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -710,7 +658,6 @@
 <item>
 <title>[COLOR white][B] SporTV 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]sportv2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]sportv2-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/sportv2.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -719,7 +666,6 @@
 <item>
 <title>[COLOR white][B] SporTV 3 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]sportv3.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]sportv3-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/sportv3.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -728,7 +674,6 @@
 <item>
 <title>[COLOR white][B] Stúdio Universal [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]studiouniversal.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]studiouniversal-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Studio-Universal.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -737,7 +682,6 @@
 <item>
 <title>[COLOR white][B] Syfy [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]syfy.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]syfy-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/syfi.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -746,7 +690,6 @@
 <item>
 <title>[COLOR white][B] TCM [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]tcm.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]tcm-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Tcm_logo_red.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -755,7 +698,6 @@
 <item>
 <title>[COLOR white][B] Telecine Action [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]telecineaction.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]telecineaction-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Telecineaction.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -764,7 +706,6 @@
 <item>
 <title>[COLOR white][B] Telecine Cult [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]telecinecult.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]telecinecult-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/cult.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -773,7 +714,6 @@
 <item>
 <title>[COLOR white][B] Telecine Fun [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]telecinefun.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]telecinefun-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/fun.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -782,7 +722,6 @@
 <item>
 <title>[COLOR white][B] Telecine Pipoca [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]telecinepipoca.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]telecinepipoca-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/pipoca.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -791,7 +730,6 @@
 <item>
 <title>[COLOR white][B] Telecine Premium [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]telecinepremium.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]telecinepremium-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Telecinepremium.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -800,7 +738,6 @@
 <item>
 <title>[COLOR white][B] Telecine Touch [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]telecinetouch.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]telecinetouch-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/touch.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -809,7 +746,6 @@
 <item>
 <title>[COLOR white][B] TLC Discovery [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]tlc.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]tlc-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/TLC-Logo.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -818,7 +754,6 @@
 <item>
 <title>[COLOR white][B] TNT [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]tnt.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]tnt-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -827,7 +762,6 @@
 <item>
 <title>[COLOR white][B] TNT 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]esporteinterativo1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]esporteinterativo1-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -836,7 +770,6 @@
 <item>
 <title>[COLOR white][B] TNT 3 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]esporteinterativo2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]esporteinterativo2-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -845,7 +778,6 @@
 <item>
 <title>[COLOR white][B] TNT Séries [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]tntseries.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]tntseries-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/tntserie.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -854,7 +786,6 @@
 <item>
 <title>[COLOR white][B] Tooncast [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]tooncast.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]tooncast-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Tooncast.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -863,7 +794,6 @@
 <item>
 <title>[COLOR white][B] Universal Channel [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]universal.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]universal-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/universal.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -872,7 +802,6 @@
 <item>
 <title>[COLOR white][B] VIVA [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]viva.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]viva-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/vivanethd1.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -881,7 +810,6 @@
 <item>
 <title>[COLOR white][B] Warner [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]warner.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]warner-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Warner-channel-not1.png</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
@@ -890,7 +818,6 @@
 <item>
 <title>[COLOR white][B] Zoomoo [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
 <link>$doregex[TWT]zoomoo.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<link>$doregex[TWT]zoomoo-sd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR green]SD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/zoomoo.jpg</thumbnail>
 <fanart></fanart>
 <regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
