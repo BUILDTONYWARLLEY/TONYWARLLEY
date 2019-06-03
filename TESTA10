@@ -4,7 +4,7 @@
 <link>$doregex[TWT]maisbobosat.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/maisglobosat.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -12,7 +12,7 @@
 <link>$doregex[TWT]aie.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/ae-a-and-e-logo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -20,7 +20,7 @@
 <link>$doregex[TWT]amc.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/amc-logo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -28,7 +28,7 @@
 <link>$doregex[TWT]animalplanet.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Animal-planet-logo.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -36,7 +36,7 @@
 <link>$doregex[TWT]arte1.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/arte1.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -44,7 +44,7 @@
 <link>$doregex[TWT]axn.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/axn.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -52,7 +52,7 @@
 <link>$doregex[TWT]band.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Bandeirantes.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -60,7 +60,7 @@
 <link>$doregex[TWT]bandnews.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/bandnews.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Noticias</genre></item>
 
 <item>
@@ -68,7 +68,7 @@
 <link>$doregex[TWT]bandsports.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/bandsports.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -76,7 +76,7 @@
 <link>$doregex[TWT]bis.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Canal%20BIS.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -84,7 +84,7 @@
 <link>$doregex[TWT]boomerang.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/boomerang.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -92,7 +92,7 @@
 <link>$doregex[TWT]off.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/off.PNG</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -100,7 +100,7 @@
 <link>$doregex[TWT]sony.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/sony.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -108,7 +108,7 @@
 <link>$doregex[TWT]cartoon.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/cartoonnetwork.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -116,7 +116,7 @@
 <link>$doregex[TWT]cinemax.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Cinemax.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -124,7 +124,7 @@
 <link>$doregex[TWT]combate.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/combate.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -132,7 +132,7 @@
 <link>$doregex[TWT]comedycentral.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Comedycentral.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -140,7 +140,7 @@
 <link>$doregex[TWT]curta.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/curta.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -148,7 +148,7 @@
 <link>$doregex[TWT]discovery.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/discovery-channel.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -156,7 +156,7 @@
 <link>$doregex[TWT]discoverycivilization.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/discovery-civilization.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -164,7 +164,7 @@
 <link>$doregex[TWT]discoveryhomeihealth.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>https://i.servimg.com/u/f97/19/82/45/70/maxiho10.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -172,7 +172,7 @@
 <link>$doregex[TWT]discoverykids.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Discovery-Kids.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -180,7 +180,7 @@
 <link>$doregex[TWT]discoverysience.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Discovery_Science_HD.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -188,7 +188,7 @@
 <link>$doregex[TWT]discoverytheater.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/discoverytheater.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -196,7 +196,7 @@
 <link>$doregex[TWT]discoveryturbo.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Discoveryturbo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -204,7 +204,7 @@
 <link>$doregex[TWT]discoveryworld.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/discworld.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -212,7 +212,7 @@
 <link>$doregex[TWT]disney.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Disneych.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -220,7 +220,7 @@
 <link>$doregex[TWT]disneyjunior.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/disneyjr.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -228,7 +228,7 @@
 <link>$doregex[TWT]disneyxd.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/disneyxd.jpg</thumbnail>
 <fanart></fanart><regex><name>KelTecMP</name>
-<expres>(.*?)..tf</expres><page>http://bit.ly/TWT</page></regex>
+<expres>(.*?)..tf</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -236,7 +236,7 @@
 <link>$doregex[TWT]canale.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/E.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -244,7 +244,7 @@
 <link>$doregex[TWT]espn.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/espn-symbol.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -252,7 +252,7 @@
 <link>$doregex[TWT]espn2.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/espn-symbol.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -260,7 +260,7 @@
 <link>$doregex[TWT]espnbrasil.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/espnbr.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -268,7 +268,7 @@
 <link>$doregex[TWT]espnextra.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/extra.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -276,7 +276,7 @@
 <link>$doregex[TWT]fishtv.m3u8|Referer=https://cometa.top/contador.php/[QCOLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/logo-fishtv-blog1.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -284,7 +284,7 @@
 <link>$doregex[TWT]fox.m3u8|Referer=http://www.miceret.com[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/fox.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -292,7 +292,7 @@
 <link>$doregex[TWT]foxlife.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/foxlife.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -300,7 +300,7 @@
 <link>$doregex[TWT]foxpremium1.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/foxpremium1.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -308,7 +308,7 @@
 <link>$doregex[TWT]foxpremium2.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/foxpremium2.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -316,7 +316,7 @@
 <link>$doregex[TWT]foxsports1.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/fox-sports.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -324,7 +324,7 @@
 <link>$doregex[TWT]foxsports2.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/fox-sports.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -332,7 +332,7 @@
 <link>$doregex[TWT]fx.m3u8|Referer=https://cometa.top/contador.php/$nome-=[COLOR gold]HD[/COLOR]</link
 <thumbnail>http://webtvcde.com/Androidtv/fx.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -340,7 +340,7 @@
 <link>$doregex[TWT]globonews.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/globonew.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Noticias</genre></item>
 
 <item>
@@ -348,7 +348,7 @@
 <link>$doregex[TWT]boborj.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Abertos</genre></item>
 
 <item>
@@ -356,7 +356,7 @@
 <link>$doregex[TWT]bobosp.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Abertos</genre></item>
 
 <items>
@@ -365,7 +365,7 @@
 <link>$doregex[TWT]bobonordeste.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Abertos</genre></item>
 
 <item>
@@ -373,7 +373,7 @@
 <link>$doregex[TWT]gloob.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Logo-Gloob.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -381,7 +381,7 @@
 <link>$doregex[TWT]gnt.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/gnt.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -389,7 +389,7 @@
 <link>$doregex[TWT]hbo.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/hbo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -397,7 +397,7 @@
 <link>$doregex[TWT]hbo2.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/hbo2.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -405,7 +405,7 @@
 <link>$doregex[TWT]hbofamily.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/hbofamily.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -413,7 +413,7 @@
 <link>$doregex[TWT]hboplus.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/hboplus.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -421,7 +421,7 @@
 <link>$doregex[TWT]hbosignature.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Hbosignature.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -429,7 +429,7 @@
 <link>$doregex[TWT]history.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/history_channel_logo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -437,7 +437,7 @@
 <link>$doregex[TWT]history2.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/historia.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 
@@ -445,7 +445,7 @@
 <link>$doregex[TWT]investigacaodiscovery.m3u8|Referer=https://cometa.top/contador.php/$nome=[COLER gold]HD[/COLOR]</link>
 <thumbnail>http://webtvcde.com/Androidtv/Idiscovery.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -453,7 +453,7 @@
 <link>$doregex[TWT]lifetime.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/lifetime.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -461,7 +461,7 @@
 <link>$doregex[TWT]max.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Max_HD.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -469,7 +469,7 @@
 <link>$doregex[TWT]maxprime.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Maxprime.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -477,7 +477,7 @@
 <link>$doregex[TWT]maxup.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Max-up-canal.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -485,7 +485,7 @@
 <link>$doregex[TWT]megapix.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Megapix.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -493,7 +493,7 @@
 <link>$doregex[TWT]mtv.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/mtv-logo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -501,7 +501,7 @@
 <link>$doregex[TWT]multishow.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Multishow.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -509,7 +509,7 @@
 <link>$doregex[TWT]natgeokids.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Nat_Geo_Kids.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -517,7 +517,7 @@
 <link>$doregex[TWT]natgeowind.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Nat_Geo_Wild.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -525,7 +525,7 @@
 <link>$doregex[TWT]natgeo.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Nationag.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Documentários</genre></item>
 
 <item>
@@ -533,7 +533,7 @@
 <link>$doregex[TWT]nickjr.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/nick-jnr.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -541,7 +541,7 @@
 <link>$doregex[TWT]nick.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/nickelodeon.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -549,7 +549,7 @@
 <link>$doregex[TWT]paramount.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/paramounthd.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -557,7 +557,7 @@
 <link>$doregex[TWT]premiereclubes.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiereclubes.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -565,7 +565,7 @@
 <link>$doregex[TWT]premiere2.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere2.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -573,7 +573,7 @@
 <link>$doregex[TWT]premiere3.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere3.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -581,7 +581,7 @@
 <link>$doregex[TWT]premiere4.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere4.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -589,7 +589,7 @@
 <link>$doregex[TWT]premiere5.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere5.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -597,7 +597,7 @@
 <link>$doregex[TWT]premiere6.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere6.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -605,7 +605,7 @@
 <link>$doregex[TWT]premiere7.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/premiere7.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -613,7 +613,7 @@
 <link>$doregex[TWT]premiere8.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -621,7 +621,7 @@
 <link>$doregex[TWT]premiere9.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -629,7 +629,7 @@
 <link>$doregex[TWT]recordsp.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/record.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Abertos</genre></item>
 
 <item>
@@ -637,7 +637,7 @@
 <link>$doregex[TWT]sbt.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/sbt.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Abertos</genre></item>
 
 <item>
@@ -645,7 +645,7 @@
 <link>$doregex[TWT]space.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Space_logo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -653,7 +653,7 @@
 <link>$doregex[TWT]sportv1.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/sportv.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -661,7 +661,7 @@
 <link>$doregex[TWT]sportv2.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/sportv2.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -669,7 +669,7 @@
 <link>$doregex[TWT]sportv3.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/sportv3.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Esportes</genre></item>
 
 <item>
@@ -677,7 +677,7 @@
 <link>$doregex[TWT]studiouniversal.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Studio-Universal.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -685,7 +685,7 @@
 <link>$doregex[TWT]syfy.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/syfi.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -693,7 +693,7 @@
 <link>$doregex[TWT]tcm.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Tcm_logo_red.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -701,7 +701,7 @@
 <link>$doregex[TWT]telecineaction.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Telecineaction.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -709,7 +709,7 @@
 <link>$doregex[TWT]telecinecult.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/cult.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -717,7 +717,7 @@
 <link>$doregex[TWT]telecinefun.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/fun.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -725,7 +725,7 @@
 <link>$doregex[TWT]telecinepipoca.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/pipoca.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -733,7 +733,7 @@
 <link>$doregex[TWT]telecinepremium.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Telecinepremium.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -741,7 +741,7 @@
 <link>$doregex[TWT]telecinetouch.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/touch.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -749,7 +749,7 @@
 <link>$doregex[TWT]tlc.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/TLC-Logo.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -757,7 +757,7 @@
 <link>$doregex[TWT]tnt.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -765,7 +765,7 @@
 <link>$doregex[TWT]esporteinterativo1.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -773,7 +773,7 @@
 <link>$doregex[TWT]esporteinterativo2.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -781,7 +781,7 @@
 <link>$doregex[TWT]tntseries.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/tntserie.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -789,7 +789,7 @@
 <link>$doregex[TWT]tooncast.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Tooncast.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 
 <item>
@@ -797,7 +797,7 @@
 <link>$doregex[TWT]universal.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/universal.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -805,7 +805,7 @@
 <link>$doregex[TWT]viva.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/vivanethd1.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Variedades</genre></item>
 
 <item>
@@ -813,7 +813,7 @@
 <link>$doregex[TWT]warner.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/Warner-channel-not1.png</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Filmes/Séries</genre></item>
 
 <item>
@@ -821,7 +821,7 @@
 <link>$doregex[TWT]zoomoo.m3u8|Referer=https://cometa.top/contador.php/</link>
 <thumbnail>http://webtvcde.com/Androidtv/zoomoo.jpg</thumbnail>
 <fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/TWT</page></regex>
+<regex><name>TWT</name><expres>(.*?).TWT</expres><page>http://bit.ly/2ucb1nO</page></regex>
 <genre>Infantil</genre></item>
 <info>https://www.youtube.com/user/djricos29</info>
 </item>
