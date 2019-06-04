@@ -2099,5 +2099,4 @@ plugin://plugin.video.f4mTester/?nameTWT&streamtype=TSDOWNLOADER&amp;url=http://
 plugin://plugin.video.f4mTester/?nameTWT&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/Mario123/Mario123/277
 #EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Infantil",[B][COLOR orange][B][/B][/COLOR] Zoomoo
 plugin://plugin.video.f4mTester/?nameTWT&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/Mario123/Mario123/19994
-#EXTINF:-1 tvg-id="" tvg-name="Apenas um Show" tvg-logo="https://imgur.com/KKiWcrP.jpg" group-title="Desenhos 24Hs",[B][COLOR orange][B][/B][/COLOR] Apenas um Show
-plugin://plugin.video.f4mTester/?nameTWT&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/Mario123/Mario123/29802
+
