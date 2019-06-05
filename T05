@@ -1,6 +1,9 @@
 #EXTM3U
 
-V
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E SD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/4404
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD
+plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/8139
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E FHD (DUAL AUDIO)
 plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/9344
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC SD
