@@ -1,824 +1,234 @@
-<item>
-<title>[COLOR white][B] +Globosat [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]maisbobosat.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/maisglobosat.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] A&E[/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]aie.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/ae-a-and-e-logo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] AMC [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]amc.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/amc-logo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Animal Planet [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]animalplanet.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Animal-planet-logo.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] Arte1 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]arte1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/arte1.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] AXN [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]axn.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/axn.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[B][COLOR white] Band [/B][/COLOR][B][COLOR green][/COLOR][/B] </title>
-<link>$doregex[TWT]band.m3u8|Referer=http://cometa.top/contadorcanais.php</link>
-<thumbnail>http://webtvcde.com/Androidtv/Bandeirantes.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Band News [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]bandnews.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/bandnews.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Noticias</genre></item>
-
-<item>
-<title>[COLOR white][B] Band Sports [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]bandsports.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/bandsports.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] BIS [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]bis.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Canal%20BIS.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Boomerang [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]boomerang.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/boomerang.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] Canal Off [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]off.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/off.PNG</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Canal Sony [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]sony.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/sony.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Cartoon Network [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]cartoon.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/cartoonnetwork.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] Cinemax [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]cinemax.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Cinemax.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Combate [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]combate.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/combate.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Comedy Central [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]comedycentral.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Comedycentral.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Curta! [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]curta.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/curta.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Discovery Channel [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]discovery.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/discovery-channel.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] Discovery Civilization [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]discoverycivilization.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/discovery-civilization.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] Discovery Home & Health [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]discoveryhomeihealth.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>https://i.servimg.com/u/f97/19/82/45/70/maxiho10.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Discovery Kids [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]discoverykids.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Discovery-Kids.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] Discovery Science [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]discoverysience.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Discovery_Science_HD.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] Discovery Theater [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]discoverytheater.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/discoverytheater.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] Discovery Turbo [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]discoveryturbo.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Discoveryturbo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] Discovery World [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]discoveryworld.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/discworld.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Disney Channel [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]disney.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Disneych.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] Disney Júnior [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]disneyjunior.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/disneyjr.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] Disney XD [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]disneyxd.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/disneyxd.jpg</thumbnail>
-<fanart></fanart><regex><name>KelTecMP</name>
-<expres>(.*?)..tf</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] E! Entertainment [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]canale.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/E.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] ESPN [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]espn.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/espn-symbol.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] ESPN 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]espn2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/espn-symbol.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] ESPN Brasil [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]espnbrasil.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/espnbr.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] ESPN Extra [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]espnextra.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/extra.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Fish TV [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]fishtv.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[QCOLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/logo-fishtv-blog1.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] FOX [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]fox.m3u8|Referer=http://www.miceret.com$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/fox.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Fox Life [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]foxlife.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/foxlife.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Fox Premium 1 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]foxpremium1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/foxpremium1.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Fox Premium 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]foxpremium2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/foxpremium2.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Fox Sports 1 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]foxsports1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/fox-sports.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Fox Sports 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]foxsports2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/fox-sports.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] FX [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]fx.m3u8|Referer=http://cometa.top/contadorcanais.php$nome-=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/fx.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Globo News [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]globonews.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/globonew.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Noticias</genre></item>
-
-<item>
-<title>[COLOR white][B] Globo RJ [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]boborj.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Abertos</genre></item>
-
-<item>
-<title>[COLOR white][B] Globo SP [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]bobosp.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Abertos</genre></item>
-
-<items>
-<item>
-<title>[COLOR white][B] Globo Nordeste [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]bobonordeste.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/globo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Abertos</genre></item>
-
-<item>
-<title>[COLOR white][B] Gloob [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]gloob.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Logo-Gloob.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] GNT [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]gnt.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/gnt.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] HBO [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]hbo.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/hbo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] HBO 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]hbo2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/hbo2.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] HBO Family [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]hbofamily.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/hbofamily.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] HBO Plus [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]hboplus.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/hboplus.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] HBO Signature [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]hbosignature.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Hbosignature.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] History [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]history.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/history_channel_logo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] History 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]history2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/historia.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-
-<item><title>[COLOR white][B] Investigação Discovery [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]investigacaodiscovery.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLER gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Idiscovery.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Lifetime [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]lifetime.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/lifetime.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] MAX [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]max.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Max_HD.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Max Prime [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]maxprime.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Maxprime.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Max UP [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]maxup.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Max-up-canal.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Megapix [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]megapix.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Megapix.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] MTV [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]mtv.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/mtv-logo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Multishow [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]multishow.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Multishow.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] NatGeo Kids [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]natgeokids.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Nat_Geo_Kids.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] NatGeo Wild [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]natgeowind.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Nat_Geo_Wild.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] National Geographic [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]natgeo.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Nationag.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Documentários</genre></item>
-
-<item>
-<title>[COLOR white][B] Nick JR [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]nickjr.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/nick-jnr.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] Nickelodeon [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]nick.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/nickelodeon.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] Paramount [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]paramount.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/paramounthd.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere Clubes [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiereclubes.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/premiereclubes.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiere2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/premiere2.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere 3 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiere3.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/premiere3.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere 4 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiere4.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/premiere4.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere 5 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiere5.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/premiere5.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere 6 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiere6.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/premiere6.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere 7 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiere7.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/premiere7.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere 8 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiere8.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Premiere 9 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]premiere9.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Record [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]recordsp.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/record.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Abertos</genre></item>
-
-<item>
-<title>[COLOR white][B] SBT [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]sbt.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/sbt.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Abertos</genre></item>
-
-<item>
-<title>[COLOR white][B] Space [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]space.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Space_logo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] SporTV 1 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]sportv1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/sportv.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] SporTV 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]sportv2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/sportv2.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] SporTV 3 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]sportv3.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/sportv3.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Esportes</genre></item>
-
-<item>
-<title>[COLOR white][B] Stúdio Universal [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]studiouniversal.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Studio-Universal.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Syfy [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]syfy.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/syfi.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] TCM [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]tcm.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Tcm_logo_red.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Telecine Action [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]telecineaction.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Telecineaction.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Telecine Cult [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]telecinecult.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/cult.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Telecine Fun [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]telecinefun.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/fun.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Telecine Pipoca [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]telecinepipoca.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/pipoca.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Telecine Premium [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]telecinepremium.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Telecinepremium.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Telecine Touch [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]telecinetouch.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/touch.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] TLC Discovery [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]tlc.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/TLC-Logo.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] TNT [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]tnt.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] TNT 2 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]esporteinterativo1.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] TNT 3 [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]esporteinterativo2.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/tnt.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] TNT Séries [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]tntseries.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/tntserie.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Tooncast [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]tooncast.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Tooncast.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
-
-<item>
-<title>[COLOR white][B] Universal Channel [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]universal.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/universal.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] VIVA [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]viva.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/vivanethd1.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Variedades</genre></item>
-
-<item>
-<title>[COLOR white][B] Warner [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]warner.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/Warner-channel-not1.png</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Filmes/Séries</genre></item>
-
-<item>
-<title>[COLOR white][B] Zoomoo [/B][/COLOR][B][COLOR green][/COLOR][/B]</title>
-<link>$doregex[TWT]zoomoo.m3u8|Referer=http://cometa.top/contadorcanais.php$nome=[COLOR gold]HD[/COLOR]</link>
-<thumbnail>http://webtvcde.com/Androidtv/zoomoo.jpg</thumbnail>
-<fanart></fanart>
-<regex><name>TWT</name><expres>(.*?).rcf4m</expres><page>http://bit.ly/2ucb1nO</page></regex>
-<genre>Infantil</genre></item>
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="" group-title="BRASIL",ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="" group-title="BRASIL",BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="" group-title="BRASIL",BAND HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="" group-title="BRASIL",BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="" group-title="BRASIL",DAZN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="BRASIL",E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="BRASIL",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Globo Minas Gerais" tvg-logo="" group-title="BRASIL", Globo Minas Gerais
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="" group-title="BRASIL",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="" group-title="BRASIL",GLOBO RJ
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="BRASIL",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="" group-title="BRASIL",GLOBO SP
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="BRASIL",GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="" group-title="BRASIL",GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV HD" tvg-logo="" group-title="BRASIL",HIT TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID-INVESTIGACAO DISCOVERY HD" tvg-logo="" group-title="BRASIL",ID-INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="" group-title="BRASIL",LIFETIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD" tvg-logo="" group-title="BRASIL",MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="" group-title="BRASIL",MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD" tvg-logo="" group-title="BRASIL",NHK HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="" group-title="BRASIL",OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD HD" tvg-logo="" group-title="BRASIL",RECORD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="" group-title="BRASIL",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTA CATARINA HD" tvg-logo="" group-title="BRASIL",RECORD SANTA CATARINA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="" group-title="BRASIL",RECORD SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV GOIAS HD" tvg-logo="" group-title="BRASIL",RECORD TV GOIAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="" group-title="BRASIL",REDE BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="" group-title="BRASIL",REDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO" tvg-logo="" group-title="BRASIL",SBT GO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="BRASIL",SBT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="" group-title="BRASIL",TVE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="" group-title="BRASIL",VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="" group-title="BRASIL",BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 MEGA HITS HD" tvg-logo="" group-title="BRASIL",VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="BRASIL",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="BRASIL",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="BRASIL",DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME e HEALTH HD" tvg-logo="" group-title="BRASIL",DISCOVERY HOME e HEALTH HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="BRASIL",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="BRASIL",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="BRASIL",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="BRASIL",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="" group-title="BRASIL",H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL HD" tvg-logo="" group-title="BRASIL",HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHY HD" tvg-logo="" group-title="BRASIL",NATIONAL GEOGRAPHY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="BRASIL",NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="" group-title="BRASIL",MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="" group-title="BRASIL",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="" group-title="BRASIL",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="" group-title="BRASIL",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="" group-title="BRASIL",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="" group-title="BRASIL",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="" group-title="BRASIL",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" A E HD" tvg-logo="" group-title="BRASIL", A E HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="BRASIL",AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="BRASIL",AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="" group-title="BRASIL",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="" group-title="BRASIL",CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="BRASIL",CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="BRASIL",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="BRASIL",FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="BRASIL",FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="" group-title="BRASIL",FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD" tvg-logo="" group-title="BRASIL",FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="BRASIL",FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="BRASIL",HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="BRASIL",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="BRASIL",HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="" group-title="BRASIL",HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="BRASIL",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="" group-title="BRASIL",MAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD" tvg-logo="" group-title="BRASIL",MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD" tvg-logo="" group-title="BRASIL",MAX UP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="" group-title="BRASIL",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="BRASIL",SPACE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="" group-title="BRASIL",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="BRASIL",SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="BRASIL",TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="BRASIL",TCM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="BRASIL",TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="" group-title="BRASIL",TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="BRASIL",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="BRASIL",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="BRASIL",BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="BRASIL",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="BRASIL",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="BRASIL",DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="" group-title="BRASIL",DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="" group-title="BRASIL",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="" group-title="BRASIL",GLOOB
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD" tvg-logo="" group-title="BRASIL",GLOOB HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="" group-title="BRASIL",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD" tvg-logo="" group-title="BRASIL",NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="BRASIL",NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="" group-title="BRASIL",NICK JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1" tvg-logo="" group-title="BRASIL",SPORTV 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 HD" tvg-logo="" group-title="BRASIL",SPORTV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" group-title="BRASIL",SPORTV 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title="BRASIL",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="" group-title="BRASIL",SPORTV 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD" tvg-logo="" group-title="BRASIL",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="BRASIL",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="" group-title="BRASIL",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="" group-title="BRASIL",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="" group-title="BRASIL",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="" group-title="BRASIL",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="" group-title="BRASIL",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="" group-title="BRASIL",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="" group-title="BRASIL",COMBATE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="BRASIL",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="BRASIL",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="BRASIL",ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="BRASIL",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SD" tvg-logo="" group-title="BRASIL",FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="BRASIL",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SD" tvg-logo="" group-title="BRASIL",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="BRASIL",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31115.m3u8
