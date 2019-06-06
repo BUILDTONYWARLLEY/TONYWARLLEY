@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="" group-title="BRASIL",ARTE 1 HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B][/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://elitept.dynu.net:8080/live/pai/pai/31154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="" group-title="BRASIL",BAND CAMPINAS HD
