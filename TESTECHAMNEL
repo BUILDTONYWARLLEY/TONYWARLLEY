@@ -20,12 +20,6 @@ plugin://plugin.video.f4mTester/?name=CHUPA-Q-É-DE-UVA&streamtype=TSDOWNLOADER&
 plugin://plugin.video.f4mTester/?name=CHUPA-Q-É-DE-UVA&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/20893
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD*
 plugin://plugin.video.f4mTester/?name=CHUPA-Q-É-DE-UVA&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/20892
-#EXTINF:-1 tvg-id="Agro Canal" tvg-name="AGRO CANAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/aovivoac-transparente.png" group-title="CANAIS ABERTO",AGRO CANAL SD
-plugin://plugin.video.f4mTester/?name=CHUPA-Q-É-DE-UVA&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/5983
-#EXTINF:-1 tvg-id="ALL SPORTS" tvg-name="ALL SPORT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sports.png" group-title="CANAIS ESPORTES",ALL SPORT SD
-plugin://plugin.video.f4mTester/?name=CHUPA-Q-É-DE-UVA&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/6812
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Aljazeera-logo-English-1024x768.png" group-title="CANAIS ENTRETENIMENTO",ALJAZEERA HD
-plugin://plugin.video.f4mTester/?name=CHUPA-Q-É-DE-UVA&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/7550
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET SD
 plugin://plugin.video.f4mTester/?name=CHUPA-Q-É-DE-UVA&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0129/0129/4403
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET HD
