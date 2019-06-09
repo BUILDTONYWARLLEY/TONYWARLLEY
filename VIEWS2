@@ -1,15 +1,13 @@
-<channels>
-<channel>
-<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white] AO VIVO [/COLOR] [COLOR yellow]l[/COLOR]</name>
+
+
+<item>
+<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]CANAIS[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]l[/COLOR] [COLOR white] AO VIVO [/COLOR] [COLOR yellow]l[/COLOR]</title>                                            
+<link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/00001</externallink>
 <fanart>https://i.imgur.com/HlkbQSK.jpg</fanart>
-<info>
-
-
-[COLOR yellow]l[/COLOR]- SERVIDORES NOVOS TODOS OS DIAS -[COLOR yellow]l[/COLOR]</info>
-</channel>
-</channels>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/channels</externallink>
+<info>[COLOR yellow]|[/COLOR]- SERVIDORES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</item>
 
 <item>
 <title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]LANÇAMENTOS 2019 [/COLOR][COLOR green][B] ON [/B][/COLOR][COLOR red][B] OFF [/B][/COLOR]</title>                                            
