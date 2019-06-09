@@ -1,1173 +1,789 @@
 #EXTM3U
-#EXTINF:-1,A&E FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5825
-#EXTINF:-1,A&E HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5824
-#EXTINF:-1,A&E SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5823
-#EXTINF:-1,AXN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5817
-#EXTINF:-1,AXN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5818
-#EXTINF:-1,AXN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7463
-#EXTINF:-1,AXN HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5816
-#EXTINF:-1,AXN SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5815
-#EXTINF:-1,AMC FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5822
-#EXTINF:-1,AMC FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5821
-#EXTINF:-1,AMC HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5820
-#EXTINF:-1,AMC SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5819
-#EXTINF:-1,ARTE 1 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7414
-#EXTINF:-1,ARTE1 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6152
-#EXTINF:-1,ARTE1 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6151
-#EXTINF:-1,DAZN 01²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/17325
-#EXTINF:-1,DAZN 02²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/17324
-#EXTINF:-1,BAND SPORTS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5828
-#EXTINF:-1,BAND SPORTS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5827
-#EXTINF:-1,BAND SPORTS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5826
-#EXTINF:-1,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7493
-#EXTINF:-1,COMBATE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5830
-#EXTINF:-1,COMBATE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5831
-#EXTINF:-1,COMBATE FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7476
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/16725
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7426
-#EXTINF:-1,COMBATE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5829
-#EXTINF:-1,COMBATE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/16724
-#EXTINF:-1,BAND FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6285
-#EXTINF:-1,BAND FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7477
-#EXTINF:-1,BAND FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6287
-#EXTINF:-1,BAND FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6286
-#EXTINF:-1,BAND SP HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6282
-#EXTINF:-1,Band HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7434
-#EXTINF:-1,BAND HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6284
-#EXTINF:-1,BAND SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6283
-#EXTINF:-1,BOOMERANG FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6003
-#EXTINF:-1,BOOMBERANG FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7488
-#EXTINF:-1,BOOMERANG FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6004
-#EXTINF:-1,BOOMBERANG HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7479
-#EXTINF:-1,CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6000
-#EXTINF:-1,CARTOON NETWORK  FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7328
-#EXTINF:-1,CARTOON NETWORK FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5999
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5998
-#EXTINF:-1,CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5997
-#EXTINF:-1,CINE SKY 1 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5814
-#EXTINF:-1,CINE SKY 2 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5813
-#EXTINF:-1,CINE SKY 3 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5812
-#EXTINF:-1,CINE SKY 4 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5811
-#EXTINF:-1,CINE SKY 5 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5810
-#EXTINF:-1,EI PLUS 2 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5845
-#EXTINF:-1,EI PLUS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5844
-#EXTINF:-1,ESPN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5834
-#EXTINF:-1,ESPN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5835
-#EXTINF:-1,ESPN HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5833
-#EXTINF:-1,ESPN BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5841
-#EXTINF:-1,ESPN BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5840
-#EXTINF:-1,ESPN BRASIL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5839
-#EXTINF:-1,ESPN BRASIL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5838
-#EXTINF:-1,ESPN  BRASIL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7327
-#EXTINF:-1,Espn BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7326
-#EXTINF:-1,ESPN 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5843
-#EXTINF:-1,ESPN 2 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5842
-#EXTINF:-1,ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7492
-#EXTINF:-1,ESPN EXTRA HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5837
-#EXTINF:-1,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7491
-#EXTINF:-1,ESPN EXTRA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5836
-#EXTINF:-1,ESPN MAIS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5832
-#EXTINF:-1,FOX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5808
-#EXTINF:-1,FOX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5809
-#EXTINF:-1,FOX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7459
-#EXTINF:-1,FOX HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5807
-#EXTINF:-1,FX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5801
-#EXTINF:-1,FX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7361
-#EXTINF:-1,FX HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5800
-#EXTINF:-1,FX SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5799
-#EXTINF:-1,FOX PREMIUM FHD1²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7474
-#EXTINF:-1,FOX PREMIUM FHD  2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7436
-#EXTINF:-1,FOX PREMIUM HD2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7435
-#EXTINF:-1,FOX PREMIUM1 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5805
-#EXTINF:-1,FOX PREMIUM 1 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5804
-#EXTINF:-1,FOX PREMIUM2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5803
-#EXTINF:-1,FOX PREMIUM 2 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5802
-#EXTINF:-1,GLOBO RJ FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5904
-#EXTINF:-1,GLOBO FHD RJ 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7403
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5903
-#EXTINF:-1,GLOBO HD RJ ²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7402
-#EXTINF:-1,GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5902
-#EXTINF:-1,GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7387
-#EXTINF:-1,GLOBO SP FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5895
-#EXTINF:-1,GLOBO SP FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7321
-#EXTINF:-1,GLOBO SP HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5894
-#EXTINF:-1,GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5893
-#EXTINF:-1,GLOBO DF FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5929
-#EXTINF:-1,GLOBO DF HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5939
-#EXTINF:-1,GLOBO DF SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5938
-#EXTINF:-1,GLOBO DF SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7395
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5919
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7398
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5918
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7397
-#EXTINF:-1,GLOBO EPTV SUL MINAS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5930
-#EXTINF:-1,GLOBO GRANDE MINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5925
-#EXTINF:-1,GLOBO MANAUS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5921
-#EXTINF:-1,GLOBO MANAUS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5920
-#EXTINF:-1,GLOBO MANAUS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7388
-#EXTINF:-1,GLOBO VERDES MARES HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7399
-#EXTINF:-1,GLOBO VERDES MARES FORTALEZA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5886
-#EXTINF:-1,GLOBO TV BAHIA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7384
-#EXTINF:-1,GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5941
-#EXTINF:-1,GLOBO NE FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5916
-#EXTINF:-1,GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5912
-#EXTINF:-1,GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5911
-#EXTINF:-1,GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7389
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5935
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7394
-#EXTINF:-1,GLOBO TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5891
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7379
-#EXTINF:-1,GLOBO VANGUARDA S.J CAMPO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5888
-#EXTINF:-1,GLOBO VANGUARDA TAUBATE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5887
-#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7378
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5933
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5932
-#EXTINF:-1,GLOBO SOROCABA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5896
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7380
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5931
-#EXTINF:-1,GLOBO ALTO LITORAL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5943
-#EXTINF:-1,GLOBO ASA BRANCA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5942
-#EXTINF:-1,GLOBO BAURU SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5940
-#EXTINF:-1,GLOBO CABUGI SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5937
-#EXTINF:-1,GLOBO CENTRO AMERICA CUIABA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5936
-#EXTINF:-1,GLOBO FRONTEIRA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5928
-#EXTINF:-1,GLOBO GAZETA ES SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5927
-#EXTINF:-1,GLOBO GOIANIA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5926
-#EXTINF:-1,GLOBO INTEGRACAO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5924
-#EXTINF:-1,GLOBO ITAPETININGA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5923
-#EXTINF:-1,GLOBO LIBERAL BELEM SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5922
-#EXTINF:-1,GLOBO MIRANTE COCAIS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5917
-#EXTINF:-1,GLOBO RBS TV POA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5906
-#EXTINF:-1,GLOBO NSC BLUMENAU SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5910
-#EXTINF:-1,GLOBO NSC JOINVILLE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5909
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5908
-#EXTINF:-1,GLOBO RBS TV POA FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5907
-#EXTINF:-1,GLOBO RIO SUL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5905
-#EXTINF:-1,GLOBO RPC CURITIBA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5901
-#EXTINF:-1,GLOBO S.J RIO PRETO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5900
-#EXTINF:-1,GLOBO SANTA CRUZ SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5899
-#EXTINF:-1,GLOBO SERGIPE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5898
-#EXTINF:-1,GLOBO SERRA MAR SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5897
-#EXTINF:-1,GLOBO SUDOESTE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5892
-#EXTINF:-1,GLOBO TV GAZETA ES HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5890
-#EXTINF:-1,GLOBO TV SERGIPE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5889
-#EXTINF:-1,GLOBO  GAZETA SUL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7401
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7393
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7392
-#EXTINF:-1,GLOBO ES HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7400
-#EXTINF:-1,GLOBO HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7320
-#EXTINF:-1,GLOBO INTER TV CABUGI SD 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7391
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7386
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7383
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7382
-#EXTINF:-1,GLOBO TV TEM BAURU SD 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7381
-#EXTINF:-1,GLOBO EPTV CENTRAL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5934
-#EXTINF:-1,TV VITORIA ES HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7368
-#EXTINF:-1,GLOBO NEWS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5915
-#EXTINF:-1,GLOBO NEWS HD FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7437
-#EXTINF:-1,GLOBO NEWS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5914
-#EXTINF:-1,GLOBO NEWS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5913
-#EXTINF:-1,MEGAPIX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5797
-#EXTINF:-1,MEGAPIX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5796
-#EXTINF:-1,MEGAPIX HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5795
-#EXTINF:-1,MEGAPIX SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5794
-#EXTINF:-1,OFF FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5854
-#EXTINF:-1,OFF HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5853
-#EXTINF:-1,PARAMOUNT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5793
-#EXTINF:-1,PARAMOUNT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5792
-#EXTINF:-1,PARAMOUNT HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5791
-#EXTINF:-1,PARAMOUNT SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5790
-#EXTINF:-1,PARAMOUNT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7408
-#EXTINF:-1,PLAY TV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5858
-#EXTINF:-1,POLISHOP TV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5857
-#EXTINF:-1,SPACE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5785
-#EXTINF:-1,SPACE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5784
-#EXTINF:-1,SPACE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7456
-#EXTINF:-1,SPACE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5783
-#EXTINF:-1,SPACE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5782
-#EXTINF:-1,SPORTV FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5866
-#EXTINF:-1,SPORTV FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5865
-#EXTINF:-1,SPORTV HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5864
-#EXTINF:-1,SPORTV FHD2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7513
-#EXTINF:-1,SPORT TV FHD3
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7511
-#EXTINF:-1,SPORTV FHD2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7512
-#EXTINF:-1,SPORTV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7510
-#EXTINF:-1,SPORTV HD2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7509
-#EXTINF:-1,SPORTV HD3
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7508
-#EXTINF:-1,SPORTV 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5873
-#EXTINF:-1,SPORTV 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5872
-#EXTINF:-1,SPORTV 2 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5871
-#EXTINF:-1,SPORTV 2 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5870
-#EXTINF:-1,SPORTV 3 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5869
-#EXTINF:-1,SPORTV 3 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5868
-#EXTINF:-1,STUDIO UNIVERSAL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5781
-#EXTINF:-1,STUDIO UNIVERSAL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5780
-#EXTINF:-1,STUDIO UNIVERSAL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5779
-#EXTINF:-1,STUDIO UNIVERSAL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5778
-#EXTINF:-1,SYFY FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5777
-#EXTINF:-1,SYFY FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5776
-#EXTINF:-1,SYFY HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5775
-#EXTINF:-1,SYFY SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5774
-#EXTINF:-1,TNT SERIES FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5764
-#EXTINF:-1,TNT SERIES FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5765
-#EXTINF:-1,TNT SERIES FHD  2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7469
-#EXTINF:-1,TNT SERIES HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5763
-#EXTINF:-1,TNT SERIES HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7440
-#EXTINF:-1,TNT SERIES SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5762
-#EXTINF:-1,TCM HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5771
-#EXTINF:-1,TCM SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5770
-#EXTINF:-1,TNT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5769
-#EXTINF:-1,TNT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5768
-#EXTINF:-1,TNT HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5767
-#EXTINF:-1,TNT SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5766
-#EXTINF:-1,UNIVERSAL CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5761
-#EXTINF:-1,UNIVERSAL CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5760
-#EXTINF:-1,UNIVERSAL CHANNEL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5759
-#EXTINF:-1,UNIVERSAL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5758
-#EXTINF:-1,WARNER CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5757
-#EXTINF:-1,WARNER CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5756
-#EXTINF:-1,WARNER CHANNEL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5755
-#EXTINF:-1,WARNER CHANNEL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5754
-#EXTINF:-1,WOOHOO HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5874
-#EXTINF:-1,BABY HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6006
-#EXTINF:-1,BABY TV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6005
-#EXTINF:-1,DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5992
-#EXTINF:-1,DISNEY CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5991
-#EXTINF:-1,DISNEY CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7420
-#EXTINF:-1,DISNEY CHANNEL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5990
-#EXTINF:-1,DISNEY CHANNEL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5989
-#EXTINF:-1,DISNEY CHANNEL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5988
-#EXTINF:-1,DISCOVERY KIDS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5996
-#EXTINF:-1,DISCOVERY KIDS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5995
-#EXTINF:-1,DISCOVERY KIDS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5994
-#EXTINF:-1,DISCOVERY KIDS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5993
-#EXTINF:-1,DISNEY JR FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7423
-#EXTINF:-1,DISNEY JR FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5987
-#EXTINF:-1,DISNEY JR FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5986
-#EXTINF:-1,DISNEY JR HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5985
-#EXTINF:-1,DISNEY JUNIOR SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5984
-#EXTINF:-1,DISNEY XD FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7421
-#EXTINF:-1,DISNEY XD HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5983
-#EXTINF:-1,DISNEY XD SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5982
-#EXTINF:-1,GLOBINHO HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5981
-#EXTINF:-1,GLOOB FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5980
-#EXTINF:-1,GLOOB HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5979
-#EXTINF:-1,GLOOB SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5978
-#EXTINF:-1,GLOOBINHO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5977
-#EXTINF:-1,GLOOBINHO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5975
-#EXTINF:-1,NATGEO KIDS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5974
-#EXTINF:-1,NATGEO KIDS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5973
-#EXTINF:-1,NATGEO KIDS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5972
-#EXTINF:-1,NICK FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5970
-#EXTINF:-1,NICK HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5968
-#EXTINF:-1,NICK FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5969
-#EXTINF:-1,NICK JR FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5967
-#EXTINF:-1,NICK JR FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7418
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5966
-#EXTINF:-1,NICK JR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5965
-#EXTINF:-1,NICEKLODEON FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5971
-#EXTINF:-1,NICKELODEON HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5964
-#EXTINF:-1,NICKELODEON SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5963
-#EXTINF:-1,TELECINE ACTION FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6037
-#EXTINF:-1,TELECINE ACTION FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6036
-#EXTINF:-1,TELECINE ACTION HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6035
-#EXTINF:-1,TELECINE ACTION SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6034
-#EXTINF:-1,TELECINE ACTION FHD H265²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7315
-#EXTINF:-1,TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7314
-#EXTINF:-1,TELECINE CULT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6033
-#EXTINF:-1,TELECINE CULT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6032
-#EXTINF:-1,TELECINE CULT HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6031
-#EXTINF:-1,TELECINE CULT SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6030
-#EXTINF:-1,TELECINE FUN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6029
-#EXTINF:-1,TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7312
-#EXTINF:-1,TELECINE FUNFHD H265²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7313
-#EXTINF:-1,TELECINE FUN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6028
-#EXTINF:-1,TELECINE FUN HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6026
-#EXTINF:-1,TELECINE FUN SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6025
-#EXTINF:-1,TELECINE PIPOCA FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6024
-#EXTINF:-1,TELECINE PIPOCA FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6023
-#EXTINF:-1,TELECINE PIPOCA HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6022
-#EXTINF:-1,TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7310
-#EXTINF:-1,TELECINE PIPOCA FHD H265²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7311
-#EXTINF:-1,TELECINE PIPOCA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6021
-#EXTINF:-1,TELECINE PREMIUM FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6020
-#EXTINF:-1,TELECINE PREMIUM FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6019
-#EXTINF:-1,TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7308
-#EXTINF:-1,TELECINE PREMIUM FHD H265²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7309
-#EXTINF:-1,TELECINE PREMIUM HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6018
-#EXTINF:-1,TELECINE PREMIUM SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6017
-#EXTINF:-1,TELECINE TOUCH FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6015
-#EXTINF:-1,TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6016
-#EXTINF:-1,TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7307
-#EXTINF:-1,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7306
-#EXTINF:-1,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6014
-#EXTINF:-1,TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6013
-#EXTINF:-1,TOONCAST FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5962
-#EXTINF:-1,TOONCAST HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5961
-#EXTINF:-1,TOONCAST SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5960
-#EXTINF:-1,ZOOMOO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5959
-#EXTINF:-1,ZOOMOO HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5958
-#EXTINF:-1,ZOOMOO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5957
-#EXTINF:-1,CINEMAX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6077
-#EXTINF:-1,CINEMAX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6076
-#EXTINF:-1,CINEMAX HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6075
-#EXTINF:-1,CINEMAX SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6074
-#EXTINF:-1,HBO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6065
-#EXTINF:-1,HBO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6066
-#EXTINF:-1,HBO FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7316
-#EXTINF:-1,HBO HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6064
-#EXTINF:-1,HBO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6060
-#EXTINF:-1,HBO 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6072
-#EXTINF:-1,HBO 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6073
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6071
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7317
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7319
-#EXTINF:-1,HBO 2 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6070
-#EXTINF:-1,HBO FAMILY FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6069
-#EXTINF:-1,HBO FAMILY HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6068
-#EXTINF:-1,HBO FAMILY SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6067
-#EXTINF:-1,HBO PLUS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6063
-#EXTINF:-1,HBO PLUS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6062
-#EXTINF:-1,HBO PLUS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6061
-#EXTINF:-1,HBO SIGNATURE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6059
-#EXTINF:-1,HBO SIGNATURE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6058
-#EXTINF:-1,HBO SIGNATURE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6057
-#EXTINF:-1,MAX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6056
-#EXTINF:-1,MAX HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6055
-#EXTINF:-1,MAX PRIME FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6053
-#EXTINF:-1,MAX PRIME FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6054
-#EXTINF:-1,MAX PRIME HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6052
-#EXTINF:-1,MAX PRIME SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6051
-#EXTINF:-1,MAX UP FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6049
-#EXTINF:-1,MAX UP HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6048
-#EXTINF:-1,MAX UP SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6047
-#EXTINF:-1,MAX SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6050
-#EXTINF:-1,BIS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6150
-#EXTINF:-1,BIS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6149
-#EXTINF:-1,BIS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6148
-#EXTINF:-1,COMEDY CENTRAL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6147
-#EXTINF:-1,COMEDY CENTRAL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6146
-#EXTINF:-1,COMEDY CENTRAL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6145
-#EXTINF:-1,CURTA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6144
-#EXTINF:-1,DISCOVERY H&H FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6143
-#EXTINF:-1,DISCOVERY H&H FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6142
-#EXTINF:-1,DISCOVERY H&H HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6141
-#EXTINF:-1,DISCOVERY H&H SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6140
-#EXTINF:-1,E! HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6139
-#EXTINF:-1,E! SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6138
-#EXTINF:-1,FISH TV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6137
-#EXTINF:-1,FOOD NETWORK FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6135
-#EXTINF:-1,FOOD NETWORK FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6136
-#EXTINF:-1,FOOD NETWORK FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7412
-#EXTINF:-1,FOOD NETWORK HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6134
-#EXTINF:-1,FOOD NETWORK SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6133
-#EXTINF:-1,FOX LIFE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6132
-#EXTINF:-1,FOX LIFE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6131
-#EXTINF:-1,FOX LIFE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6130
-#EXTINF:-1,FOX LIFE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6129
-#EXTINF:-1,FOX SPORTS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5848
-#EXTINF:-1,FOX SPORTS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5847
-#EXTINF:-1,FOX SPORTS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5846
-#EXTINF:-1,FOX SPORTS 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5851
-#EXTINF:-1,FOX SPORT 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5852
-#EXTINF:-1,FOX SPORTS 2 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5850
-#EXTINF:-1,FOX SPORTS 2 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5849
-#EXTINF:-1,FOX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5806
-#EXTINF:-1,FOX SPORTS2 FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7358
-#EXTINF:-1,Fox Sports 2 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7325
-#EXTINF:-1,FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7350
-#EXTINF:-1,Fox Sports FHD2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7324
-#EXTINF:-1,Fox Sports FHD   2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7323
-#EXTINF:-1,GNT HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6128
-#EXTINF:-1,GNT SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6127
-#EXTINF:-1,HIT TV HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6126
-#EXTINF:-1,IDEAL TV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6125
-#EXTINF:-1,LIFETIME FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6124
-#EXTINF:-1,LIFETIME HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6123
-#EXTINF:-1,LIFETIME SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6122
-#EXTINF:-1,MAIS GLOBOSAT HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6121
-#EXTINF:-1,MAIS GLOBOSAT SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6120
-#EXTINF:-1,MTV FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6119
-#EXTINF:-1,MTV HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6118
-#EXTINF:-1,MTV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6117
-#EXTINF:-1,MTV FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7410
-#EXTINF:-1,MTV LIVE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7454
-#EXTINF:-1,MTV HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7417
-#EXTINF:-1,MTV LIVE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7444
-#EXTINF:-1,MULTISHOW FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6116
-#EXTINF:-1,MULTISHOW FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6115
-#EXTINF:-1,MULTISHOW HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6114
-#EXTINF:-1,MULTISHOW  FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7452
-#EXTINF:-1,MULTISHOW SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6113
-#EXTINF:-1,MUSIC BOX BRASIL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6112
-#EXTINF:-1,OFF SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6111
-#EXTINF:-1,PRIME BOX BRASIL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6110
-#EXTINF:-1,TLC HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6109
-#EXTINF:-1,TLC SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6108
-#EXTINF:-1,TRUTV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6107
-#EXTINF:-1,VH1 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6106
-#EXTINF:-1,VH1 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6105
-#EXTINF:-1,VIVA HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6103
-#EXTINF:-1,VIVA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6102
-#EXTINF:-1,ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7375
-#EXTINF:-1,ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6205
-#EXTINF:-1,ANIMAL PLANET FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6204
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6203
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6202
+
+esseS Créditos vai para o Chaves... MI MI MI MI MI MI... DEIXA EU VER SE EU ENTENDO, VOCE É UM SER SUPERIOR, QUE, SOMENTE VC CONSEGUE ACHAR UM SERVIDOR COM LINKS DIRETOS NA INTERNET, 
+SE É SEU IGUAL VC DIZ, 
+CANCELA OS LINKS SEU FDP, NAUM FICA AI SE ACHANDO O SUPERIOR.... SÓ VC PODE, SÓ VC TEM E BLA BLA BLA, SE É SEU TIRA DO AR VAGABUNDO.... 
+Ah, vc vive de IPTV? Entao é VAGABUNDO QUERENDO DINEHIRO FÁCIL... OLHA uqe legal eu tbm achei esse link, LEGAL NÉ?
+
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11730
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11729
 #EXTINF:-1,ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6201
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6200
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7405
-#EXTINF:-1,DISCOVERY CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6199
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6198
-#EXTINF:-1,DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6197
-#EXTINF:-1,DISCOVERY CIVILIZATION FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6196
-#EXTINF:-1,DISCOVERY CIVILIZATION FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6195
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6194
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6193
-#EXTINF:-1,DISCOVERY SCIENCE FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6192
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6191
-#EXTINF:-1,DISCOVERY THEATER FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6190
-#EXTINF:-1,DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7360
-#EXTINF:-1,DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6189
-#EXTINF:-1,DISCOVERY TURBO FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6187
-#EXTINF:-1,DISCOVERY TURBO FHD h.265¹
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7329
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7495
-#EXTINF:-1,DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6188
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6186
-#EXTINF:-1,DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6185
-#EXTINF:-1,DISCOVERY WORLD FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6184
-#EXTINF:-1,DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7359
-#EXTINF:-1,DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6183
-#EXTINF:-1,H2 FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6181
-#EXTINF:-1,H2 FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6182
-#EXTINF:-1,H2 FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7468
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6180
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6179
-#EXTINF:-1,HISTORY FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6177
-#EXTINF:-1,HISTORY FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6178
-#EXTINF:-1,HISTORY FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7490
-#EXTINF:-1,HISTORY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7489
-#EXTINF:-1,HISTORY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6176
-#EXTINF:-1,HISTORY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6175
-#EXTINF:-1,ID DISCOVERY FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6174
-#EXTINF:-1,ID FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6171
-#EXTINF:-1,ID FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7457
-#EXTINF:-1,ID HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6173
-#EXTINF:-1,ID SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6172
-#EXTINF:-1,NATGEO WILD FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7415
-#EXTINF:-1,NATGEO FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7409
-#EXTINF:-1,NATGEO FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6170
-#EXTINF:-1,NATGEO FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6169
-#EXTINF:-1,NATGEO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6168
-#EXTINF:-1,NATGEO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6167
-#EXTINF:-1,NATGEO WILD FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6166
-#EXTINF:-1,NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6165
-#EXTINF:-1,NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6164
-#EXTINF:-1,TV RA TIM BUM HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6154
-#EXTINF:-1,TV RA TIM BUM SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6153
-#EXTINF:-1,BAND CAMPINAS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6288
-#EXTINF:-1,CANAL BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7438
-#EXTINF:-1,CANAL BRASIL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6281
-#EXTINF:-1,CANAL BRASIL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6280
-#EXTINF:-1,CANAL RURAL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6279
-#EXTINF:-1,CNT SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6278
-#EXTINF:-1,FUTURA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6277
-#EXTINF:-1,NBR SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6276
-#EXTINF:-1,NOVA NORDESTE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6275
-#EXTINF:-1,NOVA NORDESTE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6274
-#EXTINF:-1,NOVO TEMPO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6273
-#EXTINF:-1,NOVO TEMPO HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6272
-#EXTINF:-1,RECORD BA HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6270
-#EXTINF:-1,RECORD BA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6269
-#EXTINF:-1,RECORD DF HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6268
-#EXTINF:-1,RECORD DF SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6267
-#EXTINF:-1,RECORD FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6266
-#EXTINF:-1,RECORD FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6265
-#EXTINF:-1,RECORD HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6264
-#EXTINF:-1,RECORD MG HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6263
-#EXTINF:-1,RECORD MG SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6262
-#EXTINF:-1,RECORD RJ HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6261
-#EXTINF:-1,RECORD RJ SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6260
-#EXTINF:-1,RECORD RS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6259
-#EXTINF:-1,RECORD RS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6258
-#EXTINF:-1,RECORD SP HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6257
-#EXTINF:-1,RECORD SP HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6256
-#EXTINF:-1,RECORD TV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6255
-#EXTINF:-1,REDE BRASIL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6254
-#EXTINF:-1,REDE TV HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6253
-#EXTINF:-1,REDE TV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6252
-#EXTINF:-1,REDE VIDA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6251
-#EXTINF:-1,SBT CIDADE VERDE HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6250
-#EXTINF:-1,SBT FHD H.265 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7497
-#EXTINF:-1,SBT HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7496
-#EXTINF:-1,SBT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6249
-#EXTINF:-1,SBT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6248
-#EXTINF:-1,SBT HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6247
-#EXTINF:-1,SBT SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6246
-#EXTINF:-1,SBT TV JORNAL HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6245
-#EXTINF:-1,I SAT SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5798
-#EXTINF:-1,SONY FHD H265
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5787
-#EXTINF:-1,SONY FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5788
-#EXTINF:-1,SONY FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7413
-#EXTINF:-1,SONY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5786
-#EXTINF:-1,SONY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5789
-#EXTINF:-1,TERRA VIVA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6244
-#EXTINF:-1,TV BRASIL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6243
-#EXTINF:-1,TV CAMARA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6242
-#EXTINF:-1,TV CIDADE OESTE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6241
-#EXTINF:-1,TV CULTURA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6239
-#EXTINF:-1,TV DIARIO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6238
-#EXTINF:-1,TV ESCOLA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6237
-#EXTINF:-1,TV ESTACAO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6236
-#EXTINF:-1,TV ESTACAO HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6235
-#EXTINF:-1,TV GUARULHOS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6233
-#EXTINF:-1,TV JUSTICA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6232
-#EXTINF:-1,TV SENADO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6231
-#EXTINF:-1,TV UNIVERSITARIA FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6230
-#EXTINF:-1,TV UNIVERSITARIA HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6229
-#EXTINF:-1,TV5 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6228
-#EXTINF:-1,TVE SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6227
-#EXTINF:-1,TBS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7470
-#EXTINF:-1,TBS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5773
-#EXTINF:-1,TBS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7441
-#EXTINF:-1,TBS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5772
-#EXTINF:-1,BAND NEWS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6297
-#EXTINF:-1,BAND NEWS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6296
-#EXTINF:-1,BAND NEWS SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6295
-#EXTINF:-1,RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6294
-#EXTINF:-1,RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6293
-#EXTINF:-1,RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6292
-#EXTINF:-1,RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6291
-#EXTINF:-1,BOA VONTADE TV SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6306
-#EXTINF:-1,CANCAO NOVA FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6305
-#EXTINF:-1,CANCAO NOVA HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6304
-#EXTINF:-1,TV APARECIDA SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6302
-#EXTINF:-1,CNN INTERNACIONAL SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6326
-#EXTINF:-1,DW SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6325
-#EXTINF:-1,NHK WORLD HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7465
-#EXTINF:-1,NHK SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6324
-#EXTINF:-1,TV PAI ETERNO SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/6321
-#EXTINF:-1,SPORTV 3 SD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5867
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11728
+#EXTINF:-1,APENAS UM SHOW
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12657
+#EXTINF:-1,ARMAÇÃO ILIMITADA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12656
+#EXTINF:-1,ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11727
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11122
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11726
+#EXTINF:-1,BABY TV SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11725
+#EXTINF:-1,BACKYARDIGANS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12632
+#EXTINF:-1,Band FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12905
+#EXTINF:-1,BAND HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11185
+#EXTINF:-1,BAND HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11111
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11121
+#EXTINF:-1,BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11724
+#EXTINF:-1,BAND SP FHD H265¹
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11723
+#EXTINF:-1,BAND SP SD.¹
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11721
+#EXTINF:-1,BAND SP SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11722
+#EXTINF:-1,Band Sports FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11181
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11136
+#EXTINF:-1,BAND SPORTS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11720
+#EXTINF:-1,BATMAN E ROBIN
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12655
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11717
+#EXTINF:-1,BIS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11716
+#EXTINF:-1,BLOOMBERG HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11510
+#EXTINF:-1,BOING (ESP)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11526
+#EXTINF:-1,BOL: BOLIVIA TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11426
+#EXTINF:-1,BOL: TV UNITEL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11425
+#EXTINF:-1,BOOMBERANG HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12902
+#EXTINF:-1,BOOMERANG FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12909
+#EXTINF:-1,BOOMERANG SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11715
+#EXTINF:-1,CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11713
+#EXTINF:-1,CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11712
+#EXTINF:-1,CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11098
+#EXTINF:-1,CANAL FUTURA HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11711
+#EXTINF:-1,CANAL SONY SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11710
+#EXTINF:-1,CAPITÃO PLANETA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12654
+#EXTINF:-1,CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11714
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11179
+#EXTINF:-1,CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12647
+#EXTINF:-1,CBS NEWS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11507
+#EXTINF:-1,CHANGEMAN
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12653
+#EXTINF:-1,CHARLIE BROWN E SNOOPY
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12652
+#EXTINF:-1,CINEMAX SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11709
+#EXTINF:-1,COMBATE FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11135
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11706
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12889
+#EXTINF:-1,COMBATE SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11705
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11698
+#EXTINF:-1,COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11134
 #EXTINF:-1,COMEDY FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7475
-#EXTINF:-1,COMEDY HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7449
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11110
+#EXTINF:-1,CURTA! SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11697
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11696
+#EXTINF:-1,DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11695
+#EXTINF:-1,DISCOVERY H&H SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11694
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12908
+#EXTINF:-1,DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11693
+#EXTINF:-1,DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11692
+#EXTINF:-1,DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11180
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11138
+#EXTINF:-1,DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11691
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11690
+#EXTINF:-1,DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11689
+#EXTINF:-1,DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12906
+#EXTINF:-1,DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11688
+#EXTINF:-1,DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11687
+#EXTINF:-1,DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11686
+#EXTINF:-1,DISNEY XD FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11685
+#EXTINF:-1,DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11684
+#EXTINF:-1,DISNEY XD SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11683
+#EXTINF:-1,DIVINITY HD (ESP)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11524
 #EXTINF:-1,DOG TV FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7432
-#EXTINF:-1,DOG TV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7431
-#EXTINF:-1,FASHION FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7353
-#EXTINF:-1,FILM ARTS FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7352
-#EXTINF:-1,FOX LIFE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7473
-#EXTINF:-1,GLOOB FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7486
-#EXTINF:-1,GLOOB HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7481
-#EXTINF:-1,GNT FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7349
-#EXTINF:-1,HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7318
-#EXTINF:-1,HBO PLUS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7464
-#EXTINF:-1,HBO PLUS HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7447
-#EXTINF:-1,HBO SIGNATURE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7478
-#EXTINF:-1,LIFE TIME FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7411
-#EXTINF:-1,MAXPRIME FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7451
-#EXTINF:-1,MAXPRIME HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7445
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11505
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11682
+#EXTINF:-1,EIPLUS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11680
+#EXTINF:-1,EIPLUS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11681
+#EXTINF:-1,ENERGY (ESP)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11523
+#EXTINF:-1,EQU: OROMAR TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11421
+#EXTINF:-1,ESPN  HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11178
+#EXTINF:-1,ESPN 2 FHD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11677
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12891
+#EXTINF:-1,ESPN 2 SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11676
+#EXTINF:-1,ESPN BRASIL 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11675
+#EXTINF:-1,ESPN BRASIL FHD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11673
+#EXTINF:-1,ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12915
+#EXTINF:-1,ESPN BRASIL HD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11674
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12916
+#EXTINF:-1,ESPN EXTRA FHD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11672
+#EXTINF:-1,ESPN EXTRA FHD 2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11189
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11506
+#EXTINF:-1,ESPN EXTRA SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11671
+#EXTINF:-1,ESPN EXTRA SD 2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11187
+#EXTINF:-1,Espn FHD 2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11182
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11678
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11679
+#EXTINF:-1,FAMÍLIA DINOSSAURO
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12646
+#EXTINF:-1,FDP (ESP)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11522
+#EXTINF:-1,FILM & ARTS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11670
+#EXTINF:-1,FISH TV SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11669
+#EXTINF:-1,FLASHMAN
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12626
+#EXTINF:-1,FONTE TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11477
+#EXTINF:-1,FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11668
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11667
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11119
+#EXTINF:-1,FOX LIFE FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11132
+#EXTINF:-1,FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11666
+#EXTINF:-1,FOX LIVE HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11109
+#EXTINF:-1,Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11133
+#EXTINF:-1,FOX PREMIUM 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12892
+#EXTINF:-1,FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12890
+#EXTINF:-1,FOX SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11665
+#EXTINF:-1,Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11175
+#EXTINF:-1,Fox Sports 2 HD (2)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11177
+#EXTINF:-1,FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11664
+#EXTINF:-1,Fox Sports FHD (2)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11176
+#EXTINF:-1,FOX SPORTS FHD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11663
+#EXTINF:-1,Fox Sports HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11174
+#EXTINF:-1,FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11662
+#EXTINF:-1,GATO FELIX
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12644
+#EXTINF:-1,GLOBO BH HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11657
+#EXTINF:-1,GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11656
+#EXTINF:-1,GLOBO DF HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11655
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11652
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11654
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11653
+#EXTINF:-1,GLOBO ES HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11514
+#EXTINF:-1,GLOBO FHD GAZETA SUL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11191
+#EXTINF:-1,GLOBO FHD RJ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11193
+#EXTINF:-1,GLOBO FHD SP
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11173
+#EXTINF:-1,GLOBO GAZETA SUL HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11190
+#EXTINF:-1,GLOBO HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11172
+#EXTINF:-1,GLOBO HD RJ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11192
+#EXTINF:-1,GLOBO INTER TV CABUGI SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11651
+#EXTINF:-1,GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11512
+#EXTINF:-1,GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11511
+#EXTINF:-1,GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11650
+#EXTINF:-1,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11097
+#EXTINF:-1,GLOBO NEWS HD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11648
+#EXTINF:-1,GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11647
+#EXTINF:-1,GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11646
+#EXTINF:-1,GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11645
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11644
+#EXTINF:-1,GLOBO REDE AMAZONICA HD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11643
+#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11642
+#EXTINF:-1,GLOBO RIO SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11641
+#EXTINF:-1,GLOBO RJ HD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11640
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11639
+#EXTINF:-1,GLOBO SJRP SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11638
+#EXTINF:-1,GLOBO SP FHD H265¹
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11661
+#EXTINF:-1,GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11660
+#EXTINF:-1,GLOBO SP SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11659
+#EXTINF:-1,GLOBO SP¹
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11658
+#EXTINF:-1,GLOBO TV  TRIBUNA SANTOS SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11637
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIÂNIA SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11636
+#EXTINF:-1,GLOBO TV BAHIA SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11635
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIBÁ SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11634
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11547
+#EXTINF:-1,GLOBO TV TEM BAURU SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11633
+#EXTINF:-1,GLOBO TV TEM SOROCABA¹
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11649
+#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11632
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11545
+#EXTINF:-1,GLOBO VERDES MARES HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11513
+#EXTINF:-1,GLOOB FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12907
+#EXTINF:-1,GLOOB HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11631
+#EXTINF:-1,GLOOB SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11630
+#EXTINF:-1,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11629
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11628
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11627
+#EXTINF:-1,HBO 2 FHD.
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11170
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11626
+#EXTINF:-1,HBO FAMILY SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11625
+#EXTINF:-1,HBO FHD.
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11168
+#EXTINF:-1,HBO HD.
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11171
+#EXTINF:-1,HBO PLUS FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11123
+#EXTINF:-1,HBO PLUS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11624
+#EXTINF:-1,HBO PLUS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11108
+#EXTINF:-1,HBO SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11623
+#EXTINF:-1,HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11622
+#EXTINF:-1,HBO2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11169
+#EXTINF:-1,HE-MAN
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12643
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12899
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11127
+#EXTINF:-1,H2 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11621
+#EXTINF:-1,HISTORY FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12911
+#EXTINF:-1,HISTORY HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12912
+#EXTINF:-1,HORA DE AVENTURA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12631
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12898
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11620
+#EXTINF:-1,ID-INVESTIGAÇÃO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11118
+#EXTINF:-1,INTERNATIONAL CHAMPIONS CUP 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11619
+#EXTINF:-1,LIFETIME SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11618
+#EXTINF:-1,LIGA DA JUSTIÇA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12642
+#EXTINF:-1,MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11617
+#EXTINF:-1,MAIS GLOBOSAT SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11616
+#EXTINF:-1,MAX FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11131
+#EXTINF:-1,MAX PRIME SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11615
+#EXTINF:-1,MAX SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11614
+#EXTINF:-1,MAX SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11107
+#EXTINF:-1,MAX UP SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11613
+#EXTINF:-1,MAXPRIME FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11112
+#EXTINF:-1,MAXPRIME HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12897
+#EXTINF:-1,MAXPRIME SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11106
+#EXTINF:-1,MEGAPIX FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11120
+#EXTINF:-1,MEGAPIX SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11612
 #EXTINF:-1,MLB HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7347
-#EXTINF:-1,TV CULTURA FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7429
-#EXTINF:-1,TOP TV HD  2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7430
-#EXTINF:-1,PREMIERE CLUBES FHD h.265²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7505
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11508
+#EXTINF:-1,MTV LIVE FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11115
+#EXTINF:-1,MTV LIVE SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11105
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11611
+#EXTINF:-1,MULTISHOW  HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11113
+#EXTINF:-1,MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11610
+#EXTINF:-1,MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11609
+#EXTINF:-1,MUSIC BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11608
+#EXTINF:-1,MIAMI TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13608
+#EXTINF:-1,MIAMI TV HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13610
+#EXTINF:-1,MIAMI TV LATINO
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13607
+#EXTINF:-1,MIAMI TV LATINO HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13609
+#EXTINF:-1,NATGEO HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11151
+#EXTINF:-1,NATGEO KIDS FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11116
+#EXTINF:-1,NATGEO KIDS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11607
+#EXTINF:-1,NATGEO WILD SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11606
+#EXTINF:-1,NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12896
+#EXTINF:-1,NATGEOKIDS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11104
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11605
+#EXTINF:-1,NBR TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11481
+#EXTINF:-1,NHK WORLD HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11124
+#EXTINF:-1,NICK JR FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12910
+#EXTINF:-1,Nick Jr HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11150
+#EXTINF:-1,NICK JR SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11604
+#EXTINF:-1,NICKELODEON SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11603
+#EXTINF:-1,NINJA JIRAIYA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12640
+#EXTINF:-1,NUESTRA TELE INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11412
+#EXTINF:-1,O FANTÁSTICO MUNDO DE BOBBY
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12639
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11602
+#EXTINF:-1,PFC 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11147
+#EXTINF:-1,PFC 1 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11149
+#EXTINF:-1,PFC 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11146
+#EXTINF:-1,PFC 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11143
+#EXTINF:-1,PFC 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11145
+#EXTINF:-1,PFC 3 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11142
+#EXTINF:-1,PFC 4 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11144
+#EXTINF:-1,PFC 4 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11148
+#EXTINF:-1,PFC 5 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12903
+#EXTINF:-1,PFC 6 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12904
+#EXTINF:-1,PLAY TV SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11601
+#EXTINF:-1,PLAYBOY FHD.
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11141
+#EXTINF:-1,PLAYBOY HD.
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11184
+#EXTINF:-1,PLAYBOY HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12913
+#EXTINF:-1,PLAYBOY SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11600
+#EXTINF:-1,PLAYKIDS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11599
+#EXTINF:-1,PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11598
+#EXTINF:-1,PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11597
+#EXTINF:-1,PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11596
+#EXTINF:-1,PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11594
+#EXTINF:-1,PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11595
+#EXTINF:-1,PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11593
+#EXTINF:-1,PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11592
+#EXTINF:-1,PREMIERE 8 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11591
+#EXTINF:-1,PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11590
 #EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7507
-#EXTINF:-1,PREMIERE2 FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7504
-#EXTINF:-1,PREMIERE2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7501
-#EXTINF:-1,PREMIERE3  FHD h265²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7503
-#EXTINF:-1,PREMIERE3 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7500
-#EXTINF:-1,PREMIERE4 FHD h.265²
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7502
-#EXTINF:-1,PREMIERE4  HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7506
-#EXTINF:-1,PREMIERE5 FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7485
-#EXTINF:-1,PREMIERE5 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7482
-#EXTINF:-1,PREMIERE6 FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7484
-#EXTINF:-1,PREMIERE6 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7483
-#EXTINF:-1,PREMIERE7 FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7374
-#EXTINF:-1,PREMIERE10 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5856
-#EXTINF:-1,PREMIERE 11 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5855
-#EXTINF:-1,RPC PY HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/7363
-#EXTINF:-1,PFC 636 HD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://samuraihd.com.br:80/1096/1096/5860
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11589
+#EXTINF:-1,PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11588
+#EXTINF:-1,RECORD BRASILIA FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11587
+#EXTINF:-1,RECORD BRASILIA SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11586
+#EXTINF:-1,RECORD FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11575
+#EXTINF:-1,RECORD FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11130
+#EXTINF:-1,RECORD HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12895
+#EXTINF:-1,RECORD ITAPOAN FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11585
+#EXTINF:-1,RECORD ITAPOAN¹
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11584
+#EXTINF:-1,RECORD MINAS FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11583
+#EXTINF:-1,RECORD MINAS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11582
+#EXTINF:-1,RECORD NEWS FHD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11581
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12886
+#EXTINF:-1,RECORD NEWS SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11580
+#EXTINF:-1,RECORD RIO FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11579
+#EXTINF:-1,RECORD RIO SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11578
+#EXTINF:-1,RECORD RS FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11577
+#EXTINF:-1,RECORD RS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11576
+#EXTINF:-1,RECORD SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11574
+#EXTINF:-1,RECORD SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11188
+#EXTINF:-1,RECORD SP FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12887
+#EXTINF:-1,RECORD SP HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11573
+#EXTINF:-1,RED BULL TV  FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11504
+#EXTINF:-1,REDE MINAS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11473
+#EXTINF:-1,REDE SUPER TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11411
+#EXTINF:-1,REDE VIDA HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11499
+#EXTINF:-1,REDE VIDA SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11498
+#EXTINF:-1,SBT ALT
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11465
+#EXTINF:-1,SBT FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11140
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11139
+#EXTINF:-1,Sbt HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12888
+#EXTINF:-1,SCOOBY DOO
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12628
+#EXTINF:-1,SEXTREME SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11572
+#EXTINF:-1,SEXY HOT FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11137
+#EXTINF:-1,SEXY HOT HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11158
+#EXTINF:-1,SEXY HOT SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11571
+#EXTINF:-1,SHOPTIME TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11471
+#EXTINF:-1,SICTV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11466
+#EXTINF:-1,SPACE FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11117
+#EXTINF:-1,SPACE SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11570
+#EXTINF:-1,SPECTREMAN
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12629
+#EXTINF:-1,Sportv 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11156
+#EXTINF:-1,SPORTV 2 HD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11569
+#EXTINF:-1,Sportv 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11153
+#EXTINF:-1,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11568
+#EXTINF:-1,Sportv 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11155
+#EXTINF:-1,SPORTV 3 HD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11567
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11152
+#EXTINF:-1,SPORTV 3 SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11566
+#EXTINF:-1,SPORTV FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11157
+#EXTINF:-1,SPORTV FHD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11565
+#EXTINF:-1,Sportv FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12914
+#EXTINF:-1,Sportv HD (2)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11154
+#EXTINF:-1,SPORTV HD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11564
+#EXTINF:-1,SPORTV SD 
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11563
+#EXTINF:-1,STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11562
+#EXTINF:-1,SUPER AMIGOS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12620
+#EXTINF:-1,SUPER VICKY
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12619
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12901
+#EXTINF:-1,TBS FHD H265
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11129
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12894
+#EXTINF:-1,TBS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11103
+#EXTINF:-1,TBS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11561
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11560
+#EXTINF:-1,TELECINCO HD (ESP)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11521
+#EXTINF:-1,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11183
+#EXTINF:-1,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11167
+#EXTINF:-1,TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11559
+#EXTINF:-1,TELECINE CULT SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11558
+#EXTINF:-1,TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11166
+#EXTINF:-1,TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11165
+#EXTINF:-1,TELECINE FUN SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11557
+#EXTINF:-1,TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11164
+#EXTINF:-1,TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11163
+#EXTINF:-1,TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11556
+#EXTINF:-1,TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11162
+#EXTINF:-1,TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11161
+#EXTINF:-1,TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11555
+#EXTINF:-1,TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11160
+#EXTINF:-1,TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11159
+#EXTINF:-1,TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11554
+#EXTINF:-1,THE BIG BANG THEORY
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12618
+#EXTINF:-1,HISTORY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11553
+#EXTINF:-1,THUNDERCATS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12617
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11099
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11552
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11551
+#EXTINF:-1,TNT SERIES FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12900
+#EXTINF:-1,TNT SERIES FHD H265
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11128
+#EXTINF:-1,TNT SERIES FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11550
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12893
+#EXTINF:-1,TNT SÉRIES SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11549
+#EXTINF:-1,TNT SERIES SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11102
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12623
+#EXTINF:-1,TOM & JERRY
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12616
+#EXTINF:-1,TOONCAST SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11548
+#EXTINF:-1,TV ALTERNATIVA (GAZETA MA)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11475
+#EXTINF:-1,TV ARAPUAN
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11472
+#EXTINF:-1,TV BRASIL DF
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11482
+#EXTINF:-1,TV CARIOCA HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11509
+#EXTINF:-1,TV CATVE (CULTURA PR)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11488
+#EXTINF:-1,TV CENTRAL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11489
+#EXTINF:-1,TV DIFUSORA SUL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11476
+#EXTINF:-1,TV MASTER
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11470
+#EXTINF:-1,TV O POVO
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11484
+#EXTINF:-1,TV PAMPA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11468
+#EXTINF:-1,TV PANTANAL MS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11474
+#EXTINF:-1,TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11546
+#EXTINF:-1,TV SANTA CECÍLIA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12885
+#EXTINF:-1,TV SERRA DOURADA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11478
+#EXTINF:-1,TV SIM (RECORD NEWS ES)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11479
+#EXTINF:-1,TV UNIAO NATAL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11469
+#EXTINF:-1,TV UNIAO
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11485
+#EXTINF:-1,TV UNIVERSAL 1
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11492
+#EXTINF:-1,TV UNIVERSAL 2 HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11494
+#EXTINF:-1,TV UNIVERSAL 2 SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11493
+#EXTINF:-1,TV VITORIA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11480
+#EXTINF:-1,TVCI
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11487
+#EXTINF:-1,TVE (TV BRASIL BA)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11486
+#EXTINF:-1,TVE RS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11467
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11186
+#EXTINF:-1,UNIVERSAL TV FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11544
+#EXTINF:-1,UNIVERSAL TV SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11543
+#EXTINF:-1,URU: VTV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12917
+#EXTINF:-1,USA: FOX 23 NEWS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11500
+#EXTINF:-1,VH1 MEGAHITS SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11542
+#EXTINF:-1,VIVA HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11541
+#EXTINF:-1,VIVA SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11540
+#EXTINF:-1,WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11539
+#EXTINF:-1,WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11125
+#EXTINF:-1,WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11538
+#EXTINF:-1,WARNER SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11100
+#EXTINF:-1,WOOHOO SD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11537
+
+LISTA ACHADA ATRAVÉS DE LIVRE PROCURA NA INTERNET SEU TROUXA....
