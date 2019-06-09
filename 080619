@@ -1,0 +1,166 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="RICOS TV =" tvg-logo="https://imgur.com/6DkmXsF.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  RICOS TV
+http://stmv1.srvstm.com/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CREATIVE TV =" tvg-logo="http://2.bp.blogspot.com/-cSS8FEy2saU/UvaN1w69LPI/AAAAAAAAFpM/PCstROQTxCI/s1600/CREATIVE%2BTV.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  CREATIVE TV 
+http://streaming63.sitehosting.com.br:1935/jandy/jandy/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CWB TV =" tvg-logo="https://cdn.reweb.io/hagah/image/hpww6VYAOa-aOK8wsJZ1ALTNKUo=/300x300/top/smart/hagah/b/b7/cwb-tv-curitiba-b787882d.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  CWB TV 
+http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DTTV =" tvg-logo="http://img.youtube.com/vi/vB_kx_8hTYw/sddefault.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  DTTV 
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUARU FAMA TV =" tvg-logo="https://pbs.twimg.com/profile_images/748111235489632256/mTrmhlTK_400x400.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  GUARU FAMA TV 
+http://tv.tvalphanet.com.br:1935/guarufamatv/guarufamatv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITU TV =" tvg-logo="http://www.osemanario.com.br/blog/wp-content/uploads/2015/08/Logo-Itu-TV-jpg-997x1024.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  ITU TV 
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV ÁGUA BOA =" tvg-logo="http://radio.radiosnaweb.com/_uploads/1375/publicidade/19548.jpg" group-title="RECORD",[B][COLOR white][/B][/COLOR]  RECORD TV ÁGUA BOA 
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV AD BELÉM =" tvg-logo="https://pbs.twimg.com/profile_images/1367405080/logo_tv_ad_belem.png" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV AD BELÉM 
+http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ÁGAPE =" tvg-logo="https://3.bp.blogspot.com/-fmQjiuagbIg/W74KdIRSo1I/AAAAAAAAK7g/oJHKNvLqvsYwOq7ZveRxN5lJsjAyRNobQCLcBGAs/s640/TV.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV ÁGAPE 
+http://streaming63.sitehosting.com.br:1935/prwalla/prwalla/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ALMG =" tvg-logo="http://boanovacj.com.br/radioboanova/wp-content/uploads/2015/10/AL-MG.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV ALMG 
+http://streaming.almg.gov.br:80/live/tvalmg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ALVORADA ESPÍRITA =" tvg-logo="http://api.ning.com/files/QtkHk2n49MGwrwUX-6WEQYEqjZPxDuJIJBQ*urr8YmfZd8IoeLanNVSuJTfcgZ75Bxefs3D69DbCuatlTH-F20xEHLBead-W/TV_ALV1.JPG" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV ALVORADA ESPÍRITA 
+http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV AREADO =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LnR2YXJlYWRvX3NjcmVlbl81X2EwNHdpYjF4/screen-5.jpg?h=355&fakeurl=1&type=.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV AREADO 
+http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BETEL =" tvg-logo="http://1.bp.blogspot.com/-zKlLPD1AsW4/Uqfom0NcueI/AAAAAAAAChM/D0g7DGjwytY/s1600/tv+evangelica+gratis.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV BETEL 
+http://stmv1.euroti.com.br:1935/betelnc/betelnc/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BNO =" tvg-logo="http://macmuro.com/upload/3227_bno-logoup1.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV BNO 
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA FEIRA DE SANTANA =" tvg-logo="http://feiradesantana.ba.leg.br/wp-content/uploads/2015/07/Brasao_feira-239x190.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV CÂMARA FEIRA DE SANTANA 
+http://s1.wsepanel.com:1935/camarafeira/camarafeira/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA JACAREÍ =" tvg-logo="http://www.jacarei.sp.leg.br/wp-content/uploads/2014/10/TV-C--mara-Jacare---Telespectador-poder---acessar-conte--dos-complementares-pelo-controle-remoto-945x716.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV CÂMARA JACAREÍ 
+http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA RIO GRANDE =" tvg-logo="http://www.camarapoa.rs.gov.br/images/tvcamara.png" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV CÂMARA RIO GRANDE 
+http://stream.camarariogrande.rs.gov.br:80/hls/cmrg_512/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMPOS GERAIS =" tvg-logo="https://lh3.googleusercontent.com/-xyHq8CGhZCs/AAAAAAAAAAI/AAAAAAAAADo/pau2p2H4RFc/s640-il/photo.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV CAMPOS GERAIS 
+http://stmv2.euroti.com.br:1935/tvcamposgerais/tvcamposgerais/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CAXIAS =" tvg-logo="http://3.bp.blogspot.com/-IpE1IqX8INE/Tl4g-MVWqiI/AAAAAAAAFig/H_fqHxkF_O0/s1600/TV%2BCaxias.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV CAXIAS 
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CI =" tvg-logo="https://emissoratvci.files.wordpress.com/2014/05/logo-tvci-2.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV CI 
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DESTAK =" tvg-logo="https://i.ytimg.com/vi/qXLHQEP1XYA/hqdefault_live.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV DESTAK 
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DIFUSORA SUL HD =" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/d/df/Logotipo_da_TV_Difusora_Sul_%282006-2016%29.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV DIFUSORA SUL HD 
+http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DIGITAL BIRIGUI =" tvg-logo="https://i.ytimg.com/vi/6zM2uyXvObU/hqdefault.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV DIGITAL BIRIGUI 
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DO POVO =" tvg-logo="https://www.crmv-ce.org.br/images/TV_%20o%20povo.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV DO POVO 
+http://tv02.logicahost.com.br:1935/tvdopovo/tvdopovo/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR =" tvg-logo="http://tv.somcristao.net/logos/rede-evangelizar.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV EVANGELIZAR 
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV FÁTIMA PARATIBE =" tvg-logo="https://bsdehonbrasil.files.wordpress.com/2017/09/logo-escola-paroquial1.png" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV FÁTIMA PARATIBE 
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV FLORIPA =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnNicmFzaWwudHZmbG9yaXBhMjAxOF9zY3JlZW5fMF8xNTA4OTMwNDcxXzA1OA/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV FLORIPA 
+http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GERAL =" tvg-logo="https://pbs.twimg.com/profile_images/870786362/Tv_Geral_400x400.JPG" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV GERAL 
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEÕES HD =" tvg-logo="http://1.bp.blogspot.com/-jjwlZRPdIVg/TuewC_24isI/AAAAAAAABDU/Hshkawj66bs/s400/ddddd.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV GIDEÕES HD 
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GOIÁS =" tvg-logo="https://files.aredacao.com.br/upload/content/manha-de-noticias-na-record-tv-goias-comeca-com-manuela-queiroz.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV GOIÁS 
+http://stmv2.euroti.com.br:1935/tvgoias/tvgoias/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARANY =" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV GUARANY 
+http://wsecast.com.br:1935/rtguarany/rtguarany/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ITAPETININGA =" tvg-logo="http://avareurgente.com/wp-content/uploads/2017/05/tv-tem-digital.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV ITAPETININGA 
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV LITORAL SUL =" tvg-logo="https://i.imgur.com/2FsqTly.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV LITORAL SUL 
+http://cdn2.w7virtual.net:1935/live/canal20/canal20/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MCJ =" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV MCJ 
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MISSÃO =" tvg-logo="https://pbs.twimg.com/profile_images/1469538890/TV_MISS_O_logo.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV MISSÃO 
+http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MONTEIRO =" tvg-logo="https://i.ytimg.com/vi/Y02EAw_5LUA/maxresdefault.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV MONTEIRO 
+http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL =" tvg-logo="https://1.bp.blogspot.com/-ODbxVsny3xE/WqvT9qyCOHI/AAAAAAAAAhY/kwyxk_NLCLQKmiuXDvkCu2sWaAD0BqA8QCLcBGAs/s1600/1516363670_453b552415fa1d742012f168d8919e131490bfe8.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV MUNDIAL 
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV O POVO =" tvg-logo="http://portaleliomar.opovo.com.br/wp-content/uploads/2017/09/maxresdefault-8-625x352.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV O POVO 
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PARAGUASSU =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LnR2cGFyYWd1YWN1X3NjcmVlbl8wXzE1MjY3ODA5MjZfMDc5/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  TV PARAGUASSU 
+http://stmv2.euroti.com.br:1935/tvparaguassu/tvparaguassu/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PORTAL DA BAHIA =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV PORTAL DA BAHIA 
+http://tv01.logicahost.com.br:1935/tvportal/tvportal/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV POVO CIGANO =" tvg-logo="http://www.tvpovocigano.com/gallery_gen/3f544304e5364a3761cc0ef2bd2c5f30_200x200.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV POVO CIGANO 
+http://streaming30.sitehosting.com.br:1935/cigano/cigano/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RIO =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0a/TV_Rio.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV RIO 
+http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RIO PRETO =" tvg-logo="http://tvriopreto.com.br/LOGOTV.png" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV RIO PRETO 
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SÃO PAULO =" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2017/05/logo-sp1-sptv-2017.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV SÃO PAULO 
+http://stmv2.euroti.com.br:1935/tvsaopaulo/tvsaopaulo/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TRANSAMÉRICA =" tvg-logo="https://marciostival.com.br/wp-content/uploads/2018/06/transamerica.png" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV TRANSAMÉRICA 
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO =" tvg-logo="http://tdhbrasil.org/images/clipping/tvuniao.png" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV UNIÃO 
+http://stmv1.euroti.com.br:1935/tvuniao/tvuniao/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO DE NATAL =" tvg-logo="http://tdhbrasil.org/images/clipping/tvuniao.png" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV UNIÃO DE NATAL 
+http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VIANNEY =" tvg-logo="http://tv.vianney.org.br/wp-content/uploads/2017/02/face-a-servico-da-evangelizacao-sao-joao-maria-vianney.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV VIANNEY 
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ZAINE =" tvg-logo="https://i.ytimg.com/vi/Fm7tgwvoefo/maxresdefault.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV ZAINE 
+https://593d7fe3c9b0d.streamlock.net/tvzaine/tvzaine/chunklist_w163222574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCOM MACEIÓ =" tvg-logo="https://i.ytimg.com/vi/EUmP_NNAJB4/hqdefault_live.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TVCOM MACEIÓ 
+http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNISC TV =" tvg-logo="https://pbs.twimg.com/profile_images/491937074841260032/WnQZ2nA6.png" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  UNISC TV 
+http://tv.unisc.br:80/hls/test.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VV8 TV =" tvg-logo="http://www.sdl.tv.br/imagens_noticias/fundo_azul_quadriculado.png" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  VV8 TV 
+http://servidor.saudeline.tv.br:1935/live/myStream1/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV IEQ SERGIPE =" tvg-logo="http://quadrangular.alphanetcomunicacao.com.br/upload/logo.png" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  WEB TV IEQ SERGIPE 
+http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV LEÃO DE JUDÁ =" tvg-logo="https://extra.globo.com/profile/bl_astrosdosastros/5649923-5cc-d5d/w488h275-PROP/leao-de-juda.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  WEB TV LEÃO DE JUDÁ 
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV NOVA PARAÍBA =" tvg-logo="https://pbs.twimg.com/profile_images/981631767357607937/BE8OW1o7_400x400.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  WEB TV NOVA PARAÍBA 
+http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV RESTAURA VIDAS =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LndlYnR2cmVzdGF1cmF2aWRhc19zY3JlZW5fMF8xNTA1MDM0NTE2XzA3Ng/screen-0.jpg?h=800&fakeurl=1&type=.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  WEB TV RESTAURA VIDAS 
+http://stmv4.euroti.com.br:1935/tvrestauravidas/tvrestauravidas/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV UAI =" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  WEB TV UAI 
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAT TVE =" tvg-logo="http://sindijorpr.org.br/disco/catve.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  CAT TVE 
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV =" tvg-logo="https://www.torcedores.com/content/uploads/2017/11/RedeTV.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  Rede TV 
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV SP =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  REDE TV SP 
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ACRITICA - RECORD AM =" tvg-logo="http://comercial.recordtv.com.br/files/2017/05/ACRITICA_AM.jpg" group-title="RECORD",[B][COLOR white][/B][/COLOR]  TV ACRITICA - RECORD AM 
+https://slbps-sambatech.akamaized.net/live/3256,7930,679f501d2054fc8514ea1fc28fe5f167;base64np;S52I5Up2XHDMC-c!/amlst:S51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA MG =" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logomarca_TV_Cultura.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  TV CULTURA MG 
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA PA =" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2015/7/27/660x290/b_1200x528/tv-cultura-tem-sinal-cortado_447757.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  TV CULTURA PA 
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO =" tvg-logo="https://i.imgur.com/tLJta9j.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  TV DIARIO =
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV UP HD =" tvg-logo="http://3.bp.blogspot.com/-B0o46BoM9g0/UU_rZdRzAwI/AAAAAAAACB4/HS6rBtFjUnc/s1600/uphd_sulbrtv.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  TV UP HD 
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE BRASIL =" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2016/05/TV-Brasil.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  TVE BRASIL 
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE EVANGELIZAR =" tvg-logo="https://4.bp.blogspot.com/-OTZ7_0OuWng/W0YoAmQ1r9I/AAAAAAAAZEc/LprlzVVoFUA8Qi3JioESVCoq3h082k7yACLcBGAs/s1600/dp.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  REDE EVANGELIZAR 
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE GRAVA =" tvg-logo="https://i.ytimg.com/vi/pQhJCp5E7sY/maxresdefault.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  REDE GRAVA 
+http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE NEW =" tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_mid.jpg" group-title="NOTICIAS",[B][COLOR white][/B][/COLOR]  REDE NEW 
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE RC =" tvg-logo="https://public-rf-upload.minhawebradio.net/3142/news/06c59dd7e10f6cf70c0377d0799412a8.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  REDE RC 
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  AGRO BRASIL 
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MT =" tvg-logo="https://i.ytimg.com/vi/-jFkFofmoLA/maxresdefault.jpg" group-title="RECORD",[B][COLOR white][/B][/COLOR]  RECORD MT 
+http://iptv-line.com:6969/live:73de61d2c5e3cf97/ZIbuegoDSchange/5308
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL =" tvg-logo="http://imagem.natelinha.uol.com.br/grande/redebrasil-logo2015.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  REDE BRASIL 
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT - CENTRO OESTE MT =" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Novo_logo_sbt.jpg" group-title="SBT",[B][COLOR white][/B][/COLOR]  SBT - CENTRO OESTE MT 
+http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/chunklist_w1194166640_b899072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT - MA | IMPERATRIZ =" tvg-logo="https://www.franquiaeducacional.com/wp-content/uploads/sbt-imperatriz-como-praticar-ginastica-para-o-cerebro.jpg" group-title="SBT",[B][COLOR white][/B][/COLOR]  SBT - MA | IMPERATRIZ 
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT - PE | CARUARÚ =" tvg-logo="http://1.bp.blogspot.com/-eYtVB-EPmTc/TY1eoUUIf4I/AAAAAAAACPY/x3pQSMIIkp8/s400/sbt_oficial1.jpg" group-title="SBT",[B][COLOR white][/B][/COLOR]  SBT - PE | CARUARÚ 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD =" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/novo-logo-marca-identidade-visual-sbt-e1508460706693.png" group-title="SBT",[B][COLOR white][/B][/COLOR]  SBT GO HD 
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO SD =" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/novo-logo-marca-identidade-visual-sbt-e1508460706693.png" group-title="SBT",[B][COLOR white][/B][/COLOR]  SBT GO SD 
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT MA =" tvg-logo="https://1.bp.blogspot.com/-njLZ69-zutU/WIPv7Dk4ypI/AAAAAAAAMo0/DDFNOG-ZopETOAvIz3viVWVVbto54NAmACLcB/s1600/123.jpg" group-title="SBT",[B][COLOR white][/B][/COLOR]  SBT MA 
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT PE HD =" tvg-logo="http://www.deolhonews.com.br/wp-content/uploads/2017/09/SBT-Apresenta.jpg" group-title="SBT",[B][COLOR white][/B][/COLOR]  SBT PE HD 
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT PE SD =" tvg-logo="https://portalovertube.com/wp-content/uploads/2017/08/sbts.jpg" group-title="SBT",[B][COLOR white][/B][/COLOR]  SBT PE SD 
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA =" tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  TERRA VIVA 
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
