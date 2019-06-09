@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/04/power-couple-brasil.jpg" group-title="CANAIS ENTRETENIMENTO",POWER COUPLE BRASIL HD
-plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/30236
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL SD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/04/power-couple-brasil.jpg" group-title="CANAIS ENTRETENIMENTO",POWER COUPLE BRASIL SD
-plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/30235
-#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 1 SD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA NORDESTE 1 SD
-plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/20069
-#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 1 HD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA NORDESTE 1 HD
-plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/20070
-#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 2 SD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA NORDESTE 2 SD
-plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/20067
-#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 2 HD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA NORDESTE 2 HD
-plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/20068
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E SD
 plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/4404
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD
@@ -35,8 +23,6 @@ plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNL
 plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/5983
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-name="ALL SPORT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sports.png" group-title="CANAIS ESPORTES",ALL SPORT SD
 plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/6812
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Aljazeera-logo-English-1024x768.png" group-title="CANAIS ENTRETENIMENTO",ALJAZEERA HD
-plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/7550
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET SD
 plugin://plugin.video.f4mTester/?name=[B]IPTV TWTutoriais[/B]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/010419/010419/4403
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET HD
