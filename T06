@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:-1,POWER COUPLE BRASIL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/30236
-#EXTINF:-1,POWER COUPLE BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/30235
-#EXTINF:-1,COPA NORDESTE 1 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/20069
-#EXTINF:-1,COPA NORDESTE 1 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/20070
-#EXTINF:-1,COPA NORDESTE 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/20067
-#EXTINF:-1,COPA NORDESTE 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/20068
+
 #EXTINF:-1,A&E SD
 plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/4404
 #EXTINF:-1,A&E HD
@@ -33,10 +22,6 @@ plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp
 plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/20892
 #EXTINF:-1,AGRO CANAL SD
 plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/5983
-#EXTINF:-1,ALL SPORT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/6812
-#EXTINF:-1,ALJAZEERA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/7550
 #EXTINF:-1,ANIMAL PLANET SD
 plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/81261/81261/4403
 #EXTINF:-1,ANIMAL PLANET HD
