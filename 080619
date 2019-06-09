@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="RICOS TV =" tvg-logo="https://imgur.com/6DkmXsF.jpg" group-title="ABERTOS",[B][COLOR white][/B][/COLOR]  RICOS TV
-http://stmv1.srvstm.com/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CREATIVE TV =" tvg-logo="http://2.bp.blogspot.com/-cSS8FEy2saU/UvaN1w69LPI/AAAAAAAAFpM/PCstROQTxCI/s1600/CREATIVE%2BTV.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  CREATIVE TV 
-http://streaming63.sitehosting.com.br:1935/jandy/jandy/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CWB TV =" tvg-logo="https://cdn.reweb.io/hagah/image/hpww6VYAOa-aOK8wsJZ1ALTNKUo=/300x300/top/smart/hagah/b/b7/cwb-tv-curitiba-b787882d.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  CWB TV 
-http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DTTV =" tvg-logo="http://img.youtube.com/vi/vB_kx_8hTYw/sddefault.jpg" group-title="REGIONAIS",[B][COLOR white][/B][/COLOR]  DTTV 
 http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GUARU FAMA TV =" tvg-logo="https://pbs.twimg.com/profile_images/748111235489632256/mTrmhlTK_400x400.jpg" group-title="RELIGIOSOS",[B][COLOR white][/B][/COLOR]  GUARU FAMA TV 
