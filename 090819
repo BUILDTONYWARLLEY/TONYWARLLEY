@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="a Patroa e as Crianças 24hs" tvg-logo="http://www.tvhistoria.com.br/images/upload/091216-euapatroasegredos-imagem01.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",a Patroa e as Crianças 24hs
 plugin://plugin.video.f4mTester/?name=TV-TWTutoriais&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/hernandes/hernandes/30013
 #EXTINF:-1 tvg-id="" tvg-name="Aladdin 24hrs" tvg-logo="https://4.bp.blogspot.com/-aDcTE4RS4j4/WyJ8_YOI0KI/AAAAAAAAMes/QwzKoIBxlf4HMm-_ZX4LcZgZFWLsZQyqwCLcBGAs/s1600/Aladdin%2Bdownload%2Btorrent%2Bdesenho%2Banimado%2Bcompleto.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Aladdin 24hrs
