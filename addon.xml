@@ -288,11 +288,11 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
   </extension>
 </addon>
 
-<addon id="plugin.video.KeltecMP"
-       name="KeltecMP"
+<addon id="plugin.video.KeltecMerdaMP"
+       name="KeltecMerdaMP"
        version="1.0"
-       provider-name="KELTEC">
-  <requires>
+       provider-name="KELTECmerdaMP">
+  <requires>...VENDEDORZINHO DE IPTV DE MERDA.... CHORA NA CAMA...
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
