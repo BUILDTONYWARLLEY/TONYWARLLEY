@@ -16,9 +16,24 @@
 
 <channels>
 <channel>
-<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]MOVIES[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white] VOD [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>https://i.imgur.com/FL4sbkV.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/098765</externallink>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]TWTUTORIAIS[/COLOR] [COLOR mediumblue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/20062019/fuckyou/master/0001</externallink>
+<fanart>https://i.imgur.com/HlkbQSK.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- SÉRIES LEGAIS DO MOMENTO -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]AQUI VÔCE ENCONTRA[/COLOR] [COLOR mediumblue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/20062019/fuckyou/master/0001</externallink>
 <fanart>https://i.imgur.com/HlkbQSK.jpg</fanart>
 <info>
 
@@ -31,9 +46,9 @@
 
 <channels>
 <channel>
-<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR green][B]TWT[/B][/COLOR][COLORyellow][B]utoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]ESPORÁDICAS E TEMPORÁRIAS [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>https://i.imgur.com/g3wSjWK.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/TVSHOW</externallink>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]AS MELHORES BUILDS[/COLOR] [COLOR mediumblue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/20062019/fuckyou/master/0001</externallink>
 <fanart>https://i.imgur.com/HlkbQSK.jpg</fanart>
 <info>
 
@@ -44,3 +59,15 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]OS MELHORES ADDONS[/COLOR] [COLOR mediumblue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<thumbnail>https://i.imgur.com/ovooWMg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/20062019/fuckyou/master/0001</externallink>
+<fanart>https://i.imgur.com/HlkbQSK.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- SÉRIES LEGAIS DO MOMENTO -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
