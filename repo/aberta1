@@ -1,0 +1,465 @@
+#EXTM3U
+#EXTINF:-1,Globo RJ FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/12665
+#EXTINF:-1,Globo RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1586
+#EXTINF:-1,Globo RJ
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1752
+#EXTINF:-1,Globo RJ  FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41723
+#EXTINF:-1,Globo RJ Alternativo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/12991
+#EXTINF:-1,Globo RJ Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/8667
+#EXTINF:-1,Globo TV RIO Sul RJ FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41765
+#EXTINF:-1,Globo TV RIO Sul RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41764
+#EXTINF:-1,Globo TV RIO Sul RJ
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41763
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41792
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41791
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41790
+#EXTINF:-1,Globo Inter TV Serra Mar RJ FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41783
+#EXTINF:-1,Globo Inter TV Serra Mar RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41782
+#EXTINF:-1,Globo Inter TV Serra Mar
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41781
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21615
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/17241
+#EXTINF:-1,Globo SP
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/111
+#EXTINF:-1,Globo SP  FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31624
+#EXTINF:-1,Globo SP Alternativo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/18836
+#EXTINF:-1,Globo SP Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/8664
+#EXTINF:-1,Globo MG FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21616
+#EXTINF:-1,Globo MG HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/5989
+#EXTINF:-1,Globo MG
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1653
+#EXTINF:-1,Globo MG Alternativo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/9461
+#EXTINF:-1,Globo MG Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/11450
+#EXTINF:-1,Globo Inter TV Dos Vales MG FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41789
+#EXTINF:-1,Globo Inter TV Dos Vales MG HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41788
+#EXTINF:-1,Globo Inter TV Dos Vales MG
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41787
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41786
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41785
+#EXTINF:-1,Globo Inter TV Grande Minas
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41784
+#EXTINF:-1,Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/17071
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/8485
+#EXTINF:-1,Globo Nordeste
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/6136
+#EXTINF:-1,Globo Nordeste Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/9469
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21617
+#EXTINF:-1,Globo RPC TV Curitiba HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/18837
+#EXTINF:-1,Globo RPC TV Curitiba
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/18838
+#EXTINF:-1,Globo RPC Foz do Iguaçu FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29676
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29677
+#EXTINF:-1,Globo RPC Foz do Iguaçu
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29678
+#EXTINF:-1,Globo RPC TV Paraná
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/30678
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29777
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21619
+#EXTINF:-1,Globo NSC TV Florianopolis
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21618
+#EXTINF:-1,Globo NSC TV Chapecó FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29673
+#EXTINF:-1,Globo NSC TV Chapecó HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29674
+#EXTINF:-1,Globo NSC TV Chapecó
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29675
+#EXTINF:-1,Globo NSC TV Santa Catarina
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/40391
+#EXTINF:-1,Globo NSC TV Blumenau SC FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41780
+#EXTINF:-1,Globo NSC TV Blumenau SC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41779
+#EXTINF:-1,Globo NSC TV Blumenau SC
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41778
+#EXTINF:-1,Globo NSC TV Joinville SC FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41774
+#EXTINF:-1,Globo NSC TV Joinville SC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41773
+#EXTINF:-1,Globo NSC TV Joinville SC
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41772
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29663
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21620
+#EXTINF:-1,Globo RBS TV Porto Alegre
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/12095
+#EXTINF:-1,Globo RBS TV Porto Alegre Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1484
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41775
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41777
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41776
+#EXTINF:-1,Globo RBS TV Pelotas RS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41771
+#EXTINF:-1,Globo RBS TV Pelotas RS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41770
+#EXTINF:-1,Globo RBS TV Pelotas RS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41769
+#EXTINF:-1,Globo TV Gazeta Vitória FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29682
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29683
+#EXTINF:-1,Globo TV Gazeta Vitória
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29684
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31274
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31275
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29892
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29891
+#EXTINF:-1,Globo TV Gazeta Alagoas
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29893
+#EXTINF:-1,Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29685
+#EXTINF:-1,Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29686
+#EXTINF:-1,Globo TV Sergipe
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29687
+#EXTINF:-1,Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29679
+#EXTINF:-1,Globo TV Clube Teresina HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29680
+#EXTINF:-1,Globo TV Clube Teresina
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29681
+#EXTINF:-1,Globo Brasília FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29779
+#EXTINF:-1,Globo Brasília HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/18200
+#EXTINF:-1,Globo Brasília
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1751
+#EXTINF:-1,Globo Brasília Alternativo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21583
+#EXTINF:-1,Globo Brasília Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21584
+#EXTINF:-1,Globo Bahia FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29775
+#EXTINF:-1,Globo Bahia HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21206
+#EXTINF:-1,Globo Bahia
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/8481
+#EXTINF:-1,Globo Bahia Alternativo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21694
+#EXTINF:-1,Globo Bahia Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21695
+#EXTINF:-1,Globo TV Anhanguera Goiânia FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29776
+#EXTINF:-1,Globo TV Anhanguera Goiânia HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/9463
+#EXTINF:-1,Globo TV Anhanguera Goiânia
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/2409
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29774
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29773
+#EXTINF:-1,Globo TV Mirante Sao Luis
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29772
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29771
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29770
+#EXTINF:-1,Globo TV Morena Campo Grande
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29769
+#EXTINF:-1,Globo TV Cabo Branco PB FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41768
+#EXTINF:-1,Globo TV Cabo Branco PB HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41767
+#EXTINF:-1,Globo TV Cabo Branco PB
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41766
+#EXTINF:-1,Globo TV Santa Cruz BA FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41762
+#EXTINF:-1,Globo TV Santa Cruz BA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41761
+#EXTINF:-1,Globo TV Santa Cruz BA
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41760
+#EXTINF:-1,Globo TV Verde Mares HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/43350
+#EXTINF:-1,Globo TV Verdes Mares
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/12303
+#EXTINF:-1,Globo TV Verdes Mares Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/27396
+#EXTINF:-1,Globo InterTV Cabugi
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/6992
+#EXTINF:-1,Globo Inter TV RN
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21624
+#EXTINF:-1,Globo TV Amazonas
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/6990
+#EXTINF:-1,Globo TV Amazonas Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/11444
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29781
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/19971
+#EXTINF:-1,Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/19972
+#EXTINF:-1,Globo EPTV Campinas Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31545
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31270
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/19979
+#EXTINF:-1,Globo EPTV Ribeirão Preto
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/7003
+#EXTINF:-1,Globo EPTV Ribeirao Preto Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31546
+#EXTINF:-1,Globo EPTV São Carlos
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/19981
+#EXTINF:-1,Globo EPTV São Carlos Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31549
+#EXTINF:-1,Globo EPTV Araraquara
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21623
+#EXTINF:-1,Globo TV Tem Sao Jose Rio do Preto FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29780
+#EXTINF:-1,Globo TV Tem Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/19984
+#EXTINF:-1,Globo Tv Tem Sao Jose do Rio Preto
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/19985
+#EXTINF:-1,Globo Tv Tem Sao Jose do Rio Preto Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31547
+#EXTINF:-1,Globo Tv Tem Sorocaba
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/6993
+#EXTINF:-1,Globo Tv Tem Sorocaba Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31548
+#EXTINF:-1,Globo Tv Tem Bauru
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/19987
+#EXTINF:-1,Globo TV Tribuna
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/16169
+#EXTINF:-1,Globo TV Liberal Belém
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/9464
+#EXTINF:-1,Globo TV Centro America MT
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21696
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/13800
+#EXTINF:-1,Globo Internacional FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31128
+#EXTINF:-1,Globo Internacional
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/29617
+#EXTINF:-1,Globo Portugal
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/283
+#EXTINF:-1,Globo Portugal Aternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31095
+#EXTINF:-1,Globo Now
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/226
+#EXTINF:-1,Globo Now Aternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31094
+#EXTINF:-1,Power Couple Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47233
+#EXTINF:-1,Power Couple Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47234
+#EXTINF:-1,Power Couple Brasil
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47235
+#EXTINF:-1,RecordTV SP FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21622
+#EXTINF:-1,RecordTV SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1694
+#EXTINF:-1,RecordTV SP
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/252
+#EXTINF:-1,RecordTV Alternativo SP FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/38017
+#EXTINF:-1,RecordTV Alternativo SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/7045
+#EXTINF:-1,RecordTV Alternativo SP
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/13532
+#EXTINF:-1,RecordTV RJ FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31262
+#EXTINF:-1,RecordTV RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31212
+#EXTINF:-1,RecordTV RJ
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31263
+#EXTINF:-1,RecordTV MG FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31264
+#EXTINF:-1,RecordTV MG HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31265
+#EXTINF:-1,RecordTV MG
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31266
+#EXTINF:-1,RecordTV RS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35863
+#EXTINF:-1,RecordTV RS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35858
+#EXTINF:-1,RecordTV RS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35857
+#EXTINF:-1,RecordTV DF FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35848
+#EXTINF:-1,RecordTV DF HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35860
+#EXTINF:-1,RecordTV DF
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35859
+#EXTINF:-1,RecordTV Goiás HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/34655
+#EXTINF:-1,RecordTV BA FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35864
+#EXTINF:-1,RecordTV BA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35862
+#EXTINF:-1,RecordTV BA
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35861
+#EXTINF:-1,RecordTV TV Atalaia Sergipe HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41950
+#EXTINF:-1,RecordTV TV Atalaia Sergipe
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41974
+#EXTINF:-1,RecordTV RICTV Curitiba HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41976
+#EXTINF:-1,RecordTV RICTV Curitiba
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41978
+#EXTINF:-1,RecordTV TV Litoral Santos HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47524
+#EXTINF:-1,RecordTV Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47526
+#EXTINF:-1,RecordTV TV Paranaiba MG HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47523
+#EXTINF:-1,RecordTV TV Cabralia BA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47527
+#EXTINF:-1,RecordTV RICTV SC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41898
+#EXTINF:-1,RecordTV Belem HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47525
+#EXTINF:-1,RecordTV Portugal
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/289
+#EXTINF:-1,RecordTV Portugal Aternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31093
+#EXTINF:-1,SBT FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/12662
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1961
+#EXTINF:-1,Sbt
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/373
+#EXTINF:-1,SBT HD Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/12886
+#EXTINF:-1,SBT Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/18203
+#EXTINF:-1,SBT SP Interior
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21676
+#EXTINF:-1,SBT TV Alterosa HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31127
+#EXTINF:-1,SBT TV Alterosa Divinopolis MG
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47522
+#EXTINF:-1,SBT RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/46792
+#EXTINF:-1,SBT Santa Catarina HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41897
+#EXTINF:-1,SBT RS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/46023
+#EXTINF:-1,SBT Parana HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41975
+#EXTINF:-1,SBT Sergipe HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41952
+#EXTINF:-1,SBT TV Aratu BA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/47529
+#EXTINF:-1,Band FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/7047
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1744
+#EXTINF:-1,Band
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/372
+#EXTINF:-1,Band Alternativo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/19956
+#EXTINF:-1,Band Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21197
+#EXTINF:-1,Band TV Goiania FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/43306
+#EXTINF:-1,Band RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/46791
+#EXTINF:-1,Band Aracaju SE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41951
+#EXTINF:-1,Band TV Taroba Parana HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41977
+#EXTINF:-1,Band TV Taroba
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/40385
+#EXTINF:-1,Rede TV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/7046
+#EXTINF:-1,Rede TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1862
+#EXTINF:-1,Rede Tv
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/297
+#EXTINF:-1,Rede TV Alternativo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21198
+#EXTINF:-1,Rede Tv Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21199
+#EXTINF:-1,TV Diario Fortaleza FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41971
+#EXTINF:-1,TV Diario Fortaleza HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41972
+#EXTINF:-1,TV Diario Fortaleza
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/41973
+#EXTINF:-1,TV Cultura FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31272
+#EXTINF:-1,TV Cultura HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31271
+#EXTINF:-1,TV Cultura
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/2422
+#EXTINF:-1,TV Brasil
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1928
+#EXTINF:-1,TV Diario
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+#EXTINF:-1,TV Gazeta HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/18202
+#EXTINF:-1,TV Gazeta
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1929
+#EXTINF:-1,TV Escola
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/12108
+#EXTINF:-1,TV Câmara
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1783
+#EXTINF:-1,TV Justica
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/35902
+#EXTINF:-1,TV Senado
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/6651
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/13899
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/6542
+#EXTINF:-1,Canal Brasil
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/237
+#EXTINF:-1,Canal Brasil Alternativo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21730
+#EXTINF:-1,Canal Brasil Alternativo
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21731
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/31204
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/21692
+#EXTINF:-1,Futura
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/6653
+#EXTINF:-1,NBR
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1843
+#EXTINF:-1,Terra Viva
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/17520
+#EXTINF:-1,Canal Rural
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://hls-live.crur.al/hlsmedium/playlist.m3u8
+#EXTINF:-1,Rede Brasil
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWTutoriais[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://dns.infinitytv.xyz:8000/Delay/Delay/1780
