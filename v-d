@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="arte1.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]ARTE 1[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]ARTE 1[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/20795.m3u8
+
+#EXTINF:-1 tvg-logo="comedycentral.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]COMEDY CENTRAL[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]COMEDY CENTRAL[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2484.m3u8
+
+#EXTINF:-1 tvg-logo="bis.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]BIS[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]CANAL BIS[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1104.m3u8
+
+#EXTINF:-1 tvg-logo="curta.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]CURTA[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]CANAL CURTA[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/20802.m3u8
+
+#EXTINF:-1 tvg-logo="mtv.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]MTV[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellowMTV  [/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/5092.m3u8
+
+#EXTINF:-1 tvg-logo="vh1.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]VH1 MEGAHITS[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]VH1 MEGAHITS[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/5098.m3u8
+
+#EXTINF:-1 tvg-logo="animalplanet.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] ANIMAL PLANET[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]ANIMAL PLANET[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1117.m3u8
+
+#EXTINF:-1 tvg-logo="discoverychannel.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY CHANNEL[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY CHANNEL[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2410.m3u8
+
+#EXTINF:-1 tvg-logo="discoverycivilization.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISOCVERY CIVILIZATION[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISOCVERY CIVILIZATION[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/16005.m3u8
+
+#EXTINF:-1 tvg-logo="discoveryh&h.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY H&H[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY HH[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1082.m3u8
+
+#EXTINF:-1 tvg-logo="discoveryscience.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY SCIENCE[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY SCIENCE[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/16006.m3u8
+
+#EXTINF:-1 tvg-logo="discoverytheater.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY THEATER[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY THEATER[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2460.m3u8
+
+#EXTINF:-1 tvg-logo="discoveryturbo.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY TURBO[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY TURBO[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2411.m3u8
+
+#EXTINF:-1 tvg-logo="discoveryworld.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY WORLD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY WORLD[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2461.m3u8
+
+#EXTINF:-1 tvg-logo="h2.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] H2[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]H2[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1021.m3u8
+
+#EXTINF:-1 tvg-logo="history.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] HISTORY[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]HISTORY[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2468.m3u8
+
+#EXTINF:-1 tvg-logo="id.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] INVESTIGAÇÃO DISCOVERY[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]INVESTIGAÇÃO DISCOVERY[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2469.m3u8
+
+#EXTINF:-1 tvg-logo="natgeowild.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] NATGEO WILD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]NATGEO WILD[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/994.m3u8
+
+#EXTINF:-1 tvg-logo="nationalgeographic.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] NATIONAL GEOGRAPHIC[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]NATIONAL GEOGRAPHIC[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/990.m3u8
+
+#EXTINF:-1 tvg-logo="tlc.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] TLC[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]TLC[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/5097.m3u8
+
