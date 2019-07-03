@@ -1,0 +1,31 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="band.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]BAND[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]BAND[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1108.m3u8
+
+#EXTINF:-1 tvg-logo="globo.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]GLOBO | MG[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]GLOBO MG[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/17129.m3u8
+
+#EXTINF:-1 tvg-logo="globo.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]GLOBO | RJ[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]GLOBO RJ[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1207.m3u8
+
+#EXTINF:-1 tvg-logo="globo.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]GLOBO | SP[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]GLOBO SP[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/17122.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3p6AOug.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]GLOBO | NSC BLUMENAU[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]GLOBO NSC BLUMENAU[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/46940.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.TWT.tk/img/record.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]RECORD TV[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]RECORD TV[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/38766.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.TWT.tk/img/sbt.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]SBT[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]SBT[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1208.m3u8
+
+#EXTINF:-1 tvg-logo="redetv.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]REDE TV[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]REDE TV[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2406.m3u8
+
+#EXTINF:-1 tvg-logo="tvcultura.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]TV CULTURA[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]TV CULTURA[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2505.m3u8
+
+#EXTINF:-1 tvg-logo="futura.png" group-title="CANAIS | TV ABERTA",[B][COLOR yellow]FUTURA[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellow]FUTURA[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/20803.m3u8
