@@ -225,7 +225,8 @@
 
                 <item>
                     <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]01 - Desastre[/COLOR]</title>
-                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MakJq0StF_oErEi-uDHuHsjwjJ7RtNb5/view?usp=drivesdk</link>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MakJq0StF_oErEi-uDHuHsjwjJ7RtNb5/view$$lsname=[COLOR lime]FULLHD[/COLOR] - LINK 1</link>
+		    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M5Sds1JPHdhwUiFzeG2Sy16BCehNRdbN/view$$lsname=[COLOR lime]FULLHD[/COLOR] - LINK 2</link>
                     <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
                 </item>
 		
