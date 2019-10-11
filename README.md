@@ -1,7 +1,7 @@
 # Repo TonyWarlley link alternativo:
-http://buildtonywarlley.000webhostapp.com/plugin.video.TONYWARLLEY.zip
+http://megarepo.xyz
 
-Addon modificado por TonyWarlley .
+Addon modificado por TWTUTORIAIS o TERROR DO ZÉ DROGUINHA...KKKK
 
 Não sou responsavel por colocar o conteudo online, apenas indexo.
 
