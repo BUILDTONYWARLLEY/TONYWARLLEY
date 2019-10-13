@@ -1,6 +1,13 @@
-#EXTM3U
 
-#EXTINF:-1,NOME LINK 1
-plugin://plugin.video.f4mTester/?name=[B][COLOR lime]NOME Q APARECERA[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=https://5c64355d4b57c.streamlock.net:1936/tvcidade2/tvcidade2/playlist.m3u8
-#EXTINF:-1,NOME LINK 2
-plugin://plugin.video.f4mTester/?name=[B][COLOR lime]NOME Q APARECERA[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=rtmps://5c64355d4b57c.streamlock.net:1936/tvcidade2/tvcidade2
+<item>
+                    <title>[COLOR white]CANAL 1[COLOR yellow][B][/B][/COLOR]</title>
+                    <link>https://5c64355d4b57c.streamlock.net:1936/tvcidade2/tvcidade2/playlist.m3u8</link>
+                    <thumbnail></thumbnail>
+                    <fanart></fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]CANAL 1[COLOR yellow][B][/B][/COLOR]</title>
+                    <link>rtmps://5c64355d4b57c.streamlock.net:1936/tvcidade2/tvcidade2</link>
+                    <thumbnail></thumbnail>
+                    <fanart></fanart>
+                </item>
