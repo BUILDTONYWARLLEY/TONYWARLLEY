@@ -248,6 +248,14 @@
 </item>
 
 <item>
+<title>[COLOR white]Tieta - 1989[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcuoVVLMkjcLpuBy88ZplDSyhueQxqbmo/?page=0</jsonrpc>
+<thumbnail>https://archive.org/download/tieta/tieta.jpg</thumbnail>
+<fanart>https://archive.org/download/tieta/tieta.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white]Uga Uga - 2000[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLq5y_WWxBzSDDYdy7O1IpYQRAyqy1yZUP/?page=0</jsonrpc>
