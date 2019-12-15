@@ -7,14 +7,6 @@
 <fanart>http://i.imgur.com/U9xUOgx.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white]Épico Conhecimento[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCn86cTZIihVTJiZpnNis37Q/?page=0</jsonrpc>
-<thumbnail>http://i.imgur.com/baOz2mc.jpg</thumbnail>
-<fanart>http://i.imgur.com/baOz2mc.jpg</fanart>
-</item>
-
 
 <item>
 <title>[COLOR white]Documentários X[/COLOR]</title>
@@ -22,14 +14,6 @@
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCwB1FRmF4eNsetRUbwCfseQ/?page=0</jsonrpc>
 <thumbnail>http://i.imgur.com/gNjID8R.jpg</thumbnail>
 <fanart>http://i.imgur.com/gNjID8R.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white]Documentários Discovery Channel[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/DCnosferahcorp/?page=0</jsonrpc>
-<thumbnail>http://i.imgur.com/X4rYgLc.jpg</thumbnail>
-<fanart>http://i.imgur.com/X4rYgLc.jpg</fanart>
 </item>
 
 <item>
