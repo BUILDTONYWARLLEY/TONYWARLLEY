@@ -1,0 +1,401 @@
+<!DOCTYPE html><html><script>location.href = "http://bit.ly/DOWNLOADSTWTUTORIAIS";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+
+<item>
+<title>[COLOR  mediumblue][B]CANAIS DE TUTORIAIS E TECH[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/tech.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/techfan.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]Tony Warlley[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCgVQqobkMRRMrHQcbT1i5Fg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_3ak2i-vA2Su_D5QTcy91DtrObFxWO7AWP=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/bxCPg1MegrpRNZS8jKJ_M5gflModRhML3f4YMWdvkwT2g5lWH2WOP-KzJoxPJ9hQS2DcnZwA=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]Kodish Media Center[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCFRYO554o_3JjwHvk83GH6w/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCI6SAiQBePvQKbI5IHRgercktSQ9xPLBIimQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/B7ukvNLWlRc/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Mega Tony Tutoriais[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCjtWObi0Cu2SqUSJCxQAfMw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_kLEcisS4ry2so9vjPj9cM8MONmFQLuQjqoA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart>https://yt3.ggpht.com/DsjtCnKue_IcRaVLwpLVWvQwe0VzPdQcdTdXhT0hfiGIbpCoHEEYVTgZyS9b9uzB0Avn3Duj2Q=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Olhar Digital[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCGV72aVJuWP0QPNGH4YgIww/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDAjzsa6AYvSuhZV1lYeVmNWcdKuyZyl0t8-A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://cache.olhardigital.com.br/uploads/acervo_imagens/2016/10/20161024174312_660_420.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]PH Tutoriais[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/PHTutoriaisHD/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAiUfy4Ukl0Tia7SfUDb3HEOZhJN18ztqYVtA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/XlDjexw.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]Geek Antenado[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/eusouandroid/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBzRWDi5i5opad-JhWMVHgmI2j3CstR4459CQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/HvvCBrr.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Jefferson Meneses[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/jmsjeffy/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBD1H8aKmagmUg3Hi1wY-IGHHkfr9L9uhXWlw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/xtuhkoVNOBM/hq720.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Eu Testei[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/EuTestei/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCtxse0vjhivoPOxG8YK5mbln4eCLi_IONEvg=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-CYpP97X-GTU/WeoqURytQgI/AAAAAAAAE-8/IyHaErWsDlUXX7Zb6F2MLfCplGLkNLOlwCJkCGAYYCw/w1082-h609-n-rw-no/Channel-Art-Template2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Canaltech[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/canaltechbr/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDgvulsydmhlcvSoMbCCdnrRBZz8z7qk2dXaw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://img.canaltech.com.br/logo-ct.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Escolha Segura[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCDUdvPnNWjQCif_GnrhUE6Q/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDd96B98wUOk-NTcATaLKT3X0rNde0BBqSo7g=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/K0cR7RJ9j7A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBTgwvCYRlvUhaN4k2zut4dcTEo9A</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]TecMundo[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mD7-9L0rJ_c2H5S3Ul13wfj7S0ZdDPJNiZLlQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://de1f1l5l72ecp.cloudfront.net/awin/image/upload/v1487711636/awin-website/case-studies/image/wupdeok2khabu8gcad0m.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]TechZone[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCazlSPqeYlqRYynASgCRYRg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAj27CjK8CrQpdohdO-Eml5P_6GUCkYO_p9CQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/6fkTv6e113U/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]TudoCelular[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/TudoCelular/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAGj21ragdfysm-Syol7hHP_D0ogb8iwJTQHA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/JbOtB37.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR  mediumblue][B]CANAIS DE GAMES[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/techgames.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/gamefan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Games EduUu[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/GamesEduUu/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l79f855VyTlPgUXeSS0j6VLp922tNx0PJO3swQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/VcAiuqW.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]YouANDi Games[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCqdhF7Os8ynfFJZUigzDgtA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBx2BfPoaCV6ffRhEwSnXDcAjX6sxB0r7GwIw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/EFaRz3d.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Wiiferoz[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/WiiFer0iiz/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCUFSBWGRm612xRFj8lAY88vJXen-kj0eIfZw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/gABXyOD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ColoniaContraAtaca[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/ColoniaContraAtaca/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAN9ZkORkXLtcyLqlkhWtwcZK4xcXOTb7DQWw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/3VKB7NQ.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]Fiaspo Games[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCPmKDdmHl5F7EvJGFoSHOwg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBxibbMaHATv70sf51OdQMODVfWj9e8HyY4Xw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/tu-Bk_G79tg/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Velberan Adventures[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/velberan2/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDbPvjbOVGYTuSxLOGqw_jrcsCp8j_rzIPUCg=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://fotos.influencerwiki.com.br/cover/velberan-adventures.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Canal CAPSLOCK[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/OficialCAPSLOCK/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBzFbZeFoFCGgiOD0o1OpoGF-_fPOVHximjWQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://pm1.narvii.com/6576/dd619ca9cecbea0652ee3f3d878a224c8a51c2cf_hq.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Core[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/CoreDasAntigas/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCCv07fD1JDiqLwCk599EN5j4gHtUeKso885Q=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/od9D7Np7C64/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Cartuchito & Ataque da Casa[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC_B6Ns3q060BwhZr6iEXQrg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBrDOB5et6yHp45Jo9rqYOW7BlswY6KVxc6UQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://yt3.ggpht.com/MK-jW314LSZtacycO76PFL60Ao0oKxrPldPu41HufeC9Z6LGnFtXjSca8QAKt4jpmNOhirNYfA=w640-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AssopraFitas[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/AssopraFitas/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpvjOSOpowYZvprWf_2izWGfbB8J0JQKXpAw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/3Qq7iT7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]The Enemy[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCHCcdjkFeWndu5UixT1xswQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAuvH4zY-0gg-NRtAMJ7UsM1bf2ggBdCjgsKw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://cdn.ome.lt/static/theenemy/img/global/theenemy-share-logo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Mega Games[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCOGIxwU02N-26aBZ8ljkeqA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDfeOoPPBJ50MbwdcOdB4r5PKT6jRwtXYJyiw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/lXaZLnwqOI0/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Canal Clash War[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCR-Y4lWmrCYbr1XavmNMlvQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCedLIOBSgNXSkpvxHRut0M0jtr6GnbtjmkZA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-6fstSlNIQAU/WA__1kKIsFI/AAAAAAAAASc/v4V4xaxLbi42yzBmQWbRqjdrliyHxjh2QCJkCGAYYCw/w1082-h609-n-rw-no/Banner%2Bclash%2Bwar%2B..png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]O Ninja[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCSpG_yAd2Lqlio-LlzlzBrQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBYK9yTmqIUHgvQKncL1nct2ID-aImOwR7bHg=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>http://uploaddeimagens.com.br/images/001/884/012/full/Capturar.PNG?1549573375</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Nery[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCKta32VnUFelxucjL-xyugQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBM27kYaC4pt76txHg6piN09WsNbunZQhq0Uw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/1gWCHJ9nzn8/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Gidee Msd[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCViH2apzWtHFVpdo8tmWFgA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAjDHfA-1yPzRF7Ii6VllwxJK65x76qnYtz1Q=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/AjkNgO3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Can1bais[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC6VKA9RTdnrgQAdBeUbhujg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mA3ShRLpr4tBPw84EZFaxvKJ7EHW5n85ucXLQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://yt3.ggpht.com/3fOnTard61j-ZGPCLkd8zF3M4Ueo9z8Zrlq2PwM7CDdcG0MunH3pwyv6A0XE8fzu6rQf2cPT6w=w1707-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Momento 8 Kids Games[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCwSsGiTc-TtCvjqKs0GkgjA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDNqpFHY4JJ2fqbdja4tbm2fR618RsJBV1dxg=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/BmvddKTayhY/maxresdefault_live.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Pronto pro Jogo?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCaVWUDCC0mSeFxFkgHdfquQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAHSraohAW8tOPaGMyM5HXcooM6JmPqNyJA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/2keYtKv.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Ubisoft Brasil[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCuBwNHXUJY7wg1qcJdq08Yg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mA8gQ1uKjdAhiMBw11v4cCwxWbG0xmxZy8sEA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://www.portallos.com.br/wp-content/uploads/2018/02/Ubisoft-780x405.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Dinossauro GAMER[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCIjquHL0-e5Z5YmmVOPIHpg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBjq8ArHXhiQkCGo8BuFmpu0GC4pTHUIuwfIQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/VltXDawAiyk/maxresdefault_live.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Mazegames Japan[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCzyj8IZrqjYxWwhyaGPeepw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBxwSnG3idQ6LTKiLdzif-eETh1ZWKTq8eaFQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/FYJ_uTCIrSU/maxresdefault_live.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EWSbr[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/EWSbr/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAjnPJjpGcml619eki6mu-6XHqVdQRbBizZfA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-IznWh8yriyg/UoZHHmy5P2I/AAAAAAAAAHc/1NsdsUJLdXcohNOzobbZIhc7fpUhxGmEgCJkCGAYYCw/w1082-h609-n-rw-no/ewsbr.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Velberan[/B][/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/Velberan/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBHq1nL9BHlcJalnJpQrQmVzAo9O9rwt9PAIw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/RUC_bO10RcA/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Diego SHETH Games[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC6ZRxYOOJw2rwtuIerO-lrA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDvTze-hzj_cKwQBg5Ge7b_Bu6s5bHLE8FKAA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://2.bp.blogspot.com/-LERiMFY07fQ/V236oFwGoWI/AAAAAAAAARo/NS9RfZ1WowkbYMQRP3MARg4bXuPgnwL1gCLcB/s1600/face.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Game Play Rj[/B][/COLOR]</title>
+<utube>Gameplayrj/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCvmVr_dObOmg9p-ea8eaATjUQaaYj6e7bj=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://yt3.ggpht.com/WAZGyePZlitrNPev0KJEn76IrQf6CK1Y254PDj7CRE4LCwvSaqoRKA0TnNGHfoSZLPE0FVKR7g=w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Nostalgia dos Games[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC-b8trBZ_s6K4uTrHvYxbSw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAvyjAlzDtzWDtyVfYBdl4TQoUQpFSlpdTW6Q=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/k2qqE8jLLi4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Pai Tambem Joga[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCDiM8gEQZDN158QRgdySEKw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mA_myUjw9kyzvF2hXQVyRjx0Q4xCxzZbEqNxg=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://yt3.ggpht.com/ixLAd1YSFK0P-jl4qKX8uwDdj46BLlAq5xdGnfuL6F0gqAO5NbWrwPtQDwp2xQoHC6YVcUJq=w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]TAG Game[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC64K0rWOspYpZQ2zhBdM5Pw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBiYFtUPIXaqRZ-2qxo9jdtMuUSG2jNNL3LOg=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>http://uploaddeimagens.com.br/images/001/884/177/full/Capturar.PNG?1549578095</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Game Over[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/tvgameover/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDxkrGRCVSJGIgvPjrikRktbZi_MmX-B3ubag=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>http://uploaddeimagens.com.br/images/001/884/183/original/Capturarj.PNG?1549578474</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]IGN Brasil[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCfg4PAgKIurlvYJRhhukv_g/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDL94u8gCPS1XQ3wBhG2XJFms6e3NteIKNU9Q=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://pbs.twimg.com/media/DEdcA1xXkAAvN_o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Sidao do Game[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/sidaosidney/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBWE2x7IuiAy6kIPo0b_X8STKAqo2_hrQeIEw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.ytimg.com/vi/d5AvB6hJKlE/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Gabreuu[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/GDgameplay/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mB9-zDVvim-nBCV7qB9D6sZjXSUNGwlGMkuAw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://i.imgur.com/KsgH7ma.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Combo Infinito[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC_GqAJpzUzTkXzTIXBYXk1w/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mD0Ky90RsdxD9_MGdUANSmlDnvx7FfsBGUl6g=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>http://www.comboinfinito.com.br/principal/wp-content/uploads/2016/06/novo-combo-infinito.jpg</fanart>
+</item>
