@@ -6,7 +6,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR white]SÉRIES gavião[/COLOR][/B]</name>
+<name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://ia601501.us.archive.org/0/items/desenho_202007/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/M-play/MegaPlay/master/Lista%20de%20s%C3%A9ries</externallink>
 <fanart>https://ia601501.us.archive.org/0/items/desenho_202007/fanart.jpg</fanart>
@@ -49,17 +49,4 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[B][COLOR white]TESTE[/COLOR][/B]</name>
-<thumbnail>https://ia601509.us.archive.org/6/items/desenhos_202008/desenhos.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/M-play/MegaPlay/master/Lista%20de%20desenhos</externallink>
-<fanart>https://ia601501.us.archive.org/0/items/desenho_202007/fanart.jpg</fanart>
-<info>
 
-
-[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
