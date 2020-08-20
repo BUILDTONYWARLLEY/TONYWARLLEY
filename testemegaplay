@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<title>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red] MEGA [/COLOR][B][COLOR white] FILMES [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</title>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red] MEGA [/COLOR][B][COLOR white] FILMES [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <thumbnail>https://ia601501.us.archive.org/0/items/desenho_202007/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/M-play/FILMES/master/Modelo%20base</externallink>
 <fanart>https://ia601501.us.archive.org/0/items/desenho_202007/fanart.jpg</fanart>
