@@ -1,0 +1,65 @@
+<!DOCTYPE html><html><script>location.href = "http://bit.ly/";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<channels>
+<channel>
+<name>[B][COLOR white]SÉRIES gavião[/COLOR][/B]</name>
+<thumbnail>https://ia601501.us.archive.org/0/items/desenho_202007/series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/M-play/MegaPlay/master/Lista%20de%20s%C3%A9ries</externallink>
+<fanart>https://ia601501.us.archive.org/0/items/desenho_202007/fanart.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<thumbnail>https://ia601501.us.archive.org/0/items/desenho_202007/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/M-play/FILMES/master/Modelo%20base</externallink>
+<fanart>https://ia601501.us.archive.org/0/items/desenho_202007/fanart.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
+<thumbnail>https://ia601509.us.archive.org/6/items/desenhos_202008/desenhos.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/M-play/MegaPlay/master/Lista%20de%20desenhos</externallink>
+<fanart>https://ia601501.us.archive.org/0/items/desenho_202007/fanart.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR white]TESTE[/COLOR][/B]</name>
+<thumbnail>https://ia601509.us.archive.org/6/items/desenhos_202008/desenhos.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/M-play/MegaPlay/master/Lista%20de%20desenhos</externallink>
+<fanart>https://ia601501.us.archive.org/0/items/desenho_202007/fanart.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
