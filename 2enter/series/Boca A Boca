@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61efa377bb1949c12619764f93db017a2e5015b7&dn=Kissing.Game.S01.PORTUGUESE.720p.NF.WEBRip.DDP5.1.x264-TEPES%5brartv%5d&tr=udp%3a%2f%2f9.rarbg.me%3a2920&tr=udp%3a%2f%2f9.rarbg.to%3a2890&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce</link>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/TvshowsTBR/boca.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+</item>
