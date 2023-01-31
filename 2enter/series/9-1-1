@@ -5,11 +5,8 @@
 
 
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<layoutype>thumbnail</layoutype>
- 
-<channels>
-</channels><channel>
-<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</name>
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title><item>
 
 <item>
 <title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]Piloto - Deixe Ir[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
@@ -75,9 +72,8 @@
 <fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]2ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</name>
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]2ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title><item>
 
 <item>
 <title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]Sobre Pressão/Terremoto[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
@@ -199,9 +195,8 @@
 <fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]3ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</name>
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]3ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title><item>
 
 
 <item>
