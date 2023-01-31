@@ -1,0 +1,47 @@
+<!DOCTYPE html><html><script>location.href = "http://bit.ly/DOWNLOADSTWTUTORIAIS";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<channels>
+</channels><channel>
+<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</name>
+
+			<item>
+				<thumbnail>https://image.tmdb.org/t/p/w342/hiNyjUSTFrbMv3Sc0CxNW2o39az.jpg</thumbnail>
+				<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55fda2c8f931808e902ff9668a649b542cc45642</link>
+			</item>
+			
+			<channels>
+</channels><channel>
+<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]2ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</name>
+					
+			<item>
+				<thumbnail>https://image.tmdb.org/t/p/w342/sIq4SFloM0JSeRNAQVqb5g5zAng.jpg</thumbnail>
+				<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]2ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9aa1ce40ad1c2c5419c1fb4041a3c7b26f82a642</link>
+			</item>
+			
+<channels>
+</channels><channel>
+<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]3ª  Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</name> 
+
+
+			<item>
+				<thumbnail>https://image.tmdb.org/t/p/w342/8QFssOwaWZ3eB60cGwDpfrZBscv.jpg</thumbnail>
+				<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]EPISÓDIOS 01 ao 10[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf8bbf97dfe009108a741d5871038a93d5184de9</link>
+			</item>
+			<item>
+				<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]EPISÓDIOS 11 ao 18[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b18a1003f06b97721c8ce5e22fa9d59f23ddb96f</link>
+			</item>
+			<item>
+				<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]EPISÓDIOS 19 ao 20[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b86054029cfab94c944ec44ad37d93df08bd4fd</link>
+			</item>
