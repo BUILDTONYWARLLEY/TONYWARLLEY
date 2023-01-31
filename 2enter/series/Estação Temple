@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada - DUBLADO[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af9f9df5255a3e8cb0556d31e867993dbc56b432&</link>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/TvshowsTBR/STATEMPLE.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+</item>

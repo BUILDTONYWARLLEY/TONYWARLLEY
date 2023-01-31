@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a0fb52a6e444c701da72c5d0e40393dbe02eb3b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6uGDEESx4tCDTAgfL24fmUNHXfp.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+</item>
