@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31cd81330f359ef6931675670fe0bcd74e1531d3</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/26kGusd7SPQMXPzSpnagIoPCDM2.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white][B]2ª Temporada[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddb8654ba5bca0f557e7b31de3dfb9f1b0cce4c3</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wNILDQFpp5Dswbg2hGSgSo4XQny.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+</item>

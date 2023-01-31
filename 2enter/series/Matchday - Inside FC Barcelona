@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76871AEE473D84219ED7FAD2B7D58F3E75B71E71&dn=COMANDO.TO-Matchday%20%28BR%29%201X&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHB3uysBq2hiyDmkYKrH7QqVXAR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHB3uysBq2hiyDmkYKrH7QqVXAR.jpg</fanart>
+</item>

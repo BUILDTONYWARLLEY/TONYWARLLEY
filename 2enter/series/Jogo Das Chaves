@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fd2cb78e3907ce67996ac0ab1e9f076e3142c04</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXmIy8Bt8aOxNhXUfKZWy0P8d6d.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Q7lSQkCr1FI/maxresdefault.jpg</fanart>
+</item>

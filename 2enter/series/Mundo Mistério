@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2c76e60d9fea2b751b9fac021dcbe061449d5e8&dn=Mystery.Lab.S01.PORTUGUESE.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2830&tr=udp%3A%2F%2F9.rarbg.to%3A2860</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TDA3sIwNh3QxUcLdCeg83bDZRG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TDA3sIwNh3QxUcLdCeg83bDZRG.jpg</fanart>
+</item>
