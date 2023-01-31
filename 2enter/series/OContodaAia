@@ -1,0 +1,25 @@
+<!DOCTYPE html><html><script>location.href = "http://bit.ly/DOWNLOADSTWTUTORIAIS";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+
+<item>
+				<thumbnail>https://image.tmdb.org/t/p/w342/eMA5HMRI84lsc71Jw2qVVeygAr9.jpg</thumbnail>
+				<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa36a727b6581f6a95b177df93684457ef012d93</link>
+			</item>
+			<item>
+				<thumbnail>https://image.tmdb.org/t/p/w342/mYMFEdi4RSveAX4y9eEAGlu9sLF.jpg</thumbnail>
+				<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white][B]2ª Temporada[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bb10a7e9e5482d0aad0892c4355cf3b55f8644e</link>
+			</item>
+			<item>
+				<thumbnail>https://image.tmdb.org/t/p/w342/dtObjwJQchla2CppCQFANo1FysP.jpg</thumbnail>
+				<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white][B]3ª Temporada[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b489848b80b550525dfd918933bb33ada6c82a1</link>
+			</item>

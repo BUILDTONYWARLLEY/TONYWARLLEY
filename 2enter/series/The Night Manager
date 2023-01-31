@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81FEBEBC6582811036804E9A676AB90C63F68D1A&dn=The.night.manager.S01.BluRay.720p.Dual.%c3%81udio%20-%20WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://fanart.tv/fanart/tv/290508/seasonposter/the-night-manager-57ac057e4bab3.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/290508/showbackground/the-night-manager-57ac067a5f6d4.jpg</fanart>
+</item>
