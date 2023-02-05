@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><script>location.href = "http://bit.ly/DOWNLOADSTWTUTORIAIS";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<channels>
+	
+	<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white]FILMES[/COLOR] | [COLOR orangered]GLOBOPLAY=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+		<thumbnail>https://i.imgur.com/BsIpInx.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/FANARTFILMES.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/bobomovie</externallink>
+		<info></info>
+	</channel>
+		<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white]TV SHOWS[/COLOR] | [COLOR orangered]GLOBOPLAY=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+		<thumbnail>https://i.imgur.com/msfU9Ll.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/FANARTFILMES.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/bobotvshow</externallink>
+		<info></info>
+	</channel>
+		    </channels>
