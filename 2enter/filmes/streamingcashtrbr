@@ -3,14 +3,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-	</item>
-		<item>
-		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR black]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR black]APPLE TV=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/u4cytzz.png</thumbnail>
-		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/vixplay</externallink>
-		<info></info>
-	</item>
+
 
 	
 	<item>
@@ -49,8 +42,8 @@
 		<info></info>
 	</item>
 		<item>
-		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR darkslateblue]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR darkslateblue]VIX TV=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/I5ot4pc.png</thumbnail>
+		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR black]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR black]APPLE TV=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B]</title>
+		<thumbnail>https://i.imgur.com/u4cytzz.png</thumbnail>
 		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
 		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/vixplay</externallink>
 		<info></info>
