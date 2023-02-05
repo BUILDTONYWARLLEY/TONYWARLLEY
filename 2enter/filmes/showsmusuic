@@ -1,0 +1,51 @@
+<!DOCTYPE html><html><script>location.href = "http://bit.ly/DOWNLOADSTWTUTORIAIS";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+
+<layoutype>thumbnail</layoutype>
+<channels>
+
+
+<channel>
+<name>[B][COLOR darkgray]##[/COLOR][COLOR white] CONTEÚDO DO YOUTUBE, VERIFIQUE SUA API PARA RODAR [/COLOR][COLOR darkgray]##[/COLOR][/B]</name> 
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/LEIACARALHO.png</thumbnail>
+<externallink>http://</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- SHOWS NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR darkgray]-=[/COLOR][COLOR white][B]Nacionais[/B][/COLOR][COLOR darkgray]=-[/COLOR]</name>
+<thumbnail>https://i.imgur.com/jQ2JS4v.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/brasil</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+<info>[COLOR darkgray][B]Sinopse:[/B][/COLOR] [COLOR white][B]Shows Musicais Nacionais[/B][/COLOR]
+[COLOR darkgray][B]Status:[/B][/COLOR] [COLOR white][B]CONTÉUDO YOUTUBE[/B][/COLOR]
+</info>
+</channel>
+
+<channel>
+<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR darkgray]-=[/COLOR][COLOR white][B]Internacionais[/B][/COLOR][COLOR darkgray]=-[/COLOR]</name>
+<thumbnail>https://i.imgur.com/So5uy5e.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/mundi</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+<info>[COLOR darkgray][B]Sinopse:[/B][/COLOR] [COLOR white][B]Shows Musicais Internacionais[/B][/COLOR]
+[COLOR darkgray][B]Status:[/B][/COLOR] [COLOR white][B]CONTÉUDO YOUTUBE[/B][/COLOR]
+</info>
+</channel>
+
+<channel>
+<name>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR darkgray]-=[/COLOR][COLOR white][B]Gospel[/B][/COLOR][COLOR darkgray]=-[/COLOR]</name>
+<thumbnail>https://i.imgur.com/eMKOnXP.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/gospel</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+<info>[COLOR darkgray][B]Sinopse:[/B][/COLOR] [COLOR white][B]Shows Musicais Mundo Gospel[/B][/COLOR]
+[COLOR darkgray][B]Status:[/B][/COLOR] [COLOR white][B]CONTÉUDO YOUTUBE[/B][/COLOR]
+</info>
+</channel>
