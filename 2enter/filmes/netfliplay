@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><script>location.href = "http://bit.ly/DOWNLOADSTWTUTORIAIS";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<channels>
+	
+	<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR red]-=[/COLOR][COLOR white]FILMES[/COLOR] | [COLOR red]NETFLIX=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+		<thumbnail>https://i.imgur.com/40ogkFy.png</thumbnail>
+		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/netflimovies</externallink>
+		<info></info>
+	</channel>
+		<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR red]-=[/COLOR][COLOR white]TV SHOWS[/COLOR] | [COLOR red]NETFLIX=-[/COLOR][/B] [B][COLOR yellow](ADICIONANDO...)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+		<thumbnail>https://i.imgur.com/Ol6ev6s.png</thumbnail>
+		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+		<externallink>https://</externallink>
+		<info></info>
+	</channel>
+		    </channels>
