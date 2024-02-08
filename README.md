@@ -1,5 +1,5 @@
 # Repo TonyWarlley link alternativo:
-http://megarepo.online
+http://megarepo.site
 
 Addon modificado por TWTUTORIAIS o TERROR DO ZÉ DROGUINHA...KKKK
 
