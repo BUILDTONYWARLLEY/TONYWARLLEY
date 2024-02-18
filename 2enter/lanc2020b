@@ -4,16 +4,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-<item>
-<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR red]-=[/COLOR][COLOR white][B]Mamonas Assassinas - O Filme[/B][/COLOR] [B][COLOR yellow] (2024)[/COLOR][/B] - [COLOR lime][B](HD720) (FULLHD)[/B][/COLOR][COLOR red]=-[/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND&dn=VAMOSTORRENT.COM..MKV.Mamonas%20Assassinas%20-%20O%20Filme%202023%20WEB-DL%201080p%20x264%20NACIONAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-<thumbnail>https://image.tmdb.org/t/p/original/a9WSbduA4pUCAx7eMWsu0Jpn52D.jpg|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wGDO9HOAP82DOZc0VaOKV1FV7gp.jpg|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</fanart>
-<info>[COLOR yellow][B]Sinopse:[/B][/COLOR] [COLOR white][B]Estamos em Guarulhos na década de 90. Dinho, Sérgio, Samuel, Julio e Bento são garotos típicos da época com pouco dinheiro e muitos sonhos. Eles nem imaginam que o humor debochado e inteligente, tão característico do grupo de amigos, irá mudar suas vidas para sempre. De algumas tentativas fracassadas ao sucesso absoluto, em pouco tempo, eles se tornaram o maior fenômeno musical brasileiro da década: os Mamonas Assassinas..[/B][/COLOR]
-[COLOR lime][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2024[/B][/COLOR]
-[COLOR lime][B]Gênero:[/B][/COLOR] [COLOR white][B]Comédia, Música[/B][/COLOR] 
-</info>
-</item>
 
 
 <item>
@@ -23,6 +13,17 @@
 <fanart>http://nuncaseraojamaisserao.site/.home/cuzoes/cuzoes2/newup/TorrentBR/filmes/FANARTFILMES.jpg</fanart>
 <info>
 [COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR red]-=[/COLOR][COLOR white][B]Mamonas Assassinas - O Filme[/B][/COLOR] [B][COLOR yellow] (2024)[/COLOR][/B] - [COLOR lime][B](HD720) (FULLHD)[/B][/COLOR][COLOR red]=-[/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND&dn=VAMOSTORRENT.COM..MKV.Mamonas%20Assassinas%20-%20O%20Filme%202023%20WEB-DL%201080p%20x264%20NACIONAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/original/a9WSbduA4pUCAx7eMWsu0Jpn52D.jpg|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wGDO9HOAP82DOZc0VaOKV1FV7gp.jpg|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</fanart>
+<info>[COLOR yellow][B]Sinopse:[/B][/COLOR] [COLOR white][B]Estamos em Guarulhos na década de 90. Dinho, Sérgio, Samuel, Julio e Bento são garotos típicos da época com pouco dinheiro e muitos sonhos. Eles nem imaginam que o humor debochado e inteligente, tão característico do grupo de amigos, irá mudar suas vidas para sempre. De algumas tentativas fracassadas ao sucesso absoluto, em pouco tempo, eles se tornaram o maior fenômeno musical brasileiro da década: os Mamonas Assassinas..[/B][/COLOR]
+[COLOR lime][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2024[/B][/COLOR]
+[COLOR lime][B]Gênero:[/B][/COLOR] [COLOR white][B]Comédia, Música[/B][/COLOR] 
+</info>
 </item>
 
 <item>
