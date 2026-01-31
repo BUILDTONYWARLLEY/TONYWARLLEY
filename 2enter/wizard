@@ -877,7 +877,7 @@ description="**NOVA AREA de TESTES**"
 
 name="VIP - TESTES NãO INSTALE - TONYWARLLEY K21"
 version="1.0"
-url="http://archive.org/download/21.3semlogo/21.3semlogo.zip"
+url="http://archive.org/download/new26semlogo/new26semlogo.zip"
 gui="http://"
 kodi="21"
 theme="http://"
@@ -2687,5 +2687,6 @@ preview="http://"
 adult="no"
 
 description="THEMA THE WALKING DEAD KODI 16"
+
 
 
