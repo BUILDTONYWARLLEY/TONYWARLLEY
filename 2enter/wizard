@@ -2,7 +2,7 @@ name="[B][COLOR cyan]##[/COLOR][COLOR indigo] NOVAS Builds 2026 TWTUTORIAIS KODI
 version="0.0"
 url="http://"
 gui="http://"
-kodi="20"
+kodi="21"
 theme="http://"
 icon="https://i.imgur.com/LfJkd7E.jpeg"
 fanart="http://"
@@ -2712,6 +2712,7 @@ preview="http://"
 adult="no"
 
 description="THEMA THE WALKING DEAD KODI 16"
+
 
 
 
