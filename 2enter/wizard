@@ -23,6 +23,18 @@ adult="no"
 description="**LANÇAMENTO 2026 EXCLUSIVO ** - CORRIGIDOS ATALHOS - NOVO LAYOUT - FLIXPREMIUM TWTUTORIAIS LITE - NOVA ATUALIZAÇÃO - 
  - NOVAS CORES - CORRIGIDOS ATALHOS DOS ADDONS - TBM FORAM CORRIGIDOS TODOS BUGS, JÁ INCLUINDO O NOVOS ADDONS TORRENTBR, ADICONADO A NOVA KODISH STORE, A NOVA MEGAREPO O NOVO WIZARD BUILDS"
 
+name="BUILD CARBON FULL 2026 TWTUTORIAIS KODI 21 OFFICIAL - BUILDS TWTUTORIAIS"
+version="1.0"
+url="http://archive.org/download/full26elementok/full26elementok.zip"
+gui="http://"
+kodi="21"
+theme="http://"
+icon="https://i.imgur.com/6n22mIi.jpeg"
+fanart="https://i.imgur.com/6n22mIi.jpeg"
+preview="https://youtu.be/BDKdJITk-74"
+adult="no"
+description="** NOVA BUILD 2026 - LANÇAMENTO EXCLUSIVO PARA CENTRAL MULTIMÍDIA ANDROID ** - BUILD FULL CARBON TWTUTORIAIS KODI 21 OFFICIAL - NOVO LANÇAMENTO EXCLUSIVO CENTRAL MULTIMÍDIA ANDROID - INCLUSO NOVO TORRENTBR EXCLUSIVO, BUILD TOTALMENTE NOVA - UM NOVO CONCEITO EM BUILD - TOTALMENTE CONFIGURADA E MODIFICADA POR MIM, APENAS COM ADD-ONS LIMPOS E CONFIAVEIS, NOVOS ADD-ONS, NOVO LAYOUT, UM OBRA PRIMA MODIFICADA E CONFIGURADA POR MIM, O THE KING OF KODI BR, O RESTO É RESTO - QUE DÓ DAS FORMIGUINHAS - NÃ0 VIVO DO KODI OU DE KODI - FAÇO POR USO E GOSTO - NUNCA SERÃO, JAMAIS SERÃO..."
+
 name="[B][COLOR indigo]##[/COLOR][COLOR cyan] NEW Builds VIPS TWTUTORIAIS KODI NEXUS + [/COLOR][COLOR indigo]##[/COLOR][/B]"
 version="0.0"
 url="http://"
@@ -893,18 +905,6 @@ version="1.0"
 url="http://archive.org/download/2026_20260114_202601/2026.zip"
 gui="http://"
 kodi="18"
-theme="http://"
-icon="https://i.imgur.com/iWIV3JI.jpg"
-fanart="http://"
-preview="https://youtu.be/BDKdJITk-74"
-adult="no"
-description="**NOVA AREA de TESTES**"
-
-name="VIP - TESTES NãO INSTALE - TONYWARLLEY K21"
-version="1.0"
-url="http://archive.org/download/full26elementok/full26elementok.zip"
-gui="http://"
-kodi="21"
 theme="http://"
 icon="https://i.imgur.com/iWIV3JI.jpg"
 fanart="http://"
@@ -2712,6 +2712,7 @@ preview="http://"
 adult="no"
 
 description="THEMA THE WALKING DEAD KODI 16"
+
 
 
 
